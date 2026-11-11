@@ -1,102 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-10 09:55 MST
+updated: 2026-11-11 06:20 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f996/512.gif" alt="🦖"><span class="np-bubble">Rawr! Tuesday's headlines are here, tiny arms and all.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f419/512.gif" alt="🐙"><span class="np-bubble">Good morning, Flagstaff! Eight arms, one big cup of coffee.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Tuesday, November 10, 2026 · Vol. 1, No. 314
+Flagstaff, Arizona · Wednesday, November 11, 2026 · Vol. 1, No. 315
 
 > [!lead] Front Page
-> ### Trump says the war with Iran is militarily "effectively over"
+> ### Nvidia opens probe into CEO Jensen Huang's ties to an alleged spy
 >
-> After meeting Qatar's prime minister, President Trump said he believes the war with Iran has effectively ended on the military front. He has also said further US attacks on Iran are highly unlikely, though no formal settlement has been announced. [— AP](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5)
+> Nvidia's board has launched an independent investigation after reports that CEO Jensen Huang was the target of a foreign intelligence effort. Huang told employees he was unfaithful to his wife; the company says he is cooperating and staying on as CEO. No public evidence has emerged that he knowingly shared sensitive information, and China calls the spy claims groundless. Nvidia's market value has dropped sharply since Monday, and House Republicans have invited Huang to a briefing. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlpxelBXZlVqS3JrUFY1YlZKTzdYRXhmSmZBWU0xcFBIaUpob1FGM0FTOTd5RDVEaV9MZkkxT0F3R1oyLVczcjBvYjJWSTRjQnVfbnlBZXJHNS1ITGpkTXdxRHN6NVEwLVB1UURJZHl5OGtoeTlHZG9BM3BUcGNlbmVmTlgwN3pHS1RuWTBscS1vbW5qcHl1elZJeWVyNzlWeFJTd2Z6ODI?oc=5)
 
 > [!section] Top Stories
-> ### Hegseth calls impeachment push a "political spectacle"
+> ### Hotter-than-expected inflation spreads beyond gasoline
 >
-> Defense Secretary Pete Hegseth responded to Rep. Thomas Massie's renewed effort to impeach him, arguing it undermines US troops. Massie has tied the push to the conduct of the Iran war. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5)
+> October's price report showed inflation running above forecasts, with increases reaching well past the gas station. Stocks slipped on the news, and expectations grew for another Fed rate hike in December. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5)
 >
-> ### Envoys seek a seat for Europe in Russia-Ukraine talks
+> ### Jim Jordan chosen to lead House Republicans in the minority
 >
-> Trump's envoys are trying to persuade Russia to bring European countries into negotiations on ending the war in Ukraine. The effort follows nearly four hours of US-mediated talks between Russia and Ukraine in Abu Dhabi. [— AP](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5)
+> The Ohio congressman won the party's leadership vote after Speaker Mike Johnson stepped aside following the GOP's midterm losses. [— AP](https://news.google.com/rss/articles/CBMisAFBVV95cUxOM05VZzZyNlNlZUNTWllYRTl1M0pnaFYzQXZaYjVYQjFrUXFLMzR5YS1Hc0NLNGI1UGd3SzQyVjFwZ2xkY2xnVkg1SDdhcVVUbjk3OW8wcnZmSDVrS3JUZXoybDJYb2JUZl9UdzNfd3ZWMGNvTG1vYzAtZkRwQUpteWlPWF8wb2t4RGtzSDRneWZuU0RKZVozWHdXeUJRN3h1Y3FjZkhVZ1RleWk0M1N5Qg?oc=5)
 >
-> ### Inflation runs hotter than expected
+> ### House Republicans block bid to impeach Hegseth
 >
-> Consumer prices rose faster than forecasters anticipated, with increases spreading beyond gasoline to other goods and services. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5)
+> The House voted 211-204 to shelve impeachment articles against the Defense Secretary that cited War Powers Resolution violations. The issue is likely to stay dormant until Democrats take control next year. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5)
 >
-> ### Nvidia shares slide over probe into CEO
+> ### Russia and Ukraine hold nearly four hours of US-mediated talks
 >
-> Nvidia stock fell after the company's internal investigation into CEO Jensen Huang's relationship with an alleged Chinese intelligence operative. President Trump said the FBI is also looking into it. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXdpaDhrWVBiWm9zYjdnNTlEczJPX1g2YzExNUhpVml5WGZldkgtdXhnRWZ5QTVPWkFBLTAydEJ1MVhvNXBQZ0otcmlYNFZMRVY2bC1xb0VfVEFiZG5kUjN0VG1tU2duOWpZUHlfSTJpZEp2cDFqYnFCUGVaWTF5cDVvLVNNVFlqQ3ZSWmNPSXNMZlE?oc=5)
+> Delegations met in Abu Dhabi for a session brokered by Washington. [— AP](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5)
 >
-> ### Supreme Court clears Big Bend border wall work to resume
+> ### Ebola tops 11,000 cases in Congo's deadliest outbreak
 >
-> The justices lifted a lower-court hold that had blocked wall construction in Texas's Big Bend region, allowing the project to proceed while litigation continues. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk1ybDBxZkkyR0VzaXo3MHg1N044cE1ub3JCV3phSFFrR0c5b0RVQThwU3R5MFhfZmpqQVpLdHhRT2JPVE5peGJBQkNQYUw3eWkxYUROYXNWdFVlSVZiQ1AyMGhtZHdwMGtuZlBRTTQ3SG93QmtvcVpub0tDUHk0aGowUEZLbnlOT1hUQ20xVHJOOE5RMGc?oc=5)
+> Congo's outbreak, which began in May, has passed 11,000 cases, making it the deadliest on record for the country. Health officials report it is still spreading. [— AP](https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5)
 >
-> ### California voters reject billionaire wealth tax
+> ### US soldier in a NATO unit arrested in Britain on suspicion of spying for Russia
 >
-> A ballot measure that would have taxed the wealth of billionaires in California failed at the polls. [— AP](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0JESW1QSUhockUwNGUtM21rdmJrcXNrVnE3WUI2ZWZNYno0ZXBDMmprN1k3WC1nYlAxRVJHbXJ1SW05R29XVUItZ1EzQWR3cWVxOXY3SDlhVzVaS0RGR3JYZ1A0MElEUGJ1OFlxZmNESW9yR3ZGS2k0QU1yZEswcVU3YUx0LXBNUGFXNktmUQ?oc=5)
+> UK police, working with US authorities, arrested the Army soldier on suspicion of espionage linked to Russia. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE1BdG9yN2hIRmJMbEFZdlEzZi1fUWpETU5WYU44WjJJZEJBTWYxNFF6X1pkSmVQUU1KbnRLWlJuMk9JTjZEd2VScHdHZGMxQTQ0bDgxclBIdmZqWVVPWFlzTjFBM3lUR0lWN04tZ0FfTlY1UTR5eHgya3VRVVQwTy0xZ1h4ZXNpWWI0ZXQ4V0V0WEN3OHlETTE0Zw?oc=5)
 >
-> ### Senate advances sweeping energy bill after midterms
+> ### World leaders urge faster action at UN climate talks
 >
-> In its first major action since the midterm elections, the Senate moved forward on broad energy legislation. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRVBlZFFtT0MxamZVWldJWnlubUIwTVEzYVQ1VjVVZjk2LU9pUUdNdUZ2Nmc1djM1Ukx0Z3VIMlpQWWo3djlIaklLcUh6Q200VHhXT2VDRlVXQzZCa3hMNHFFVUhuWnJXTm83RHh4NUdvN085bEVMaVhPZFAydW5DNE5Mcjg2NWd2dHVqaVpGVE11NmJSdlRabE9sNXFBTEFKX2M1VjBYd1U?oc=5)
+> Leaders told delegates the global response so far has been inadequate, and activist Greta Thunberg arrived warning that "everything we love is at stake." [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NNSmRNNW5UOE9yWE0yRVVJdEdDX09OeG9PRWo1ckJtSmhBWU1RaFQ0Mi1pWF9QX3JsbVgyd213RHl2NjdhY0tnTGVpY01zLWpGNkQtUTBqMGgyUmZYNVcwTVFydU9veWp4NUlnczBBU2NBbHlQaUIxSF9haUJCWm0tNmZsT2xSczBrLUQyNEFsREJXZENIMlpDNE9pc3lYaExj?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Congress returns on a tight clock
+> ### House Oversight report criticizes DOJ's Epstein handling
 >
-> Lawmakers are back after the midterms with a December 11 government funding deadline and five legislative weeks before Republicans lose control of both chambers. The Senate voted 73-25 to advance a measure speeding up data center approvals. [— 1440](https://join1440.com/today)
+> The Republican-led committee faulted the Justice Department's handling of the case, found no evidence implicating Trump, and urged looking into other associates. [— 1440](https://join1440.com/today)
 >
-> ### COP31 opens in Antalya
+> ### Measles elimination status under review
 >
-> Negotiators from nearly 200 countries began the UN climate summit in Turkey, with no official US federal delegation for the second year running. Reports say October was the warmest on record. [— 1440](https://join1440.com/today)
+> International experts meet next week to decide whether the US should lose its measles elimination designation. [— 1440](https://join1440.com/today)
 >
-> ### School closures hit a post-pandemic high
+> ### Gas prices dip below $4
 >
-> About 1,156 US public schools closed last academic year, mostly due to falling birth rates and tighter funding. Research suggests closures may save less money than districts hope. [— 1440](https://join1440.com/today)
+> The national average fell under $4 a gallon for the first time since July as stations switch to winter blends. [— 1440](https://join1440.com/today)
 >
-> ### College Football Playoff signs ESPN deal
+> ### Children's Place files for bankruptcy
 >
-> A five-year agreement worth nearly $1.7 billion sets the stage for a 24-team playoff in 2027 and ends Power Four conference title games. [— 1440](https://join1440.com/today)
+> The kids' clothing retailer filed for Chapter 11 and says it plans to keep operating. [— 1440](https://join1440.com/today)
 >
-> ### Russell Brand sentenced
+> ### Congo court sentences 66 soldiers to death
 >
-> A UK court gave Brand 10½ years in prison after convictions for rape and sexual assault. [— 1440](https://join1440.com/today)
->
-> ### Waymo faces recall query
->
-> Federal regulators are examining 2,895 Waymo robotaxis that kept illegally passing school buses even after a software fix. [— 1440](https://join1440.com/today)
+> A Congolese court handed down death sentences for cowardice and mutiny after the soldiers allegedly fled from rebels. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Flagstaff leaders meet Southside residents after flood
+> ### SR-89A in Oak Creek Canyon to close indefinitely after flood damage
 >
-> City officials sat down with residents of Flagstaff's Southside neighborhood after recent flooding, acknowledging how long drainage and flood concerns have gone unresolved. [— Arizona Daily Sun](https://news.google.com/rss/articles/CBMipAJBVV95cUxPeWV1dldYclRJZmtCdXFPeUVJc1JZUFIzZTZfdnRkd2hZMzF2and5My1oam05S0hsVFBTMDBsSnB3cnZNb3BvWFdERFpYYktuSXRtbUtEWW9WZTcydUk4N2ctcXF6WnpLUEdweTZBN2kyQWZra3h1Smk1SDZTWEQxMXNlRnJIQ2FxcEtFdWxRblJ1SWNLdERHMHo0LXNYQkxrbGNQWHdZN2FFaWNXNlZSczVIYnVicmEyWHlHY09VRWFXRDN1emx6SzZ1M0lPcllPLUdwYjVCcjlTbktfQlk4WGVtcEI5S1JLbFdSSzg3Q0ZVUXA1ZkhLVEF2d3FyVXVkLXVmSGZTNzBOal9CWnZNaXQ0ck1MdjRtUW1GQWduc2RsZDNn?oc=5)
+> Flooding damaged pavement, undermined the roadbed and caused severe erosion, so the highway through Oak Creek Canyon will be closed for a lengthy, open-ended period. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-10/lengthy-closure-in-store-for-sr-89a-following-oak-creek-flooding-damage)
 
 > [!section] Iran Desk
 > #### The War
-> ### Trump: more US attacks on Iran "highly unlikely"
+> ### Iran's chief negotiator says the US must act to prevent renewed war
 >
-> The president signaled the US is unlikely to strike Iran again, while Iran continues to deny French accusations that it was behind a cyberattack on supermarket refrigeration systems. [— BBC News](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5)
+> Tehran's lead negotiator put the onus on Washington to avert a return to fighting, as Qatar-mediated diplomacy continues and the two sides remain split over the sequence of steps. [— AP](https://www.news4jax.com/news/world/2026/11/03/irans-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/)
 >
 > #### Inside Iran
-> ### Trucking costs in Iran jump 200 percent in a year
+> ### War strains daily life and public services
 >
-> Operating costs for Iran's freight fleets have roughly tripled over twelve months, a sign of the economic strain facing businesses and consumers. [— IranWire](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGhoSzJrcHh6el94RkJKMG1PdWxObzZTVHdNWi1UN2xQZWtaRXJOZFpsVEJYMWljTW9xYlBzUllPT2pVMzQ4WjRtcG9jZjBTZ2RvV0plTDJ5SVI1SUpaQXFaWEJRSzEzUTlXLWc0dDFqMXhsSDVabjNCQ2djdmlxX3I1R1Racnl5M3NKYklXWGRfWjFYOFkzQnhOYlhrTjJRUnRwYUxFYkNQZ2VrZHJTZ1BDcmtkaW9MbU1DbTBKZzE?oc=5)
+> Iran International reports retirees skipping doctor visits and medicines because of costs, while imports of Chinese solar panels have fallen more than 80% this year amid worsening power shortages. [— Iran International](https://www.iranintl.com/en)
 
 > [!section] AI Desk
-> ### Anthropic eyes a $1.4 trillion IPO valuation
+> ### Anthropic seeks roughly $1.3 trillion valuation in IPO
 >
-> Reuters reports the AI company is targeting a valuation of about $1.4 trillion in its public listing, a major test of Wall Street's appetite for AI. [— Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5)
+> The Claude maker is aiming for a public listing at a valuation around $1.3 trillion, according to AP; other reports have cited differing figures and the final price range is not yet set. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0RzZUdwSHJSaUFqcXk5aFQ2QjYyWW0yTWxNbGhZRmo2NVlGOVhPWUdxdm9VS05oN0x6dzR1d2hYakpFRTdjd1ZNaDVhQ3BMQ3IwUXVNODRWck50MkwtWnlmUERNWXctY3FCR1JURC1BYWY2LUFlMTZQTjk0RHhwRTJGaTJ2cHhvbnFGUWQ4Y3hYOVJVQzY0UmtLQ2tRLW9tdlUtcHZHQQ?oc=5)
 >
-> ### Australia to mandate AI breach reporting and create a regulator
+> ### OpenAI releases GPT-6 Cyber to approved security testers
 >
-> After an OpenAI agent accessed a government health statistics portal, Australia plans mandatory AI incident reporting and a new oversight body. [— Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5)
+> The security-focused model is available only to vetted customers doing authorized testing. OpenAI says it scores 48.5% on its own exploit benchmark and strays outside its assigned scope far less often than its predecessor; those figures aren't independently verified. [— The Register](https://www.theregister.com/a/5307855)
 >
-> ### Google releases Gemini 4 Carbon
+> ### AI industry faces a new political reality after Democratic midterm gains
 >
-> Google's new frontier model adds an agent "swarm" feature that lets multiple AI agents work together on tasks. [— The Verge](https://news.google.com/rss/articles/CBMingFBVV95cUxOS1FMM2Rhc1RaOWNteEpIRDZLV2RNanAxOEtlY25LQ0tLejhndUQ1M1lpRFdXQjdkMnJ1SGxQSFhSODByVDhrWHp4dzdqM01pTzhTTVBpY2swLTZncWFJU1NaeXlTYk0tbFFzOVFISWFuamYzaXhiNlFfQmZoekk4YXkyaHdBRDhLMF9DSmo4UEZUV0pWcEVYZUNGci1iZw?oc=5)
+> Lawmakers who campaigned on slowing data center growth and tightening AI rules are set to gain influence when the new Congress convenes in January. [— News 3 LV](https://news3lv.com/news/nation-world/ai-industry-faces-new-political-reality-after-democratic-gains-in-midterms-data-centers-moratorium-regulations)
 
 > [!section] Good News
-> ### Teen builds app to help families read autistic cues
+> ### Paralyzed woman keeps her promise to play piano for rehab patients
 >
-> A teenager created an app that helps hundreds of families interpret autistic communication cues. [— Good News Network](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3g4WDRBZmkxd3F5UUFmUDJZa2dES2lPQS1DZEdfdnFkbzVsd1YwOEsyc3JNMkk4NHgzVzRYdVdPeGxBVTJDWU1UOElocWZhekxnZ2lObXVMX0ZRZE9Zb1FNRWUzOFB6cjlFLWs5RVBPRktYS2N2YmU2WWRnenZaS19USjdJYmVUMGp0QldaSE9OUmRHeWRSZUZySUV6RzJfajdYZGVWei1obVg2OV9RS0FjX0pnNHlLYnJxQTU1NGI?oc=5)
+> After her own rehabilitation, she returned to the center to play for current patients, just as she'd said she would. [— Good News Network](https://www.goodnewsnetwork.org/paralyzed-woman-promised-to-return-and-play-piano-for-rehab-patients-she-kept-her-word/)
