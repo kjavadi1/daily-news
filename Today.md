@@ -1,98 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-11 06:20 MST
+updated: 2026-11-12 06:20 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f419/512.gif" alt="🐙"><span class="np-bubble">Good morning, Flagstaff! Eight arms, one big cup of coffee.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.gif" alt="🦄"><span class="np-bubble">Good morning, Flagstaff! Happy Thursday, make it a little magical.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Wednesday, November 11, 2026 · Vol. 1, No. 315
+Flagstaff, Arizona · Thursday, November 12, 2026 · Vol. 1, No. 316
 
 > [!lead] Front Page
-> ### Nvidia opens probe into CEO Jensen Huang's ties to an alleged spy
+> ### Democrat Scott Colom wins Mississippi Senate seat
 >
-> Nvidia's board has launched an independent investigation after reports that CEO Jensen Huang was the target of a foreign intelligence effort. Huang told employees he was unfaithful to his wife; the company says he is cooperating and staying on as CEO. No public evidence has emerged that he knowingly shared sensitive information, and China calls the spy claims groundless. Nvidia's market value has dropped sharply since Monday, and House Republicans have invited Huang to a briefing. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlpxelBXZlVqS3JrUFY1YlZKTzdYRXhmSmZBWU0xcFBIaUpob1FGM0FTOTd5RDVEaV9MZkkxT0F3R1oyLVczcjBvYjJWSTRjQnVfbnlBZXJHNS1ITGpkTXdxRHN6NVEwLVB1UURJZHl5OGtoeTlHZG9BM3BUcGNlbmVmTlgwN3pHS1RuWTBscS1vbW5qcHl1elZJeWVyNzlWeFJTd2Z6ODI?oc=5)
+> The Associated Press called the race for Democrat Scott Colom, who led Republican Sen. Cindy Hyde-Smith by roughly 4,600 votes, about half a percentage point. Per 1440's summary, Hyde-Smith has conceded. Colom will become the state's first Black U.S. senator since Reconstruction, and more than a dozen other races nationwide remain uncalled a week after Election Day. [— AP](https://news.google.com/rss/articles/CBMipgFBVV95cUxObGNuUXNneXVWaFk1SjdDUnJmcVM1TjFDc2FQckV3NmZMUDZPUndHdjEybjJwUktLbE9qMkdmRjc5UzJ3QkhWNHRIREQ1UkpJbjdQeEhaNzFLamE2ZlhtQUp2cmdFYkZ4eUpKcnc2a2Q4NXlKdjc3azhSbmUwbEhSamM2d0wtVVNDZURqWWtnY1ZmV2FlRVhRUENLcGJDaUFTUFBjVEd3?oc=5)
 
 > [!section] Top Stories
-> ### Hotter-than-expected inflation spreads beyond gasoline
+> ### Russia and Ukraine agree to a large prisoner exchange
 >
-> October's price report showed inflation running above forecasts, with increases reaching well past the gas station. Stocks slipped on the news, and expectations grew for another Fed rate hike in December. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5)
+> After US-mediated talks, the two sides agreed in principle to a big swap of prisoners of war, which could take place within weeks, but the talks produced no major step toward ending the war. [— AP](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5)
 >
-> ### Jim Jordan chosen to lead House Republicans in the minority
+> ### Israeli strike on Gaza hospital kills 6, health officials say
 >
-> The Ohio congressman won the party's leadership vote after Speaker Mike Johnson stepped aside following the GOP's midterm losses. [— AP](https://news.google.com/rss/articles/CBMisAFBVV95cUxOM05VZzZyNlNlZUNTWllYRTl1M0pnaFYzQXZaYjVYQjFrUXFLMzR5YS1Hc0NLNGI1UGd3SzQyVjFwZ2xkY2xnVkg1SDdhcVVUbjk3OW8wcnZmSDVrS3JUZXoybDJYb2JUZl9UdzNfd3ZWMGNvTG1vYzAtZkRwQUpteWlPWF8wb2t4RGtzSDRneWZuU0RKZVozWHdXeUJRN3h1Y3FjZkhVZ1RleWk0M1N5Qg?oc=5)
+> Gaza's Health Ministry said the strike killed six people, among them a doctor and a child. It is the latest deadly incident involving medical facilities in the territory. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5)
 >
-> ### House Republicans block bid to impeach Hegseth
+> ### Death toll reaches 6 in Brooklyn building collapse
 >
-> The House voted 211-204 to shelve impeachment articles against the Defense Secretary that cited War Powers Resolution violations. The issue is likely to stay dormant until Democrats take control next year. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5)
+> Rescuers continued digging through rubble in Brooklyn as the number of confirmed dead rose to six, after earlier reports of five dead and people trapped. [— AP](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTF0bXlzSWlmLWlkQWl1aE1xZzFRNjVtTXJtOFV4bUtGd2JQeGx0bjJ1bjRCQ2pUVFN2ejd2ZU5NZE5MVTdSNGpZbjU4RVV4MDVsQnRtLUZHV09LS0NYeWY1OGVaVkdWYk10Vy00UzdJY1lpSUYza2dWVGY3aC1vS3dCbDE2OVlHNHB5VVJYSDBSZi05eVNLcXRsMDZDWkJFZmYtMGxsN2hjQQ?oc=5)
 >
-> ### Russia and Ukraine hold nearly four hours of US-mediated talks
+> ### Indonesia's vice president resigns
 >
-> Delegations met in Abu Dhabi for a session brokered by Washington. [— AP](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5)
+> The vice president stepped down after sustained questions about his eligibility for office and his academic credentials, which courts and lawmakers had been scrutinizing in recent weeks. [— AP](https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE80VHB2dlMwYkZpM2p1UUdyV0toU0V6TDdvS044OWRteHdVSWltUzJtLUZtd3oyUlpFZHZpd0gzUDdqOWMzTHZQMjM2VDYyR0Y0YkFaSm15dnFHRHM0b3o5ZDU1ME9OcVZ4aGNqWGVSZ1hLdHBIajVMMENZSGEwZVFDeWlwVUFEUGJqQ0s0QlUzVnZPNHpNcWllT1ZveXZZNlE?oc=5)
 >
-> ### Ebola tops 11,000 cases in Congo's deadliest outbreak
+> ### Wall Street nearly recovers last week's sell-off
 >
-> Congo's outbreak, which began in May, has passed 11,000 cases, making it the deadliest on record for the country. Health officials report it is still spreading. [— AP](https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5)
+> AI-related stocks rebounded, pulling US indexes close to where they stood before last week's drop, even as global markets were mixed amid worries about Nvidia. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5)
 >
-> ### US soldier in a NATO unit arrested in Britain on suspicion of spying for Russia
+> ### Leaders press for faster action at UN climate talks
 >
-> UK police, working with US authorities, arrested the Army soldier on suspicion of espionage linked to Russia. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE1BdG9yN2hIRmJMbEFZdlEzZi1fUWpETU5WYU44WjJJZEJBTWYxNFF6X1pkSmVQUU1KbnRLWlJuMk9JTjZEd2VScHdHZGMxQTQ0bDgxclBIdmZqWVVPWFlzTjFBM3lUR0lWN04tZ0FfTlY1UTR5eHgya3VRVVQwTy0xZ1h4ZXNpWWI0ZXQ4V0V0WEN3OHlETTE0Zw?oc=5)
+> World leaders told the summit that countries' efforts so far fall short and called for quicker, stronger steps to cut emissions. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NNSmRNNW5UOE9yWE0yRVVJdEdDX09OeG9PRWo1ckJtSmhBWU1RaFQ0Mi1pWF9QX3JsbVgyd213RHl2NjdhY0tnTGVpY01zLWpGNkQtUTBqMGgyUmZYNVcwTVFydU9veWp4NUlnczBBU2NBbHlQaUIxSF9haUJCWm0tNmZsT2xSczBrLUQyNEFsREJXZENIMlpDNE9pc3lYaExj?oc=5)
 >
-> ### World leaders urge faster action at UN climate talks
+> ### Ebola passes 11,000 cases in Congo's deadliest outbreak
 >
-> Leaders told delegates the global response so far has been inadequate, and activist Greta Thunberg arrived warning that "everything we love is at stake." [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NNSmRNNW5UOE9yWE0yRVVJdEdDX09OeG9PRWo1ckJtSmhBWU1RaFQ0Mi1pWF9QX3JsbVgyd213RHl2NjdhY0tnTGVpY01zLWpGNkQtUTBqMGgyUmZYNVcwTVFydU9veWp4NUlnczBBU2NBbHlQaUIxSF9haUJCWm0tNmZsT2xSczBrLUQyNEFsREJXZENIMlpDNE9pc3lYaExj?oc=5)
+> The outbreak in Congo has now topped 11,000 cases, making it the deadliest the country has recorded. [— AP](https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5)
 
 > [!section] The 1440 Briefing
-> ### House Oversight report criticizes DOJ's Epstein handling
+> ### Russia and Ukraine agree to prisoner swap in principle
 >
-> The Republican-led committee faulted the Justice Department's handling of the case, found no evidence implicating Trump, and urged looking into other associates. [— 1440](https://join1440.com/today)
+> Two days of US-mediated talks in Abu Dhabi ended without a breakthrough, but both sides agreed to a large exchange that could happen in two to three weeks. [— 1440](https://join1440.com/today)
 >
-> ### Measles elimination status under review
+> ### Nvidia falls on reports about its CEO
 >
-> International experts meet next week to decide whether the US should lose its measles elimination designation. [— 1440](https://join1440.com/today)
+> Nvidia shares dropped more than 8% after hours on reports of an alleged affair involving CEO Jensen Huang and a possible board move to remove him; the reports were not confirmed. Stocks overall rose, with the S&P 500 up 1.3%. [— 1440](https://join1440.com/today)
 >
-> ### Gas prices dip below $4
+> ### Bomb threats hit schools across Europe
 >
-> The national average fell under $4 a gallon for the first time since July as stations switch to winter blends. [— 1440](https://join1440.com/today)
+> About 6,300 Italian schools and more than 700 in Scotland and Northern Ireland received bomb threats, and the source was unclear. [— 1440](https://join1440.com/today)
 >
-> ### Children's Place files for bankruptcy
+> ### Spain holds first general strike in 14 years
 >
-> The kids' clothing retailer filed for Chapter 11 and says it plans to keep operating. [— 1440](https://join1440.com/today)
+> Millions of workers walked out over the housing crisis, with clashes with police in Barcelona, three weeks before general elections. [— 1440](https://join1440.com/today)
 >
-> ### Congo court sentences 66 soldiers to death
+> ### White House warns Democrats over planned investigations
 >
-> A Congolese court handed down death sentences for cowardice and mutiny after the soldiers allegedly fled from rebels. [— 1440](https://join1440.com/today)
+> The administration said Democratic threats to probe it could amount to criminality after a House Democrat said administration figures should "lawyer up." [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### SR-89A in Oak Creek Canyon to close indefinitely after flood damage
+> ### Coconino County named a federal drug-trafficking priority area
 >
-> Flooding damaged pavement, undermined the roadbed and caused severe erosion, so the highway through Oak Creek Canyon will be closed for a lengthy, open-ended period. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-10/lengthy-closure-in-store-for-sr-89a-following-oak-creek-flooding-damage)
+> A federal drug-policy office has designated Coconino County as a priority area under a national drug-trafficking program, according to KNAU. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-11/trump-administration-targets-drug-trafficking-in-coconino-county)
 
 > [!section] Iran Desk
 > #### The War
-> ### Iran's chief negotiator says the US must act to prevent renewed war
+> ### Trump predicts war's end as Iran rejects concessions
 >
-> Tehran's lead negotiator put the onus on Washington to avert a return to fighting, as Qatar-mediated diplomacy continues and the two sides remain split over the sequence of steps. [— AP](https://www.news4jax.com/news/world/2026/11/03/irans-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/)
+> President Trump predicted the war would end soon while the US stepped up economic pressure, and Iran rejected nuclear concessions and warned it could hit US bases as far away as Europe. [— Iran International](https://www.iranintl.com/en/202611122691)
 >
 > #### Inside Iran
-> ### War strains daily life and public services
+> ### "We argued about US midterms until someone mentioned rent"
 >
-> Iran International reports retirees skipping doctor visits and medicines because of costs, while imports of Chinese solar panels have fallen more than 80% this year amid worsening power shortages. [— Iran International](https://www.iranintl.com/en)
+> A Tehran writer describes friends debating American politics until talk turned to rent, suggesting that after a year of protests, war and financial strain many Iranians focus on daily survival over politics. [— Iran International](https://www.iranintl.com/en/202611075743)
 
 > [!section] AI Desk
-> ### Anthropic seeks roughly $1.3 trillion valuation in IPO
+> ### Nvidia's board reportedly weighs removing CEO Jensen Huang
 >
-> The Claude maker is aiming for a public listing at a valuation around $1.3 trillion, according to AP; other reports have cited differing figures and the final price range is not yet set. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0RzZUdwSHJSaUFqcXk5aFQ2QjYyWW0yTWxNbGhZRmo2NVlGOVhPWUdxdm9VS05oN0x6dzR1d2hYakpFRTdjd1ZNaDVhQ3BMQ3IwUXVNODRWck50MkwtWnlmUERNWXctY3FCR1JURC1BYWY2LUFlMTZQTjk0RHhwRTJGaTJ2cHhvbnFGUWQ4Y3hYOVJVQzY0UmtLQ2tRLW9tdlUtcHZHQQ?oc=5)
+> Nvidia's stock fell after reports that its board is preparing to oust Huang following allegations about his personal conduct. Congress is also reported to plan to summon him over an alleged affair with a suspected Chinese spy. [— TechCrunch](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)
 >
-> ### OpenAI releases GPT-6 Cyber to approved security testers
+> ### New York's AI safety law takes effect
 >
-> The security-focused model is available only to vetted customers doing authorized testing. OpenAI says it scores 48.5% on its own exploit benchmark and strays outside its assigned scope far less often than its predecessor; those figures aren't independently verified. [— The Register](https://www.theregister.com/a/5307855)
+> The state law now places new oversight requirements on leading AI developers including OpenAI and Anthropic. [— TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)
 >
-> ### AI industry faces a new political reality after Democratic midterm gains
+> ### OpenAI's quarterly revenue reportedly tops $10 billion
 >
-> Lawmakers who campaigned on slowing data center growth and tightening AI rules are set to gain influence when the new Congress convenes in January. [— News 3 LV](https://news3lv.com/news/nation-world/ai-industry-faces-new-political-reality-after-democratic-gains-in-midterms-data-centers-moratorium-regulations)
+> Reports say OpenAI's revenue for a single quarter passed $10 billion for the first time, a marker of how fast commercial AI is growing. [— TechCrunch](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
 
 > [!section] Good News
-> ### Paralyzed woman keeps her promise to play piano for rehab patients
+> ### Teens use paddleboards to rescue flooded neighbors
 >
-> After her own rehabilitation, she returned to the center to play for current patients, just as she'd said she would. [— Good News Network](https://www.goodnewsnetwork.org/paralyzed-woman-promised-to-return-and-play-piano-for-rehab-patients-she-kept-her-word/)
+> A group of teenagers took paddleboards into floodwater to bring neighbors to safety. [— Good News Network](https://www.goodnewsnetwork.org/brave-teens-execute-paddleboard-rescue-of-flooded-neighbors-faith-in-humanity-restored/)
