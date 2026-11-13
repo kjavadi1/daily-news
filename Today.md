@@ -1,98 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-12 06:20 MST
+updated: 2026-11-13 07:10 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.gif" alt="🦄"><span class="np-bubble">Good morning, Flagstaff! Happy Thursday, make it a little magical.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" alt="🐱"><span class="np-bubble">Happy Friday, Flagstaff! Bundle up and enjoy the weekend ahead.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Thursday, November 12, 2026 · Vol. 1, No. 316
+Flagstaff, Arizona · Friday, November 13, 2026 · Vol. 1, No. 317
 
 > [!lead] Front Page
-> ### Democrat Scott Colom wins Mississippi Senate seat
+> ### Nvidia CEO Jensen Huang resigns as investigation shakes the chipmaker
 >
-> The Associated Press called the race for Democrat Scott Colom, who led Republican Sen. Cindy Hyde-Smith by roughly 4,600 votes, about half a percentage point. Per 1440's summary, Hyde-Smith has conceded. Colom will become the state's first Black U.S. senator since Reconstruction, and more than a dozen other races nationwide remain uncalled a week after Election Day. [— AP](https://news.google.com/rss/articles/CBMipgFBVV95cUxObGNuUXNneXVWaFk1SjdDUnJmcVM1TjFDc2FQckV3NmZMUDZPUndHdjEybjJwUktLbE9qMkdmRjc5UzJ3QkhWNHRIREQ1UkpJbjdQeEhaNzFLamE2ZlhtQUp2cmdFYkZ4eUpKcnc2a2Q4NXlKdjc3azhSbmUwbEhSamM2d0wtVVNDZURqWWtnY1ZmV2FlRVhRUENLcGJDaUFTUFBjVEd3?oc=5)
+> Huang stepped down as Nvidia's chief executive amid a board investigation tied to reports about his personal conduct and possible foreign-intelligence contacts. Chief financial officer Colette Kress is now interim CEO while the board searches for a permanent successor. Nvidia shares plunged early on the news before recovering part of the loss, and Congress has taken an interest. [— AP](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5)
 
 > [!section] Top Stories
-> ### Russia and Ukraine agree to a large prisoner exchange
+> ### Microsoft works to restore email and other services after a global outage
 >
-> After US-mediated talks, the two sides agreed in principle to a big swap of prisoners of war, which could take place within weeks, but the talks produced no major step toward ending the war. [— AP](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5)
+> Outlook and other Microsoft apps went down for many users around the world. The company reported progress on recovery but had not given a full all-clear. [— AP](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5)
 >
-> ### Israeli strike on Gaza hospital kills 6, health officials say
+> ### Van Hollen to challenge Schumer for Senate Democratic leader
 >
-> Gaza's Health Ministry said the strike killed six people, among them a doctor and a child. It is the latest deadly incident involving medical facilities in the territory. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5)
+> Maryland Sen. Chris Van Hollen said he will run against Chuck Schumer for the top Democratic job in the Senate, following weeks of speculation after the midterms. [— AP](https://news.google.com/rss/articles/CBMipgFBVV95cUxNckRfNzZZdUhzQ1c0WkhoOHlUcGRqVWduNHo4NXNoeDBKQjRTNnVKMEpaU1NROWx2X01COVc3eS1ETEdpVUtKbVJGX0VBVERjVUZSN2VYLURlODNlbEVnWDdRRGI3THpHYmxaTURjRkJ5UFBTR3JzcDZIOUp4Vml1ejNDb2hRaXh3ZGI0OURmOUxXOUZpd3lRdzlaOThnVDlCUlZWNmRB?oc=5)
 >
-> ### Death toll reaches 6 in Brooklyn building collapse
+> ### Trump tells Vance to shift focus from Iran to crime and corruption at home
 >
-> Rescuers continued digging through rubble in Brooklyn as the number of confirmed dead rose to six, after earlier reports of five dead and people trapped. [— AP](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTF0bXlzSWlmLWlkQWl1aE1xZzFRNjVtTXJtOFV4bUtGd2JQeGx0bjJ1bjRCQ2pUVFN2ejd2ZU5NZE5MVTdSNGpZbjU4RVV4MDVsQnRtLUZHV09LS0NYeWY1OGVaVkdWYk10Vy00UzdJY1lpSUYza2dWVGY3aC1vS3dCbDE2OVlHNHB5VVJYSDBSZi05eVNLcXRsMDZDWkJFZmYtMGxsN2hjQQ?oc=5)
+> President Trump reassigned Vice President JD Vance away from Iran diplomacy and toward what he called corruption and crime in Democratic-led states, after Vance publicly criticized the war. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3hucVhKWVM3X1M0clZMcFVrTFA0UU9ReE9RVW5LVWV2eUY1czdQcnJval9iU3ljNHVoZ0lvdV84Rm5adEFHby1EMnM1d0VfenNTOTBEM1FZczBwRVdVUG9raUF1Q2hqZnpHOFQ4SnZoMkdHZlBLUGtUME1aUmVHVFppZ0dxM2I2MEZCRGpNdzNrNm8?oc=5)
 >
-> ### Indonesia's vice president resigns
+> ### Wall Street swings with Nvidia and oil, then recovers most early losses
 >
-> The vice president stepped down after sustained questions about his eligibility for office and his academic credentials, which courts and lawmakers had been scrutinizing in recent weeks. [— AP](https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE80VHB2dlMwYkZpM2p1UUdyV0toU0V6TDdvS044OWRteHdVSWltUzJtLUZtd3oyUlpFZHZpd0gzUDdqOWMzTHZQMjM2VDYyR0Y0YkFaSm15dnFHRHM0b3o5ZDU1ME9OcVZ4aGNqWGVSZ1hLdHBIajVMMENZSGEwZVFDeWlwVUFEUGJqQ0s0QlUzVnZPNHpNcWllT1ZveXZZNlE?oc=5)
+> Stocks fell sharply at the open on the Nvidia news and moves in oil prices, but pared much of the drop; the major indexes ended the day modestly lower. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5)
 >
-> ### Wall Street nearly recovers last week's sell-off
+> ### Israeli strike on a Gaza hospital kills 6, including a doctor and a child
 >
-> AI-related stocks rebounded, pulling US indexes close to where they stood before last week's drop, even as global markets were mixed amid worries about Nvidia. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5)
+> Gaza's Health Ministry says six people died in the strike. A companion AP report looks at how the attacks have devastated the territory's health system. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5)
 >
-> ### Leaders press for faster action at UN climate talks
+> ### US home sales slump to slowest pace in more than 16 years
 >
-> World leaders told the summit that countries' efforts so far fall short and called for quicker, stronger steps to cut emissions. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NNSmRNNW5UOE9yWE0yRVVJdEdDX09OeG9PRWo1ckJtSmhBWU1RaFQ0Mi1pWF9QX3JsbVgyd213RHl2NjdhY0tnTGVpY01zLWpGNkQtUTBqMGgyUmZYNVcwTVFydU9veWp4NUlnczBBU2NBbHlQaUIxSF9haUJCWm0tNmZsT2xSczBrLUQyNEFsREJXZENIMlpDNE9pc3lYaExj?oc=5)
+> Existing-home sales fell in October as mortgage rates climbed, even as the median price kept rising. [— AP](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS09PUFNBenprT295anI3ajZuQVFRMDlNZVFsN3JGLWE4akFsZTJvWExXeHdIZ1ZYbDVEdHNaQTJ0WVhnZ25PZ2NNSzJnTlU5MXBHOGZ5NmYtbGJHdVBfOHd6SkJYM0dXRWRaNVlsTUV4elhjTVFEYTk1aEJrSU9xSjVrdGJZYl9IVk51MVlVcTdfZC0wQ216a2ZZX2daamNIRml5dGZBa1EzVnUxVGVuekNqV09WWFZWU1E?oc=5)
 >
-> ### Ebola passes 11,000 cases in Congo's deadliest outbreak
+> ### Five people shot at a Washington, DC, gym; one killed
 >
-> The outbreak in Congo has now topped 11,000 cases, making it the deadliest the country has recorded. [— AP](https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5)
+> Police say a gunman killed one person and wounded four others at his gym and apartment building before taking his own life. [— AP](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Russia and Ukraine agree to prisoner swap in principle
+> ### Brooklyn building collapse: search ends, toll at eight
 >
-> Two days of US-mediated talks in Abu Dhabi ended without a breakthrough, but both sides agreed to a large exchange that could happen in two to three weeks. [— 1440](https://join1440.com/today)
+> Rescuers ended their search of the rubble; eight people died, including two children, and at least 18 were hurt. The city is investigating, and the adjacent construction site was cited for violations in March. [— 1440](https://join1440.com/today)
 >
-> ### Nvidia falls on reports about its CEO
+> ### Senate Democrats probe RFK Jr.'s Samoa trip testimony
 >
-> Nvidia shares dropped more than 8% after hours on reports of an alleged affair involving CEO Jensen Huang and a possible board move to remove him; the reports were not confirmed. Stocks overall rose, with the S&P 500 up 1.3%. [— 1440](https://join1440.com/today)
+> Two senators opened an inquiry into whether Health Secretary Robert F. Kennedy Jr. misled Congress about a 2019 trip to Samoa before a measles outbreak there. [— 1440](https://join1440.com/today)
 >
-> ### Bomb threats hit schools across Europe
+> ### Record October budget deficit
 >
-> About 6,300 Italian schools and more than 700 in Scotland and Northern Ireland received bomb threats, and the source was unclear. [— 1440](https://join1440.com/today)
+> The federal government began fiscal 2027 with a $404 billion October deficit, up 42% from a year earlier. [— 1440](https://join1440.com/today)
 >
-> ### Spain holds first general strike in 14 years
+> ### New prostate screening guidelines
 >
-> Millions of workers walked out over the housing crisis, with clashes with police in Barcelona, three weeks before general elections. [— 1440](https://join1440.com/today)
+> The American Cancer Society recommends blood tests every two years for most men ages 50 to 69, its first update in over a decade. [— 1440](https://join1440.com/today)
 >
-> ### White House warns Democrats over planned investigations
+> ### NBC's Dan Hicks dies at 64
 >
-> The administration said Democratic threats to probe it could amount to criminality after a House Democrat said administration figures should "lawyer up." [— 1440](https://join1440.com/today)
+> The longtime Olympic, golf and college football announcer died of an acute illness. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Coconino County named a federal drug-trafficking priority area
+> ### Long closure ahead for SR-89A after Oak Creek flood damage
 >
-> A federal drug-policy office has designated Coconino County as a priority area under a national drug-trafficking program, according to KNAU. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-11/trump-administration-targets-drug-trafficking-in-coconino-county)
+> Halloween-weekend flooding undermined and eroded the road through Oak Creek Canyon between Flagstaff and Sedona, and the highway will be closed for an extended period. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-10/lengthy-closure-in-store-for-sr-89a-following-oak-creek-flooding-damage)
 
 > [!section] Iran Desk
 > #### The War
-> ### Trump predicts war's end as Iran rejects concessions
+> ### Hegseth: US is "locked and loaded" and would repeat Iran strikes
 >
-> President Trump predicted the war would end soon while the US stepped up economic pressure, and Iran rejected nuclear concessions and warned it could hit US bases as far away as Europe. [— Iran International](https://www.iranintl.com/en/202611122691)
+> The defense secretary said the naval blockade of Iranian ports continues and acknowledged 18 American deaths in the campaign. Separately, Qatar is pressing a deal that would ease the blockade in exchange for nuclear inspections and reopening the Strait of Hormuz, though Tehran denies planned talks. [— Iran International](https://www.iranintl.com/en/202611103150)
 >
 > #### Inside Iran
-> ### "We argued about US midterms until someone mentioned rent"
+> ### Iranians cut essentials as war and blockade drive prices up
 >
-> A Tehran writer describes friends debating American politics until talk turned to rent, suggesting that after a year of protests, war and financial strain many Iranians focus on daily survival over politics. [— Iran International](https://www.iranintl.com/en/202611075743)
+> Reuters reporting from late October describes households trimming spending as inflation approaches 74% a year, with staples like flour, chicken and cooking oil increasingly out of reach. The economy minister has publicly apologized for the strain on pensioners and workers. [— Reuters via Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/10/28/iranians-cut-essentials-and-put-dreams-on-hold-as-war-hit-economy-bites)
 
 > [!section] AI Desk
-> ### Nvidia's board reportedly weighs removing CEO Jensen Huang
+> ### Nvidia's turmoil raises questions for open-source AI
 >
-> Nvidia's stock fell after reports that its board is preparing to oust Huang following allegations about his personal conduct. Congress is also reported to plan to summon him over an alleged affair with a suspected Chinese spy. [— TechCrunch](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)
+> Huang's exit puts the chipmaker's backing for open-source models in doubt, and Hugging Face's CEO pledged to keep pushing for open AI. Democrats have also opened an inquiry, and Huang has agreed to testify to Congress. [— TechCrunch](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/)
 >
-> ### New York's AI safety law takes effect
+> ### Advocacy groups sue AI giants to freeze new models
 >
-> The state law now places new oversight requirements on leading AI developers including OpenAI and Anthropic. [— TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)
+> The groups say frontier AI poses catastrophic risks and want a court to halt new model releases. The suit lands amid separate legal fights over AI safety and development pace. [— AP](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3o4X0NMQVZxQ3g1Z216LW05QnZDQ2ZLZEc5cUhtU3NJSTJkWVoxTWsxUWUtNW05Ti04UHdCNEVKcnVZVEhnNXZoUks0N3BodVpGMjdYMEtUaFRHQnRwNUViNzdxUnEyWXVXMlgyeWQzaTg0N0NuRFFCbEFpM3pMaHViWFlvV1RVNEdfXzdEQWdwdFNSbkRIQU0yX3Q4aW1WTFhiNDNEWTFWcTlJYVJsMDVBaWNhV2g0Si1jcEdJRkRnQQ?oc=5)
 >
-> ### OpenAI's quarterly revenue reportedly tops $10 billion
+> ### Fireworks AI breach exposed Notion customers' chat transcripts
 >
-> Reports say OpenAI's revenue for a single quarter passed $10 billion for the first time, a marker of how fast commercial AI is growing. [— TechCrunch](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
+> A cyberattack on the AI infrastructure provider let hackers reach chat transcripts belonging to Notion's customers. [— TechCrunch](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/)
 
 > [!section] Good News
-> ### Teens use paddleboards to rescue flooded neighbors
+> ### Canadian family finds grandfather's WWII-era child in England
 >
-> A group of teenagers took paddleboards into floodwater to bring neighbors to safety. [— Good News Network](https://www.goodnewsnetwork.org/brave-teens-execute-paddleboard-rescue-of-flooded-neighbors-faith-in-humanity-restored/)
+> After more than 80 years, a Canadian family identified a baby born in wartime England who was connected to their grandfather, uniting two families. [— Good News Network](https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/)
