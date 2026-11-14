@@ -1,98 +1,94 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-13 07:10 MST
+updated: 2026-11-14 06:30 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f431/512.gif" alt="🐱"><span class="np-bubble">Happy Friday, Flagstaff! Bundle up and enjoy the weekend ahead.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.gif" alt="🐢"><span class="np-bubble">Slow and steady this chilly Saturday — grab coffee, catch up!</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Friday, November 13, 2026 · Vol. 1, No. 317
+Flagstaff, Arizona · Saturday, November 14, 2026 · Vol. 1, No. 318
 
 > [!lead] Front Page
-> ### Nvidia CEO Jensen Huang resigns as investigation shakes the chipmaker
+> ### FAA grounds flights nationwide, then blames "overloaded" systems after resuming
 >
-> Huang stepped down as Nvidia's chief executive amid a board investigation tied to reports about his personal conduct and possible foreign-intelligence contacts. Chief financial officer Colette Kress is now interim CEO while the board searches for a permanent successor. Nvidia shares plunged early on the news before recovering part of the loss, and Congress has taken an interest. [— AP](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5)
+> The Federal Aviation Administration halted flights across the country for several hours on Friday, the second nationwide ground stop since the September 11 attacks. After departures resumed, the Trump administration attributed the stoppage to overloaded, outdated air traffic systems. The disruption rippled into weekend travel for NBA, NHL and college football teams. [— AP](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5)
 
 > [!section] Top Stories
-> ### Microsoft works to restore email and other services after a global outage
+> ### Microsoft says services fully restored after hourslong global outage
 >
-> Outlook and other Microsoft apps went down for many users around the world. The company reported progress on recovery but had not given a full all-clear. [— AP](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5)
+> Microsoft apologized for the worldwide disruption to its workplace software, saying it was a technical fault and not a cyberattack or an AI failure. The outage hit services in dozens of countries, including schools, courts and health providers. [— AP](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5)
 >
-> ### Van Hollen to challenge Schumer for Senate Democratic leader
+> ### Supreme Court will consider Trump's order suspending asylum access at the border
 >
-> Maryland Sen. Chris Van Hollen said he will run against Chuck Schumer for the top Democratic job in the Senate, following weeks of speculation after the midterms. [— AP](https://news.google.com/rss/articles/CBMipgFBVV95cUxNckRfNzZZdUhzQ1c0WkhoOHlUcGRqVWduNHo4NXNoeDBKQjRTNnVKMEpaU1NROWx2X01COVc3eS1ETEdpVUtKbVJGX0VBVERjVUZSN2VYLURlODNlbEVnWDdRRGI3THpHYmxaTURjRkJ5UFBTR3JzcDZIOUp4Vml1ejNDb2hRaXh3ZGI0OURmOUxXOUZpd3lRdzlaOThnVDlCUlZWNmRB?oc=5)
+> The justices agreed to take up the administration's executive order that suspends asylum access along the southern border. The case follows lower-court rulings against the policy. [— AP](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdExwdTBia3RDdGYzWFRuYUkxaERSQkpTVmY0Ymp5S05jR0ZLSC10ekFMcjQ0Rkg5NFVmOFR3MENlTm04ajFoemlGclMtX09RZVBtd3VTUVpXd0hiNFlVLVZBME9wUU1UdDFWYzVXQl8yTno3Z1M3WlZnTjZnaTJKQlVCS3g0WmZaUVJ2UnVlaw?oc=5)
 >
-> ### Trump tells Vance to shift focus from Iran to crime and corruption at home
+> ### Ukraine launches nearly 1,200 drones at Russia as talks weigh wider European security
 >
-> President Trump reassigned Vice President JD Vance away from Iran diplomacy and toward what he called corruption and crime in Democratic-led states, after Vance publicly criticized the war. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3hucVhKWVM3X1M0clZMcFVrTFA0UU9ReE9RVW5LVWV2eUY1czdQcnJval9iU3ljNHVoZ0lvdV84Rm5adEFHby1EMnM1d0VfenNTOTBEM1FZczBwRVdVUG9raUF1Q2hqZnpHOFQ4SnZoMkdHZlBLUGtUME1aUmVHVFppZ0dxM2I2MEZCRGpNdzNrNm8?oc=5)
+> Kyiv's drone barrage came as US-led negotiations turned to the broader question of European security. European governments are also sending a team of diplomats to push for a seat at the table. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXVZUW9PS0M3SlFocHN4c3ZfZE5aZmwzamtmX3lkRHYtMm14N2EzVFV1M3ZzQ0tsbjNiMWVOMlBtRkdrLVp1cGhubG1yc283Y1RRMnk3SkRtXzVhQkItYlVJME9vX2stYUxNOEJTU2puX19kUHM4NnpZdVN4QUdTN2FNMGw5Sk9xeEtuV1hUT2pyYjBIRnQ0dDF1Um1lVFlMSEJzS1JmNUpYQjA?oc=5)
 >
-> ### Wall Street swings with Nvidia and oil, then recovers most early losses
+> ### Rubio says more US military action against Iran isn't needed
 >
-> Stocks fell sharply at the open on the Nvidia news and moves in oil prices, but pared much of the drop; the major indexes ended the day modestly lower. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5)
+> The Secretary of State argued that Iran has been economically weakened by US pressure and the naval blockade, so major new strikes are unnecessary for now. He added that Washington would still respond if Tehran crosses red lines. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5)
 >
-> ### Israeli strike on a Gaza hospital kills 6, including a doctor and a child
+> ### Rep. Lauren Boebert loses Colorado House seat to Democrat Eileen Laubacher
 >
-> Gaza's Health Ministry says six people died in the strike. A companion AP report looks at how the attacks have devastated the territory's health system. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5)
+> The Republican incumbent lost her reelection bid to a retired Navy rear admiral, adding a seat to the Democratic House majority. [— AP](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0tmaU5TZmF2N043T0Y5TWJneTZXMWRRX2hsdFBMRTc1YkphUzl5NGJfQ0JIeWdMR1BEamFkOWxiWlBXQWxSb2VVTzlPN0kxNmdjUURKUmRuUTR3M3JhaHVleVRPX2FMLXdMUHRtU0ktUlVkc21oVUdNUU5qR3IzV2lSRE1hS0FzUmxKNEZLZEVmNWFwSG1Daldpck9SUEtH?oc=5)
 >
-> ### US home sales slump to slowest pace in more than 16 years
+> ### All passengers and crew survive New Orleans cruise ship collision with tanker
 >
-> Existing-home sales fell in October as mortgage rates climbed, even as the median price kept rising. [— AP](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS09PUFNBenprT295anI3ajZuQVFRMDlNZVFsN3JGLWE4akFsZTJvWExXeHdIZ1ZYbDVEdHNaQTJ0WVhnZ25PZ2NNSzJnTlU5MXBHOGZ5NmYtbGJHdVBfOHd6SkJYM0dXRWRaNVlsTUV4elhjTVFEYTk1aEJrSU9xSjVrdGJZYl9IVk51MVlVcTdfZC0wQ216a2ZZX2daamNIRml5dGZBa1EzVnUxVGVuekNqV09WWFZWU1E?oc=5)
+> A docked river cruise ship with about 180 people aboard capsized after a much larger oil tanker struck it on the Mississippi. Everyone was accounted for and about 32 people were hospitalized, none critically; the cause is under investigation. [— AP](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlM1d3RDejItNTdSdk9KWU9PaWZPanZTQmNHd3JRY1BPTGJOYWRkaWYweVVqSzUyVkFadl84SmdVT3pyVVk2RzJYZmxMZFBPazVhQ2RKbklvSnlKZHQtWnZuM0xROU1fSDlSZVAtdzg2Y1BKS3VBWlAwMGllM3pLUFkyT1lwcWgxa3YtS0hCYW5NNGFtcGNlT3AtS2YwZnJZbWowSWlXSUhCM0dJSkE?oc=5)
 >
-> ### Five people shot at a Washington, DC, gym; one killed
+> ### Bessent blames Commerce Department for not restricting Nvidia chip exports
 >
-> Police say a gunman killed one person and wounded four others at his gym and apartment building before taking his own life. [— AP](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5)
+> The Treasury Secretary pointed the finger at Commerce Secretary Howard Lutnick's department over its failure to tighten controls on advanced chip sales. The dispute exposes a rift inside the administration over China policy. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmthd2p1bWNiTUNEQ1puWC14bVlmeTJ2MjVIcGN2ZEkzdVlncWJYVUZ2TGdEdzRQd1NCb2RGRG5ZRm9RX3BXMVJfd25SQjVzdEN1RTdpc2VkSkdlVkxGMW5CNURkb3gxS25uYzRuZGFqZjV5Mk1KSXlCR2NaTlI4NHZudkZXUXduU0lXNmpMZHl4LWdoZk82akdoenV5c1piemdKX0RaSEw?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Brooklyn building collapse: search ends, toll at eight
+> ### Brain atlas milestone
 >
-> Rescuers ended their search of the rubble; eight people died, including two children, and at least 18 were hurt. The city is investigating, and the adjacent construction site was cited for violations in March. [— 1440](https://join1440.com/today)
+> More than 50 institutions published the most detailed cell-by-cell map yet of the basal ganglia, a brain region linked to Parkinson's and schizophrenia. The team profiled 25.5 million cells and made the data public. [— 1440](https://join1440.com/today)
 >
-> ### Senate Democrats probe RFK Jr.'s Samoa trip testimony
+> ### Van Hollen to challenge Schumer
 >
-> Two senators opened an inquiry into whether Health Secretary Robert F. Kennedy Jr. misled Congress about a 2019 trip to Samoa before a measles outbreak there. [— 1440](https://join1440.com/today)
+> Sen. Chris Van Hollen announced a bid to unseat Chuck Schumer as Senate Democratic leader, with a secret-ballot vote expected in early December. [— 1440](https://join1440.com/today)
 >
-> ### Record October budget deficit
+> ### Rapid tongue-swab TB test
 >
-> The federal government began fiscal 2027 with a $404 billion October deficit, up 42% from a year earlier. [— 1440](https://join1440.com/today)
+> Researchers developed a tuberculosis test that returns results in about 20 minutes, versus up to three days, and works in high heat, making it suited to remote areas. [— 1440](https://join1440.com/today)
 >
-> ### New prostate screening guidelines
+> ### Rock & Roll Hall of Fame ceremony tonight
 >
-> The American Cancer Society recommends blood tests every two years for most men ages 50 to 69, its first update in over a decade. [— 1440](https://join1440.com/today)
->
-> ### NBC's Dan Hicks dies at 64
->
-> The longtime Olympic, golf and college football announcer died of an acute illness. [— 1440](https://join1440.com/today)
+> The induction ceremony takes place in Los Angeles, though more than half of the living honorees are expected to skip it. An edited version airs in December. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Long closure ahead for SR-89A after Oak Creek flood damage
+> ### Two helicopter hoist rescues near Humphreys Peak
 >
-> Halloween-weekend flooding undermined and eroded the road through Oak Creek Canyon between Flagstaff and Sedona, and the highway will be closed for an extended period. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-10/lengthy-closure-in-store-for-sr-89a-following-oak-creek-flooding-damage)
+> Search and rescue crews airlifted two hikers in separate operations days apart after they fell on steep, icy slopes near Arizona's highest peak, a reminder that winter conditions have arrived up high. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-13/crews-conduct-two-helicopter-hoist-rescues-near-humphreys-peak-days-apart)
 
 > [!section] Iran Desk
 > #### The War
-> ### Hegseth: US is "locked and loaded" and would repeat Iran strikes
+> ### Trump weighs holding off on new Iran strikes
 >
-> The defense secretary said the naval blockade of Iranian ports continues and acknowledged 18 American deaths in the campaign. Separately, Qatar is pressing a deal that would ease the blockade in exchange for nuclear inspections and reopening the Strait of Hormuz, though Tehran denies planned talks. [— Iran International](https://www.iranintl.com/en/202611103150)
+> Reuters, relayed by Iran International, reports Trump may delay renewed strikes unless Iran or the Houthis provoke further, despite Israeli pressure to resume attacks. Meanwhile the IRGC claims it shot down a US drone over Qeshm Island. [— Iran International](https://www.iranintl.com/en/liveblog/202611143682)
 >
 > #### Inside Iran
-> ### Iranians cut essentials as war and blockade drive prices up
+> ### Iran rations gasoline it dares not reprice
 >
-> Reuters reporting from late October describes households trimming spending as inflation approaches 74% a year, with staples like flour, chicken and cooking oil increasingly out of reach. The economy minister has publicly apologized for the strain on pensioners and workers. [— Reuters via Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/10/28/iranians-cut-essentials-and-put-dreams-on-hold-as-war-hit-economy-bites)
+> Seven years after the "Bloody November" fuel-price protests, Iranian drivers face long queues and tighter rationing, yet the government is avoiding a price hike that could spark unrest. [— Iran International](https://www.iranintl.com/en/202611146434)
 
 > [!section] AI Desk
-> ### Nvidia's turmoil raises questions for open-source AI
+> ### Lutnick reportedly stalled Trump's Nvidia–China chip curbs
 >
-> Huang's exit puts the chipmaker's backing for open-source models in doubt, and Hugging Face's CEO pledged to keep pushing for open AI. Democrats have also opened an inquiry, and Huang has agreed to testify to Congress. [— TechCrunch](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/)
+> Axios reports the Commerce Secretary slowed efforts to restrict firms suspected of diverting Nvidia AI chips to China, setting off the Treasury–Commerce clash. Commerce disputes parts of the account. [— Axios](https://axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls)
 >
-> ### Advocacy groups sue AI giants to freeze new models
+> ### Democratic group launches push to shape AI agenda before 2028
 >
-> The groups say frontier AI poses catastrophic risks and want a court to halt new model releases. The suit lands amid separate legal fights over AI safety and development pace. [— AP](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3o4X0NMQVZxQ3g1Z216LW05QnZDQ2ZLZEc5cUhtU3NJSTJkWVoxTWsxUWUtNW05Ti04UHdCNEVKcnVZVEhnNXZoUks0N3BodVpGMjdYMEtUaFRHQnRwNUViNzdxUnEyWXVXMlgyeWQzaTg0N0NuRFFCbEFpM3pMaHViWFlvV1RVNEdfXzdEQWdwdFNSbkRIQU0yX3Q4aW1WTFhiNDNEWTFWcTlJYVJsMDVBaWNhV2g0Si1jcEdJRkRnQQ?oc=5)
+> A new Democratic-aligned group is trying to build a common party position on AI ahead of the next presidential race, as Democrats remain divided on how hard to regulate the technology. [— AP](https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFcwWkZEbUlrWUJEY3B2ZlBjUnhqci14R2xyV3FXWWFRM1FXTzdWbU1lZm4tcWxYbE1QbEhKRWVIQ0dNVnhHTktnZWdTVFk4T1QtZ2Y2RUJuRDIwaHVCZFhscjhaMEFmeEhTWVRSOEp5NURfZFlTOGpYZ2J6Y1d5NU55bnZ6UjRmTlo3WF9malo?oc=5)
 >
-> ### Fireworks AI breach exposed Notion customers' chat transcripts
+> ### Anthropic announces Claude Fable 5.2 and Mythos 5.2
 >
-> A cyberattack on the AI infrastructure provider let hackers reach chat transcripts belonging to Notion's customers. [— TechCrunch](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/)
+> Anthropic announced updated versions of its Claude model lines on Nov. 9, its latest frontier release. [— Anthropic](https://www.anthropic.com/news)
 
 > [!section] Good News
-> ### Canadian family finds grandfather's WWII-era child in England
+> ### Infant goes from 110 seizures a day to seizure-free
 >
-> After more than 80 years, a Canadian family identified a baby born in wartime England who was connected to their grandfather, uniting two families. [— Good News Network](https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/)
+> A baby who suffered as many as 110 seizures daily became seizure-free after an experimental treatment. [— Good News Network](https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/)
