@@ -1,90 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-15 06:30 MST
+updated: 2026-11-16 06:25 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.gif" alt="🐬"><span class="np-bubble">Good morning, Flagstaff! Dive into Sunday's headlines with me.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f988/512.gif" alt="🦈"><span class="np-bubble">Happy Monday, Flagstaff! Dive in, the news is chilly and bright.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Sunday, November 15, 2026 · Vol. 1, No. 319
+Flagstaff, Arizona · Monday, November 16, 2026 · Vol. 1, No. 320
 
 > [!lead] Front Page
-> ### Trump, Xi and Putin plan first-ever three-way meeting in China
+> ### Trump heads to Asia hoping to regain momentum after midterm setbacks
 >
-> The White House and Kremlin say the three leaders will meet on the sidelines of the APEC summit in Shenzhen, with a Trump–Xi bilateral expected first. Iran and nuclear weapons are reportedly on the agenda, though officials expect no agreements to be announced. Trump and Putin are not planning a separate one-on-one. [— AP](https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5)
+> President Trump is traveling to Asia for a regional summit in Manila and a stop in Shenzhen, China, for the APEC forum, where another meeting with Xi Jinping is expected. AP frames the trip as an attempt to shift political momentum after Republican losses in this month's midterms, with trade and a possible extension of the US-China tariff truce high on the agenda. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5)
 
 > [!section] Top Stories
-> ### US air travel expected to normalize Sunday after ground stop
+> ### Pope Leo presses for justice for slain Amazon defenders
 >
-> The FAA says flights should return to normal after a nationwide ground stop triggered mass cancellations and upended weekend travel for college football and pro basketball and hockey teams. The AP also delayed its Top 25 football poll by a day. [— AP](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5)
+> Speaking in the Peruvian rainforest, the pope called for accountability for environmental defenders who have been killed for protecting the Amazon. [— AP](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5)
 >
-> ### Starship returns from orbit and is caught by launch tower arms
+> ### Administration seeks billions to overhaul the FAA
 >
-> SpaceX caught a Starship upper stage with its Texas launch tower arms for the first time after the vehicle returned from orbit, a key step toward rapid reuse. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxNOERhUktkSjNrXzRTU1BmN20xXzk4WE9HT2V1ek5MeHZGYW1KU2tOMzdLbm8xc2J1NXBSWi03S0Rudld0amJUdHkwWVQ1YnZfRVhhMGhaV0FzSWJMR2Nfc3FWVXlZWUtieWRPaUlwSTUzUTBKZ3d4bF9VYThwR0RvQmlaQzJsTmowems1aHJSUGFpTEpsbjRn?oc=5)
+> After a nationwide ground stop disrupted flights last week, the Trump administration is asking Congress for billions of dollars to modernize air traffic control, while Democrats question how earlier money was spent. [— AP](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjU5a3ljR1FocjlKQnRVS21kY1kwR3R4bEZvdUc4VExhbnc2NjZrU0ZfRS1iMkoxcGthaUV4a19MTlNsR2JFMlFqZDN0Y1JiejlNWUFUWjAyWTl3RFNXX0ZvbkNmX0l1elhVZndMd3pQSlQtbk1RYzBMT2tmOTJuaTlwUm5FQmdRODFJQTk4OWV5MlpScVhhc1BEWWotS1E?oc=5)
 >
-> ### Zelenskyy warns US-floated European security framework could benefit Putin
+> ### Starshield limits threaten Ukraine's energy defenses, Zelenskyy says
 >
-> Ukraine's president says a new European security arrangement proposed by Washington could end up favoring Russia's leader. European officials have also pushed back on any deal made without Kyiv and Europe at the table. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxPUW1pZDhVRDZHNFg1NmEtb2tWMVR0ZUVxS01NdUhkX1BlVTF1eG4yVVdFcGVLdWhTSWtmTUlSQ2NRNEpzZWJWWXVjazM2YmJyZjRndU1aM3BDcThWd2FqVElBT2s0bVZVeVpkVGFPeFZfTFZveGFCVWp2WE1QOUFyUVU4U2R0Z01jaWoyTkdvZWV1UElKSWllMnp3ZXA?oc=5)
+> Ukraine's president says restrictions on the military satellite service could weaken protection of power infrastructure as winter nears and Russian strikes continue. [— AP](https://news.google.com/rss/articles/CBMirwFBVV95cUxOenBGVVA1c2RUMjI4QVhIb2RGb193VUVXanFoaGxvUFV6MExoS1NsOUJnWDFENzhsbTk3UGs1T1lIYUs2a3phVkU2RGVlbWRvbUtPMk5ya3dsclFOdThkMWdNMFdXSFVFTlhSUUFncjlIbEFhXzZhZ3M0SkNjQk50cHh1elBVMlpWcXZDQ2pYRXB2cWNfaGdGelBsWmxRR0NkcjdSU1hQYlBkR0pCZXFF?oc=5)
 >
-> ### Ebola outbreak in Congo remains out of control after six months
+> ### Russia says it intercepted more than 1,300 Ukrainian drones
 >
-> Health officials say the outbreak, driven by a strain with no approved vaccine, is still spreading six months into the response, hampered by conflict, funding gaps and staff shortages. [— AP](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVhKNmdzYlJFM2diX0VPVXgtM1oyY2dVZTBlQTREWUtidDAwejNMa1hXeHFtUGJDcU02el85VWRCT2FJWXZwWVFHcGVtSXBwQURpU1UyQjh6b3hBNVlIc1ltM0Q2dlBNVDVfQndSYUZnSnJIVjlYM3M1UXhXSW1ieFJaMU1lUGFGVEE?oc=5)
+> Moscow reports a very large overnight Ukrainian drone attack; these figures come from Russia's own defense claims. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5)
 >
-> ### Pope denounces suffering and humiliation of enslaved Africans during Peru visit
+> ### Southeast Asian leaders denounce Myanmar violence, extend ban on its leader
 >
-> The pope spoke out about the history of African slavery during his trip to Peru, and separately lamented violence affecting the country while ministering in his former diocese. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5)
+> At the ASEAN gathering, leaders condemned the violence in Myanmar and extended the bloc's exclusion of the country's ruling leader from its summits. [— AP](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzdWNHdVcHlmT3FDVkMzd0Nidk10bTJaRnYyN19xSmVqSGZGNEFqVFZXcVJIbGowSWRBdExPVnU3dmpUQTVKZENQcmxEc2ItcTN5S1cyLTVxaWZlenRPRDJhcHNhSEpYVE5DZVRzT2RiRXY5dm44VUtCQ2VJNDQ2RkRoWEdfaHFLRmg3NjZCdDQzUlhCTFJXd3FR?oc=5)
 >
-> ### Judge temporarily blocks Trump's Washington golf course redevelopment
+> ### Israel kills a top Hamas commander; Jordan sentences 3 over church attack
 >
-> A federal judge paused the administration's plans to move ahead on redeveloping a public golf course in the capital while the legal challenge plays out. [— AP](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWFjODE3SE95MjcyaDJrR2tkNFlTX3VjMWE0aEUxN21aQUotWDdsdWlTd3pCRDdGMHRmejk0Q1M2UzJUdXE3MkRTQnlNRU95QkJYMmk4UThqSHI3djNtdGxnRmlpeTRwelFyeEpZUVVMZG0taUQzREdMQzlFS25wT1dnUXg4QTVtVlY3Sk5KTHpUN1E0OHdkTU42ZGNWTkZkbEJ3bXo5TG5YLWtIakc2RWRB?oc=5)
+> AP's Mideast roundup covers an Israeli strike that killed a senior Hamas commander and a Jordanian court sentencing three people in an attack on a church. [— AP](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN0lIYjU0OG55Z253dDhlYmdmSURkRWZWU3NnWUdwVk5iekp3aXJDbGVQM0RfMUpGRnVQbkowUHBNdEtFaWFYMjRwN2Z5VU04WURFcEhzUTEtcWRMclhYcHlQc0hLV0QxZmNZR0ZMS3RpdkpnNnNMdjhRN0hodGgzaGVHS0N3cjhrcjNPUDNpbTVGNnZzQlhSMnEyelczQVdZLVI5SlFtVzhFUQ?oc=5)
+>
+> ### Carney says Canada could turn to Chinese automakers if US trade talks fail
+>
+> Canada's prime minister floated opening the market further to Chinese carmakers as a fallback if negotiations with the Trump administration collapse. [— AP](https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Largest incoming House class since 1933
+> ### SpaceX catches Starship's upper stage
 >
-> New members of Congress are wrapping up freshman orientation, and 1440 pairs the story with a podcast on how Congress became one of the least trusted branches. [— 1440](https://join1440.com/today)
+> For the first time, the launch tower's mechanical arms caught the returning upper stage after about 14 orbits, a step toward fully reusable rockets. [— 1440](https://join1440.com/today)
 >
-> ### Voyager 1 nears one light-day from Earth
+> ### Italy fines Meta $887 million
 >
-> The 1977 spacecraft is about to reach roughly 16.1 billion miles from Earth, the distance light travels in a day. [— 1440](https://join1440.com/today)
+> Regulators say Meta accessed Android users' photo galleries without proper notice or consent; the company plans to appeal. [— 1440](https://join1440.com/today)
 >
-> ### Gettysburg to restage Lincoln's 1863 visit
+> ### Tesla opens Cybercab preorders
 >
-> A Pennsylvania historical society will re-enact Lincoln's arrival by train and his visit this week. [— 1440](https://join1440.com/today)
+> Select customers can order the autonomous car for personal use at roughly $30,000 plus a $299 monthly subscription, but only where Tesla's robotaxi service already runs. [— 1440](https://join1440.com/today)
 >
-> ### Martin Scorsese turns 84
+> ### Alaska governor's race tilts Democratic
 >
-> The issue profiles the director, from his 1970s rise through Goodfellas and his lone directing Oscar for The Departed. [— 1440](https://join1440.com/today)
+> Democrat Jonathan Kreiss-Tomkins is projected to win, which would be the sixth Democratic governor flip this cycle. [— 1440](https://join1440.com/today)
+>
+> ### Uber driver data breach
+>
+> Hackers took driver data through a third-party provider, and breach notices have reportedly reached over 7,000 people in at least five states. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Two helicopter hoist rescues near Humphreys Peak days apart
+> ### Federal probe finds "systemic weaknesses" at Grand Canyon fed Dragon Bravo Fire
 >
-> Search crews rescued two hikers who fell on steep, icy terrain near Flagstaff's Humphreys Peak within a few days, a reminder that winter conditions have arrived at elevation. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-13/crews-conduct-two-helicopter-hoist-rescues-near-humphreys-peak-days-apart)
+> An Interior Department investigation concluded that failures by Grand Canyon National Park leadership contributed to the rapid growth of the 2025 North Rim fire. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-16/federal-investigation-systemic-weaknesses-at-grand-canyon-contributed-to-dragon-bravo-fire)
 
 > [!section] Iran Desk
 > #### The War
-> ### Bahrain urges UN action as Iran vows more attacks
+> ### Third US carrier arrives as blockade of Iranian ports continues
 >
-> Bahrain asked the UN to act after Iranian drone attacks, while Tehran says it will keep responding. Gulf states told the Security Council that Iran has fired more than 7,000 missiles and drones at them since the war began in February. [— Iran International](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYTFVTTdXUzNYNUhDSlpNS2VjV1VVTUs2MU43Z1lfamE5MkhlMFdtMVdReUVjTjNZZVpNSmZVUmJ6Ry1IWm9CTk1JUS1ONW1VTkVEX2tJdWJiNUMxZHc?oc=5)
+> Iran International reports a third American aircraft carrier has reached the Middle East to help enforce the blockade, while a tanker leaving the Strait of Hormuz was hit by an unidentified projectile and caught fire. [— Iran International](https://www.iranintl.com/en)
 >
 > #### Inside Iran
-> ### Petrol limits stoke anger and price fears in Iran
+> ### Gasoline rationing deepens, drawing public anger
 >
-> New caps on fuel sales have angered Iranians who worry about higher prices across the economy, as oil output has fallen sharply and official data show prices up nearly 89 percent over a year. [— Iran International](https://news.google.com/rss/articles/CBMiUkFVX3lxTE10MlM0WEpOSXZ0LThSbWZsRmo0VGpvYk1WRmUxRXBSNjVVSGxHZEZ4ZnkyTzhkcnFrX2gyX2tkaFZONVY0anJRX0t1SVFtNy1yTnc?oc=5)
+> Iran is tightening fuel sales with long station lines yet still refuses to raise the subsidized price, and there are warnings that higher transport costs will push up prices of other goods. [— Iran International](https://www.iranintl.com/en)
 
 > [!section] AI Desk
-> ### Anthropic's IPO arrives as a test for the AI trade
+> ### Zoox robotaxis go live on Uber in Las Vegas
 >
-> The company is reportedly targeting a debut this week after its public filing, in a listing that investors see as a bellwether for AI valuations. [— CNBC](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5)
+> Amazon-owned Zoox launched its first third-party ride-hailing partnership, with pickups at Strip hotels under a deal with MGM Resorts and Los Angeles planned for 2027. [— TechCrunch](https://techcrunch.com)
 >
-> ### Filing details show rapid revenue growth
+> ### Megaspeed probes its own past as Nvidia chip-diversion scrutiny grows
 >
-> Anthropic's filing reported about $16.3 billion in revenue for the first half of the year and its first operating profit, which analysts are weighing against AI spending worries. [— Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5)
+> The Singapore firm says an executive, Alice Huang, left in 2025 while it conducts an internal probe; the company is suspected of routing Nvidia chips to China, which it denies. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5)
 >
-> ### Google and Samsung to release AI smart glasses in December
+> ### China pushes AI literacy in schools by 2030
 >
-> The two companies plan to launch AI-enabled smart glasses next month, extending the push to put AI assistants into everyday wearables. [— The Spokesman-Review](https://news.google.com/rss/articles/CBMingFBVV95cUxNaUxKVkh1TGVsUzFwTFpNdnN5cDkwWEJzcFFQcVh0Qlpfc0VRd2VIQjJzbVVqQ1h6elR4Qm9IbmNsSUFGVGtrZUFnTDFENlBIYXBNNFpsOTFKT0NxaTNLSTcySmpkUTdhdUVDLUFVZ3dHNV9Oc0gtU09XRU5oaFQ3bGVLUnRPYlNPY1oyNzJyUXdHR3lCdFpoTUswMDdlQQ?oc=5)
+> Nearly half of China's provinces and municipalities now have binding AI-education requirements, though the country still lacks national standards for assessing AI literacy. [— Reuters](https://www.reuters.com/technology/artificial-intelligence/)
 
 > [!section] Good News
-> ### Two of the last untouched wild ecosystems become sanctuaries
+> ### San Francisco receives $100 million gift for public parks
 >
-> Two ecosystems that humans have left essentially untouched, including a reef at Bikar in the Marshall Islands, were declared protected sanctuaries. [— Good News Network](https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/)
+> An Airbnb co-founder's donation is the largest gift in the city's history and will go toward its public parks. [— Good News Network](https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/)
