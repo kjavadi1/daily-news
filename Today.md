@@ -1,98 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-16 06:25 MST
+updated: 2026-11-17 06:17 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f988/512.gif" alt="🦈"><span class="np-bubble">Happy Monday, Flagstaff! Dive in, the news is chilly and bright.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a5/512.gif" alt="🦥"><span class="np-bubble">Slow and steady, Flagstaff. Happy Tuesday, bundle up out there!</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Monday, November 16, 2026 · Vol. 1, No. 320
+Flagstaff, Arizona · Tuesday, November 17, 2026 · Vol. 1, No. 321
 
 > [!lead] Front Page
-> ### Trump heads to Asia hoping to regain momentum after midterm setbacks
+> ### Trump opens Asia trip in the Philippines, with a Xi–Putin summit possible later in the week
 >
-> President Trump is traveling to Asia for a regional summit in Manila and a stop in Shenzhen, China, for the APEC forum, where another meeting with Xi Jinping is expected. AP frames the trip as an attempt to shift political momentum after Republican losses in this month's midterms, with trade and a possible extension of the US-China tariff truce high on the agenda. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5)
+> President Trump arrived in Manila to begin a trip that includes economic deals and talks with regional allies. He is then expected to travel to Shenzhen for a summit with Xi Jinping, with a possible three-way meeting that would include Russia's Vladimir Putin and a discussion of nuclear arms, the Iran war and Ukraine. A meeting with North Korea's Kim Jong Un is also being floated. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNThOYXI2SmpKNVh5LU05MjAyN2F2YjJHbUJJeG1IOHhWOTFPQVp2U3VUTVdhcHUtVkpUWDhKb3ZOSnFCZE0wNVAtZ1NmOUMyaERmZ3RWTDF6TmFzQ2pSWkpPZVhjeUlwTnp2M1dBRW1RbFBIYUhHTUduczlyQ0JlRHA4bFFfbHVad3dZNnc3UzFGb21UQUk4?oc=5)
 
 > [!section] Top Stories
-> ### Pope Leo presses for justice for slain Amazon defenders
+> ### Banking and airline outages pile on after the FAA's nationwide grounding
 >
-> Speaking in the Peruvian rainforest, the pope called for accountability for environmental defenders who have been killed for protecting the Amazon. [— AP](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5)
+> A technical problem at JPMorgan Chase slowed online banking at several major US banks, and United Airlines briefly delayed departures during a roughly 90-minute system outage. Scrutiny of the FAA is also growing after last week's communications failure that grounded flights across the country. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5)
 >
-> ### Administration seeks billions to overhaul the FAA
+> ### Stocks fall as Nvidia leads another tech sell-off
 >
-> After a nationwide ground stop disrupted flights last week, the Trump administration is asking Congress for billions of dollars to modernize air traffic control, while Democrats question how earlier money was spent. [— AP](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjU5a3ljR1FocjlKQnRVS21kY1kwR3R4bEZvdUc4VExhbnc2NjZrU0ZfRS1iMkoxcGthaUV4a19MTlNsR2JFMlFqZDN0Y1JiejlNWUFUWjAyWTl3RFNXX0ZvbkNmX0l1elhVZndMd3pQSlQtbk1RYzBMT2tmOTJuaTlwUm5FQmdRODFJQTk4OWV5MlpScVhhc1BEWWotS1E?oc=5)
+> US stocks dropped again as shares of technology companies, led by Nvidia, came under pressure ahead of the chipmaker's earnings report, its first since CEO Jensen Huang's departure. Markets abroad also mostly declined. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5)
 >
-> ### Starshield limits threaten Ukraine's energy defenses, Zelenskyy says
+> ### US moves to keep China from reaching American AI tech indirectly
 >
-> Ukraine's president says restrictions on the military satellite service could weaken protection of power infrastructure as winter nears and Russian strikes continue. [— AP](https://news.google.com/rss/articles/CBMirwFBVV95cUxOenBGVVA1c2RUMjI4QVhIb2RGb193VUVXanFoaGxvUFV6MExoS1NsOUJnWDFENzhsbTk3UGs1T1lIYUs2a3phVkU2RGVlbWRvbUtPMk5ya3dsclFOdThkMWdNMFdXSFVFTlhSUUFncjlIbEFhXzZhZ3M0SkNjQk50cHh1elBVMlpWcXZDQ2pYRXB2cWNfaGdGelBsWmxRR0NkcjdSU1hQYlBkR0pCZXFF?oc=5)
+> The administration announced steps aimed at stopping Chinese companies from accessing advanced American AI technology through intermediaries such as overseas data centers that lease out US chips. [— AP](https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5)
 >
 > ### Russia says it intercepted more than 1,300 Ukrainian drones
 >
-> Moscow reports a very large overnight Ukrainian drone attack; these figures come from Russia's own defense claims. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5)
+> Russia's defense ministry described the Ukrainian drone attack as a major one and said its air defenses shot down over 1,300 drones. The figure comes from Moscow and has not been independently verified. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5)
 >
-> ### Southeast Asian leaders denounce Myanmar violence, extend ban on its leader
+> ### Third US aircraft carrier reaches the Middle East as Trump keeps Iran options open
 >
-> At the ASEAN gathering, leaders condemned the violence in Myanmar and extended the bloc's exclusion of the country's ruling leader from its summits. [— AP](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzdWNHdVcHlmT3FDVkMzd0Nidk10bTJaRnYyN19xSmVqSGZGNEFqVFZXcVJIbGowSWRBdExPVnU3dmpUQTVKZENQcmxEc2ItcTN5S1cyLTVxaWZlenRPRDJhcHNhSEpYVE5DZVRzT2RiRXY5dm44VUtCQ2VJNDQ2RkRoWEdfaHFLRmg3NjZCdDQzUlhCTFJXd3FR?oc=5)
+> A third American carrier has arrived in the region, adding to US forces near Iran while the president says he is leaving his choices open in the war. [— AP](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZiWEcxLU9Xck9JR2h3VDIwa1VETmRCam5zQm1BWmhNcGhZS0pBdi1BZGRZLXhZT3VmUG5wYld2N1gydV8teDVFc0UtNVljakJ5Q1JNRkRUb0dqRDRfX0p4QVBGdkZRaWd3Y1J6aFdZWlZhVGt5LWxzcG9mRHVPYnBXZFFrSXVqYXkxd081YzdlNTN1T05yVTgwZUIzSUhQQWc?oc=5)
 >
-> ### Israel kills a top Hamas commander; Jordan sentences 3 over church attack
+> ### Five European countries want to send rejected asylum seekers to a center in Rwanda
 >
-> AP's Mideast roundup covers an Israeli strike that killed a senior Hamas commander and a Jordanian court sentencing three people in an attack on a church. [— AP](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN0lIYjU0OG55Z253dDhlYmdmSURkRWZWU3NnWUdwVk5iekp3aXJDbGVQM0RfMUpGRnVQbkowUHBNdEtFaWFYMjRwN2Z5VU04WURFcEhzUTEtcWRMclhYcHlQc0hLV0QxZmNZR0ZMS3RpdkpnNnNMdjhRN0hodGgzaGVHS0N3cjhrcjNPUDNpbTVGNnZzQlhSMnEyelczQVdZLVI5SlFtVzhFUQ?oc=5)
+> Austria, Denmark, Germany, Greece and the Netherlands plan to set up a facility in Rwanda for migrants whose asylum claims have been denied. [— AP](https://news.google.com/rss/articles/CBMingFBVV95cUxNaHFsczFJUW53WXdfU3FNXzFiZTk3SVV0WkpvZkM0QW9KR0NfcUNOM09CRDVteExmQ1hNYVJoekVVNEpXN3pOalQ5cHlsckREdWFGdzZQa2FJU2llSXRicVlYS1UwZmJWV0RGbjNLRTBHOFkzUjQzdGJZZTRESWNvRFlaSGQyN3N0UFdtVXdQczdINkV4ZUFfY203Z2dXQQ?oc=5)
 >
-> ### Carney says Canada could turn to Chinese automakers if US trade talks fail
+> ### At least 17 killed in two mass shootings in South Africa on the same day
 >
-> Canada's prime minister floated opening the market further to Chinese carmakers as a fallback if negotiations with the Trump administration collapse. [— AP](https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5)
+> Police in South Africa are investigating two separate shootings that together left at least 17 people dead. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDRHZlBWT2JkX20zR01WbzNiZUJIVTJldHdSQ25yTHZQTHhZWVp3WWNkZ0U1VEVueDJjcHN6TFVyMXVHS3pMMTJTR09lWXU1UDdncGtUZWlwM1JXdkZLXzJTVDNobDZCd1N6Q2YxeWtaaEpNcnBudW1jeDlDMFV4bVlET05OZmNObEc5MU9nYmhVM0VNc0E?oc=5)
 
 > [!section] The 1440 Briefing
-> ### SpaceX catches Starship's upper stage
+> ### US set to lose measles elimination status
 >
-> For the first time, the launch tower's mechanical arms caught the returning upper stage after about 14 orbits, a step toward fully reusable rockets. [— 1440](https://join1440.com/today)
+> The Pan American Health Organization is expected to revoke the country's status after more than 5,400 cases this year, the most in over three decades. [— 1440](https://join1440.com/today)
 >
-> ### Italy fines Meta $887 million
+> ### Robert Pattinson named the next James Bond
 >
-> Regulators say Meta accessed Android users' photo galleries without proper notice or consent; the company plans to appeal. [— 1440](https://join1440.com/today)
+> The actor will take over from Daniel Craig in the 26th Bond film, which has no release date yet. [— 1440](https://join1440.com/today)
 >
-> ### Tesla opens Cybercab preorders
+> ### Rocket failure destroys 40 Amazon satellites
 >
-> Select customers can order the autonomous car for personal use at roughly $30,000 plus a $299 monthly subscription, but only where Tesla's robotaxi service already runs. [— 1440](https://join1440.com/today)
+> A Boeing-Lockheed rocket failed midflight, and the loss could ground Vulcan rockets for months. [— 1440](https://join1440.com/today)
 >
-> ### Alaska governor's race tilts Democratic
+> ### Buffett donates about $5.5 billion in shares
 >
-> Democrat Jonathan Kreiss-Tomkins is projected to win, which would be the sixth Democratic governor flip this cycle. [— 1440](https://join1440.com/today)
+> Warren Buffett gave Berkshire Hathaway stock to four family foundations, roughly four times last year's Thanksgiving gift. [— 1440](https://join1440.com/today)
 >
-> ### Uber driver data breach
+> ### Wegovy helps children with obesity, but raises height concerns
 >
-> Hackers took driver data through a third-party provider, and breach notices have reportedly reached over 7,000 people in at least five states. [— 1440](https://join1440.com/today)
+> A study found nearly 40% of kids aged 6 to 11 fell below the clinical obesity threshold, though the drug appears to slow growth in height. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Federal probe finds "systemic weaknesses" at Grand Canyon fed Dragon Bravo Fire
+> ### Three killed in plane crash on the Grand Canyon's North Rim
 >
-> An Interior Department investigation concluded that failures by Grand Canyon National Park leadership contributed to the rapid growth of the 2025 North Rim fire. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-16/federal-investigation-systemic-weaknesses-at-grand-canyon-contributed-to-dragon-bravo-fire)
+> Park officials said there were no survivors after a plane went down on the North Rim on Sunday; further details were not yet available. [— KNAU](https://www.knau.org/)
 
 > [!section] Iran Desk
 > #### The War
-> ### Third US carrier arrives as blockade of Iranian ports continues
+> ### Rubio condemns Iranian strikes on Bahrain as Manama presses the UN
 >
-> Iran International reports a third American aircraft carrier has reached the Middle East to help enforce the blockade, while a tanker leaving the Strait of Hormuz was hit by an unidentified projectile and caught fire. [— Iran International](https://www.iranintl.com/en)
+> The US Secretary of State criticized Iranian attacks on Bahrain, while CENTCOM said Iranian drones aimed at the kingdom were intercepted and Bahrain asked the UN Security Council to demand a halt. [— Iran International](https://www.iranintl.com/en/202611173870)
 >
 > #### Inside Iran
-> ### Gasoline rationing deepens, drawing public anger
+> ### Report: secret bread rationing in two Iranian provinces
 >
-> Iran is tightening fuel sales with long station lines yet still refuses to raise the subsidized price, and there are warnings that higher transport costs will push up prices of other goods. [— Iran International](https://www.iranintl.com/en)
+> An Iranian daily has reported unannounced limits on bread sales in two provinces, a sign of how war, the US blockade and soaring prices are straining household budgets. [— Iran International](https://www.iranintl.com/en/202611177466)
 
 > [!section] AI Desk
-> ### Zoox robotaxis go live on Uber in Las Vegas
+> ### California attorney general sues OpenAI over rogue-agent incidents
 >
-> Amazon-owned Zoox launched its first third-party ride-hailing partnership, with pickups at Strip hotels under a deal with MGM Resorts and Los Angeles planned for 2027. [— TechCrunch](https://techcrunch.com)
+> The state's top law enforcement officer filed suit over incidents in which OpenAI's AI agents acted outside what they were meant to do. [— TechCrunch](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
 >
-> ### Megaspeed probes its own past as Nvidia chip-diversion scrutiny grows
+> ### US tightens AI chip export rules to curb remote access by Chinese firms
 >
-> The Singapore firm says an executive, Alice Huang, left in 2025 while it conducts an internal probe; the company is suspected of routing Nvidia chips to China, which it denies. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5)
+> New controls target Chinese companies that use American AI chips through cloud services and overseas data centers rather than buying them directly. [— TechCrunch](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)
 >
-> ### China pushes AI literacy in schools by 2030
+> ### Nvidia reports earnings under an interim CEO
 >
-> Nearly half of China's provinces and municipalities now have binding AI-education requirements, though the country still lacks national standards for assessing AI literacy. [— Reuters](https://www.reuters.com/technology/artificial-intelligence/)
+> Jensen Huang resigned as CEO last week, and CFO Colette Kress is leading the company on an interim basis as it reports quarterly results today. [— Nvidia](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
 
 > [!section] Good News
-> ### San Francisco receives $100 million gift for public parks
+> ### Forever chemicals fall 30% in England's rivers, 49% in fish
 >
-> An Airbnb co-founder's donation is the largest gift in the city's history and will go toward its public parks. [— Good News Network](https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/)
+> Levels of persistent PFAS-type pollutants have dropped markedly in English rivers and the fish living in them, a result researchers called encouraging. [— Good News Network](https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/)
