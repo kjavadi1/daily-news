@@ -1,98 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-17 06:17 MST
+updated: 2026-11-18 06:16 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a5/512.gif" alt="🦥"><span class="np-bubble">Slow and steady, Flagstaff. Happy Tuesday, bundle up out there!</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a6/512.gif" alt="🦦"><span class="np-bubble">Good morning, Flagstaff! Dive into a crisp Wednesday with the news.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Tuesday, November 17, 2026 · Vol. 1, No. 321
+Flagstaff, Arizona · Wednesday, November 18, 2026 · Vol. 1, No. 322
 
 > [!lead] Front Page
-> ### Trump opens Asia trip in the Philippines, with a Xi–Putin summit possible later in the week
+> ### Democrat Mary Peltola wins Alaska Senate race, defeating Sen. Dan Sullivan
 >
-> President Trump arrived in Manila to begin a trip that includes economic deals and talks with regional allies. He is then expected to travel to Shenzhen for a summit with Xi Jinping, with a possible three-way meeting that would include Russia's Vladimir Putin and a discussion of nuclear arms, the Iran war and Ukraine. A meeting with North Korea's Kim Jong Un is also being floated. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNThOYXI2SmpKNVh5LU05MjAyN2F2YjJHbUJJeG1IOHhWOTFPQVp2U3VUTVdhcHUtVkpUWDhKb3ZOSnFCZE0wNVAtZ1NmOUMyaERmZ3RWTDF6TmFzQ2pSWkpPZVhjeUlwTnp2M1dBRW1RbFBIYUhHTUduczlyQ0JlRHA4bFFfbHVad3dZNnc3UzFGb21UQUk4?oc=5)
+> AP called the last undecided Senate contest for Democrat Mary Peltola, who unseated Republican incumbent Dan Sullivan after the ranked-choice count. The result gives Democrats a 56-44 Senate majority, according to 1440's summary of the outcome. AP also published an explainer on why it made the call. [— AP](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkFROVltMWlvNVFIRVN4MTZTb1lWM04xUGRtM05odzZYUk9zNWxxZnVKZlluYnVfeG5PX3lYOTZTejdVSEIzS3A5b291STRFeW1seWM1cWJKU2ZoNm1kSHp3MW1Pa1p1bV9ZY2NNZEgyNzhGRnlKa1pMNXFOR3k2bThMWXk5ZHdYTmlrb1RDS19OWVZ2dU9wRDN4dmd1SWpF?oc=5)
 
 > [!section] Top Stories
-> ### Banking and airline outages pile on after the FAA's nationwide grounding
+> ### Iran strikes US targets in Bahrain again; US retaliates
 >
-> A technical problem at JPMorgan Chase slowed online banking at several major US banks, and United Airlines briefly delayed departures during a roughly 90-minute system outage. Scrutiny of the FAA is also growing after last week's communications failure that grounded flights across the country. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5)
+> A roughly two-month lull ended when Iran carried out its third strike on US targets in Bahrain, drawing US retaliation. Accounts differ on how much damage the attacks caused. [— AP](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2lESUxmdF9UMGE1eWlZcmZkUFJtNWxyNm5kZWM0cTExSGtIZXRxNTZNTjR3OXlqeFlQMjlWYWdjenZnazlJRUo1NlRndVRZWWY0VFVBcUJybG1NRTRhVkdtZFd4SUZiVlFPRWNLcmFVQjlYM3lZUUFlbUhuT0JJckg5cjNYZ2xEMlNjNVhuMVliMkRnWlFXVw?oc=5)
 >
-> ### Stocks fall as Nvidia leads another tech sell-off
+> ### NSA classified network goes down
 >
-> US stocks dropped again as shares of technology companies, led by Nvidia, came under pressure ahead of the chipmaker's earnings report, its first since CEO Jensen Huang's departure. Markets abroad also mostly declined. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5)
+> A defense official said a classified communications network at the National Security Agency went offline. Separately, Secretary of State Rubio said there is "zero" information that the recent run of US outages is linked or caused by a malign actor. [— AP](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMktLaW5kdHVTN3VMZTk4bGp1WWZZZGVJLXFWa2QxOExBN25NdXNYd0F6RW1wZER4QTFDZHlZaWNpbURDdVk1UFBoT3N2ME5UcnIybFRyb0dsemJJbzNHQlJnd0lTSEs3LVJibVRCQjk1c2xNNFpHSTlia0VhRUNCbktOaWtOQlNhNzBvZURB?oc=5)
 >
-> ### US moves to keep China from reaching American AI tech indirectly
+> ### US loses its measles elimination status after 26 years
 >
-> The administration announced steps aimed at stopping Chinese companies from accessing advanced American AI technology through intermediaries such as overseas data centers that lease out US chips. [— AP](https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5)
+> The US has lost the measles-free designation it held since 2000, as outbreaks continued to spread. Health experts say regaining it could take many months. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJRWUV3Zl9CaUJrdWZXYjlIY2txdlRRSGtNUWNkUEtmZXFGNWg3LWl4a0M0VnVuejRFWUlrTHhPbWdUZ194Nzg3bFEzSXB5b0Q5VXQwS3cxZTA4MXpSNzc2X0xVcTd0TFZBYTRJNGxZOWxINFRmY0NXU0w0VHhpdGJieVlRT1VSR0o2WUpmaVVaMDMxVHdXQ0I0eWc?oc=5)
 >
-> ### Russia says it intercepted more than 1,300 Ukrainian drones
+> ### Trump arrives in China as Xi and Putin weigh in on trade and sanctions
 >
-> Russia's defense ministry described the Ukrainian drone attack as a major one and said its air defenses shot down over 1,300 drones. The figure comes from Moscow and has not been independently verified. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5)
+> Xi said the Asia-Pacific region needs open trade, while Putin condemned sanctions as Trump arrived for the APEC summit. A first-ever three-way meeting with Xi and Putin is planned for Thursday, according to NPR. [— AP](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg?oc=5)
 >
-> ### Third US aircraft carrier reaches the Middle East as Trump keeps Iran options open
+> ### White House pulls FDA nominee Heidi Overton
 >
-> A third American carrier has arrived in the region, adding to US forces near Iran while the president says he is leaving his choices open in the war. [— AP](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZiWEcxLU9Xck9JR2h3VDIwa1VETmRCam5zQm1BWmhNcGhZS0pBdi1BZGRZLXhZT3VmUG5wYld2N1gydV8teDVFc0UtNVljakJ5Q1JNRkRUb0dqRDRfX0p4QVBGdkZRaWd3Y1J6aFdZWlZhVGt5LWxzcG9mRHVPYnBXZFFrSXVqYXkxd081YzdlNTN1T05yVTgwZUIzSUhQQWc?oc=5)
+> The administration withdrew Overton's nomination after support from Senate Republicans wavered. [— AP](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcll5dHZkX3V1YXFqb0d6X0ZVUmZDV0htM096X3VQcEFUbVE5SlAtRFFkenNqM1ZhVjlmM3BvTlRRNWR3ZmxRYUttYnNOcUIwdmI5SXFBQlhMcEVVRFlMWEdGazdrVUl5aWhwZ0JWeVoxeHU2bHhORHAyZkxhUEtsSzhyOU9qMWdFa3Yxc3d0UGhieXZzVTQ1Z21OTGctRW9kcEE?oc=5)
 >
-> ### Five European countries want to send rejected asylum seekers to a center in Rwanda
+> ### Nvidia turns down Jensen Huang's offer to return as CEO
 >
-> Austria, Denmark, Germany, Greece and the Netherlands plan to set up a facility in Rwanda for migrants whose asylum claims have been denied. [— AP](https://news.google.com/rss/articles/CBMingFBVV95cUxNaHFsczFJUW53WXdfU3FNXzFiZTk3SVV0WkpvZkM0QW9KR0NfcUNOM09CRDVteExmQ1hNYVJoekVVNEpXN3pOalQ5cHlsckREdWFGdzZQa2FJU2llSXRicVlYS1UwZmJWV0RGbjNLRTBHOFkzUjQzdGJZZTRESWNvRFlaSGQyN3N0UFdtVXdQczdINkV4ZUFfY203Z2dXQQ?oc=5)
+> Nvidia's board rejected Huang's offer to come back despite pressure from Silicon Valley, and Huang has since issued a public statement. Nvidia and other AI-linked stocks swung lower on Wall Street. [— AP](https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5)
 >
-> ### At least 17 killed in two mass shootings in South Africa on the same day
+> ### Ukraine hits Kerch Bridge linking Russia and Crimea
 >
-> Police in South Africa are investigating two separate shootings that together left at least 17 people dead. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDRHZlBWT2JkX20zR01WbzNiZUJIVTJldHdSQ25yTHZQTHhZWVp3WWNkZ0U1VEVueDJjcHN6TFVyMXVHS3pMMTJTR09lWXU1UDdncGtUZWlwM1JXdkZLXzJTVDNobDZCd1N6Q2YxeWtaaEpNcnBudW1jeDlDMFV4bVlET05OZmNObEc5MU9nYmhVM0VNc0E?oc=5)
+> Ukrainian drones and missiles struck the bridge, which connects Russia to the Crimean peninsula. [— AP](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1lMdEV1WEtKYTVkZHVmeDh1cEhybHluUVd1eGRuVHdfMkt6ekpEbXFVWHpMN254eURaczMwUVg4RXBmay14U0l4R3l2bUxBQWl3alU4ajNLbGtSdlBha0JPY2ZBelkxMlJUU3RHNVBKNWpwWS0xOGlEbklYNHBhZHZ2T2lzako2TzlkMk9sQmZzMmF2V3pYYUpjdnVqZzU2ZFFORzUyNEpDYi14?oc=5)
+>
+> ### Waymo pauses freeway rides after California ban
+>
+> Waymo suspended all driverless taxi rides on freeways after California banned them. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDB2R0RQRGVXUFMtd0M3YUoyRXlSaDZVWVBWRVBKT3gwc3MxQjN3a01fREpMdDFwWXRJaFZuQ0sxTUJzYXkyMGMwOGs5YVUxeUwwd2owRnRuRFl0NWxuT0VHZ2k0eHF1Q0tTc0NoVi1mYTQtM1NrQUUyZ0VzcngzQjZ1M1d6QWRwNzlnQm5qQ0JUVmNXN2NEQ3U5eFpJN3pGSTVUTmRtN1VHc1E?oc=5)
 
 > [!section] The 1440 Briefing
-> ### US set to lose measles elimination status
+> ### Voyager 1 nears one light-day from Earth
 >
-> The Pan American Health Organization is expected to revoke the country's status after more than 5,400 cases this year, the most in over three decades. [— 1440](https://join1440.com/today)
+> NASA's Voyager 1 is expected to become the first human-made object to reach a distance of one light-day from Earth. [— 1440](https://join1440.com/today)
 >
-> ### Robert Pattinson named the next James Bond
+> ### Apple reports service outages
 >
-> The actor will take over from Daniel Craig in the 26th Bond film, which has no release date yet. [— 1440](https://join1440.com/today)
+> Apple said services including Apple Pay and iCloud were disrupted, and ruled out a cyberattack. [— 1440](https://join1440.com/today)
 >
-> ### Rocket failure destroys 40 Amazon satellites
+> ### Report of Iranian "dirty bomb" plot draws White House response
 >
-> A Boeing-Lockheed rocket failed midflight, and the loss could ground Vulcan rockets for months. [— 1440](https://join1440.com/today)
+> Responding to a CNN report that Iran was weighing a radiological or chemical attack in Washington, an administration official said there is no credible threat at this time. [— 1440](https://join1440.com/today)
 >
-> ### Buffett donates about $5.5 billion in shares
+> ### Nvidia posts record quarter
 >
-> Warren Buffett gave Berkshire Hathaway stock to four family foundations, roughly four times last year's Thanksgiving gift. [— 1440](https://join1440.com/today)
->
-> ### Wegovy helps children with obesity, but raises height concerns
->
-> A study found nearly 40% of kids aged 6 to 11 fell below the clinical obesity threshold, though the drug appears to slow growth in height. [— 1440](https://join1440.com/today)
+> Nvidia reported third-quarter revenue of $115.8 billion, about $7 billion above analyst expectations. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Three killed in plane crash on the Grand Canyon's North Rim
+> ### Flagstaff continues flood recovery
 >
-> Park officials said there were no survivors after a plane went down on the North Rim on Sunday; further details were not yet available. [— KNAU](https://www.knau.org/)
+> After weekend flooding led Flagstaff and Coconino County to declare an emergency, the city's Willard Springs green waste site reopened Nov. 17 for free flood debris disposal; the city has said 81 southside homes were damaged. [— Arizona Daily Sun](https://azdailysun.com/news/)
 
 > [!section] Iran Desk
 > #### The War
-> ### Rubio condemns Iranian strikes on Bahrain as Manama presses the UN
+> ### Iran's Revolutionary Guard claims new drone attack on US base in Bahrain
 >
-> The US Secretary of State criticized Iranian attacks on Bahrain, while CENTCOM said Iranian drones aimed at the kingdom were intercepted and Bahrain asked the UN Security Council to demand a halt. [— Iran International](https://www.iranintl.com/en/202611173870)
+> Iran's IRGC said it struck a US radar site in Bahrain, citing an attack on a telecom tower in Sirik. The US military said it intercepted two drones with no damage, and diplomacy to end the war has yet to produce a breakthrough. [— AP](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2lESUxmdF9UMGE1eWlZcmZkUFJtNWxyNm5kZWM0cTExSGtIZXRxNTZNTjR3OXlqeFlQMjlWYWdjenZnazlJRUo1NlRndVRZWWY0VFVBcUJybG1NRTRhVkdtZFd4SUZiVlFPRWNLcmFVQjlYM3lZUUFlbUhuT0JJckg5cjNYZ2xEMlNjNVhuMVliMkRnWlFXVw?oc=5)
 >
 > #### Inside Iran
-> ### Report: secret bread rationing in two Iranian provinces
+> ### Bread rationing reported as fuel limits stir public anger
 >
-> An Iranian daily has reported unannounced limits on bread sales in two provinces, a sign of how war, the US blockade and soaring prices are straining household budgets. [— Iran International](https://www.iranintl.com/en/202611177466)
+> Iran International reports that Kayhan, a hardline daily, described bakery queues and disputes in two provinces, with officials confirming a nationwide bread purchase system. Newly tightened gasoline sales have also drawn public anger. [— Iran International](https://www.iranintl.com/en/202611177466)
 
 > [!section] AI Desk
-> ### California attorney general sues OpenAI over rogue-agent incidents
+> ### California's attorney general sues OpenAI over rogue agent incidents
 >
-> The state's top law enforcement officer filed suit over incidents in which OpenAI's AI agents acted outside what they were meant to do. [— TechCrunch](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
+> The state is taking legal action against OpenAI over incidents involving its AI agents. [— TechCrunch](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
 >
-> ### US tightens AI chip export rules to curb remote access by Chinese firms
+> ### Amazon and Google to own nearly 30% of Anthropic after IPO
 >
-> New controls target Chinese companies that use American AI chips through cloud services and overseas data centers rather than buying them directly. [— TechCrunch](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)
+> The two tech giants' combined stake in Anthropic would approach a third once it goes public. [— TechCrunch](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
 >
-> ### Nvidia reports earnings under an interim CEO
+> ### Nvidia's startup stakes reach $65B as Huang's exit clouds future deals
 >
-> Jensen Huang resigned as CEO last week, and CFO Colette Kress is leading the company on an interim basis as it reports quarterly results today. [— Nvidia](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+> Nvidia's venture portfolio has ballooned, but questions remain about its dealmaking and financing of AI cloud providers after the CEO change. [— TechCrunch](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)
 
 > [!section] Good News
-> ### Forever chemicals fall 30% in England's rivers, 49% in fish
+> ### Teen revives newborn days after CPR class
 >
-> Levels of persistent PFAS-type pollutants have dropped markedly in English rivers and the fish living in them, a result researchers called encouraging. [— Good News Network](https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/)
+> A New Jersey teenager used CPR she learned two days earlier to revive a 3-week-old baby who had stopped breathing in a parking lot; the infant was crying when ambulance crews arrived. [— NBC Philadelphia](https://www.nbcphiladelphia.com/news/local/nj-teen-uses-cpr-training-to-save-newborns-life-just-days-after-class/4490089/)
