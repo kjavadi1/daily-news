@@ -2,7 +2,7 @@
 cssclasses: newspaper
 updated: 2026-11-18 06:16 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a6/512.gif" alt="🦦"><span class="np-bubble">Good morning, Flagstaff! Dive into a crisp Wednesday with the news.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f994/512.gif" alt="🦔"><span class="np-bubble">Good morning, Flagstaff! Bundle up and catch up on the news.</span></div>
 
 # The Morning Edition
 
