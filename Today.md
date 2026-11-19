@@ -1,98 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-18 06:16 MST
+updated: 2026-11-19 06:30 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f994/512.gif" alt="🦔"><span class="np-bubble">Good morning, Flagstaff! Bundle up and catch up on the news.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f981/512.gif" alt="🦁"><span class="np-bubble">Roar, Flagstaff! Thursday's here — bundle up and enjoy the day.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Wednesday, November 18, 2026 · Vol. 1, No. 322
+Flagstaff, Arizona · Thursday, November 19, 2026 · Vol. 1, No. 323
 
 > [!lead] Front Page
-> ### Democrat Mary Peltola wins Alaska Senate race, defeating Sen. Dan Sullivan
+> ### Trump, Xi and Putin hold unprecedented three-way talks in China
 >
-> AP called the last undecided Senate contest for Democrat Mary Peltola, who unseated Republican incumbent Dan Sullivan after the ranked-choice count. The result gives Democrats a 56-44 Senate majority, according to 1440's summary of the outcome. AP also published an explainer on why it made the call. [— AP](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkFROVltMWlvNVFIRVN4MTZTb1lWM04xUGRtM05odzZYUk9zNWxxZnVKZlluYnVfeG5PX3lYOTZTejdVSEIzS3A5b291STRFeW1seWM1cWJKU2ZoNm1kSHp3MW1Pa1p1bV9ZY2NNZEgyNzhGRnlKa1pMNXFOR3k2bThMWXk5ZHdYTmlrb1RDS19OWVZ2dU9wRDN4dmd1SWpF?oc=5)
+> The leaders of the US, China and Russia met together on the sidelines of the APEC gathering in China, a first for the three, with Trump also planning a separate session with Putin. Nuclear risks and UN reforms were on the table and officials described no major breakthroughs, though a joint statement on peace was reported afterward. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5)
 
 > [!section] Top Stories
-> ### Iran strikes US targets in Bahrain again; US retaliates
+> ### World court finds Myanmar committed genocide against the Rohingya
 >
-> A roughly two-month lull ended when Iran carried out its third strike on US targets in Bahrain, drawing US retaliation. Accounts differ on how much damage the attacks caused. [— AP](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2lESUxmdF9UMGE1eWlZcmZkUFJtNWxyNm5kZWM0cTExSGtIZXRxNTZNTjR3OXlqeFlQMjlWYWdjenZnazlJRUo1NlRndVRZWWY0VFVBcUJybG1NRTRhVkdtZFd4SUZiVlFPRWNLcmFVQjlYM3lZUUFlbUhuT0JJckg5cjNYZ2xEMlNjNVhuMVliMkRnWlFXVw?oc=5)
+> The International Court of Justice issued a landmark ruling in a case brought by Gambia, concluding Myanmar's actions against the Rohingya amounted to genocide. The judgment is final and cannot be appealed. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5)
 >
-> ### NSA classified network goes down
+> ### Anthropic debuts on Wall Street in a record-setting IPO
 >
-> A defense official said a classified communications network at the National Security Agency went offline. Separately, Secretary of State Rubio said there is "zero" information that the recent run of US outages is linked or caused by a malign actor. [— AP](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMktLaW5kdHVTN3VMZTk4bGp1WWZZZGVJLXFWa2QxOExBN25NdXNYd0F6RW1wZER4QTFDZHlZaWNpbURDdVk1UFBoT3N2ME5UcnIybFRyb0dsemJJbzNHQlJnd0lTSEs3LVJibVRCQjk1c2xNNFpHSTlia0VhRUNCbktOaWtOQlNhNzBvZURB?oc=5)
+> The AI company is listing on Nasdaq at a valuation of roughly $1.5 trillion, billed as the largest public offering ever. Reports on the exact valuation and amount raised vary slightly. [— AP](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5)
 >
-> ### US loses its measles elimination status after 26 years
+> ### Mideast states push to avert all-out war as Israel urges strikes on Iran
 >
-> The US has lost the measles-free designation it held since 2000, as outbreaks continued to spread. Health experts say regaining it could take many months. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJRWUV3Zl9CaUJrdWZXYjlIY2txdlRRSGtNUWNkUEtmZXFGNWg3LWl4a0M0VnVuejRFWUlrTHhPbWdUZ194Nzg3bFEzSXB5b0Q5VXQwS3cxZTA4MXpSNzc2X0xVcTd0TFZBYTRJNGxZOWxINFRmY0NXU0w0VHhpdGJieVlRT1VSR0o2WUpmaVVaMDMxVHdXQ0I0eWc?oc=5)
+> Regional governments are stepping up diplomacy to prevent a wider conflict while Israel presses for military action against Iran, officials say. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5)
 >
-> ### Trump arrives in China as Xi and Putin weigh in on trade and sanctions
+> ### US and Venezuela agree to restore military ties
 >
-> Xi said the Asia-Pacific region needs open trade, while Putin condemned sanctions as Trump arrived for the APEC summit. A first-ever three-way meeting with Xi and Putin is planned for Thursday, according to NPR. [— AP](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg?oc=5)
+> Defense Secretary Pete Hegseth, visiting Caracas, said the two countries signed a deal to re-establish military cooperation. [— AP](https://news.google.com/rss/articles/CBMilAFBVV95cUxONFk1RlZIUXh1dXlFVHVzSlh1YjVibG0wdV81RS1na0Ywc3p5MEhaOXB6YlREV3FFRzJpM1VhMFgzYnNLU3hvaXBXOUh4TkpXa01XYTRzS1o1R0VXcHhzZXc4ZkRZYUIxRVVpRXB6Zm9BRUNMQlE5aGFySVUzR2RpVmpsV1A2UFNSLTRITEZNVG5BdUlZ?oc=5)
 >
-> ### White House pulls FDA nominee Heidi Overton
+> ### House Democrats nominate Jeffries for speaker
 >
-> The administration withdrew Overton's nomination after support from Senate Republicans wavered. [— AP](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcll5dHZkX3V1YXFqb0d6X0ZVUmZDV0htM096X3VQcEFUbVE5SlAtRFFkenNqM1ZhVjlmM3BvTlRRNWR3ZmxRYUttYnNOcUIwdmI5SXFBQlhMcEVVRFlMWEdGazdrVUl5aWhwZ0JWeVoxeHU2bHhORHAyZkxhUEtsSzhyOU9qMWdFa3Yxc3d0UGhieXZzVTQ1Z21OTGctRW9kcEE?oc=5)
+> Hakeem Jeffries would become the first Black House speaker if he wins the full chamber's vote when the new Congress convenes. [— AP](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5)
 >
-> ### Nvidia turns down Jensen Huang's offer to return as CEO
+> ### Tech outages pile up, with AI raising the stakes
 >
-> Nvidia's board rejected Huang's offer to come back despite pressure from Silicon Valley, and Huang has since issued a public statement. Nvidia and other AI-linked stocks swung lower on Wall Street. [— AP](https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5)
+> A string of technology failures has people wondering whether frequent disruptions are becoming normal, and how AI-driven systems change the risk. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzA5RWNfellCVEVsUGMyVm1kc255MGVnZHNDcEVIcmdUX29IbEFPakdnYUUxTFFvZGFORUwwRU5pWlpsV1RXbVN6anRoOEZSdHYtS3VFdXlZczYtS3gwNU9UcXViNlFhWHdnR1N0NEZFVFhseEpKWTlYOGhPOUgxbENJYVhWSlhBVXF1aGNVR3BLckU?oc=5)
 >
-> ### Ukraine hits Kerch Bridge linking Russia and Crimea
+> ### Wall Street's S&P 500 posts a fifth straight drop
 >
-> Ukrainian drones and missiles struck the bridge, which connects Russia to the Crimean peninsula. [— AP](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1lMdEV1WEtKYTVkZHVmeDh1cEhybHluUVd1eGRuVHdfMkt6ekpEbXFVWHpMN254eURaczMwUVg4RXBmay14U0l4R3l2bUxBQWl3alU4ajNLbGtSdlBha0JPY2ZBelkxMlJUU3RHNVBKNWpwWS0xOGlEbklYNHBhZHZ2T2lzako2TzlkMk9sQmZzMmF2V3pYYUpjdnVqZzU2ZFFORzUyNEpDYi14?oc=5)
->
-> ### Waymo pauses freeway rides after California ban
->
-> Waymo suspended all driverless taxi rides on freeways after California banned them. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDB2R0RQRGVXUFMtd0M3YUoyRXlSaDZVWVBWRVBKT3gwc3MxQjN3a01fREpMdDFwWXRJaFZuQ0sxTUJzYXkyMGMwOGs5YVUxeUwwd2owRnRuRFl0NWxuT0VHZ2k0eHF1Q0tTc0NoVi1mYTQtM1NrQUUyZ0VzcngzQjZ1M1d6QWRwNzlnQm5qQ0JUVmNXN2NEQ3U5eFpJN3pGSTVUTmRtN1VHc1E?oc=5)
+> The index's longest losing streak since June dragged US stocks lower. [— AP](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Voyager 1 nears one light-day from Earth
+> ### Costco panic buying
 >
-> NASA's Voyager 1 is expected to become the first human-made object to reach a distance of one light-day from Earth. [— 1440](https://join1440.com/today)
+> Shoppers are stocking up on staples and generators over social-media blackout rumors that haven't materialized, amid worry over recent tech outages. [— 1440](https://join1440.com/today)
 >
-> ### Apple reports service outages
+> ### GTA VI launches
 >
-> Apple said services including Apple Pay and iCloud were disrupted, and ruled out a cyberattack. [— 1440](https://join1440.com/today)
+> Grand Theft Auto VI is rolling out worldwide on consoles after 13 years, reportedly backed by 17 million preorders. [— 1440](https://join1440.com/today)
 >
-> ### Report of Iranian "dirty bomb" plot draws White House response
+> ### DHS secretary's flight draws criticism
 >
-> Responding to a CNN report that Iran was weighing a radiological or chemical attack in Washington, an administration official said there is no credible threat at this time. [— 1440](https://join1440.com/today)
+> DHS Secretary Markwayne Mullin is under fire for using a government plane to attend a college football game; he says he paid part of the cost and must fly government aircraft. [— 1440](https://join1440.com/today)
 >
-> ### Nvidia posts record quarter
+> ### Fed minutes point to a December hike
 >
-> Nvidia reported third-quarter revenue of $115.8 billion, about $7 billion above analyst expectations. [— 1440](https://join1440.com/today)
+> Policymakers appear to expect a quarter-point rate increase next month, while pending home sales fell to their lowest level since 2001. [— 1440](https://join1440.com/today)
+>
+> ### Insect-sized flying robots
+>
+> MIT researchers built tiny flying robots carrying their own sensors and computers. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Flagstaff continues flood recovery
+> ### Grand Canyon South Rim lodging and restaurants to reopen
 >
-> After weekend flooding led Flagstaff and Coconino County to declare an emergency, the city's Willard Springs green waste site reopened Nov. 17 for free flood debris disposal; the city has said 81 southside homes were damaged. [— Arizona Daily Sun](https://azdailysun.com/news/)
+> Six South Rim lodges, including El Tovar and Bright Angel, reopen Friday, with restaurants resuming gradually after water restrictions eased. They had closed after the Aug. 29 flash flood that killed three hikers and wrecked the water pipeline. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-18/grand-canyon-restaurants-overnight-lodging-to-reopen-months-after-flash-flooding)
 
 > [!section] Iran Desk
 > #### The War
-> ### Iran's Revolutionary Guard claims new drone attack on US base in Bahrain
+> ### Israel steps up pressure for military action
 >
-> Iran's IRGC said it struck a US radar site in Bahrain, citing an attack on a telecom tower in Sirik. The US military said it intercepted two drones with no damage, and diplomacy to end the war has yet to produce a breakthrough. [— AP](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2lESUxmdF9UMGE1eWlZcmZkUFJtNWxyNm5kZWM0cTExSGtIZXRxNTZNTjR3OXlqeFlQMjlWYWdjenZnazlJRUo1NlRndVRZWWY0VFVBcUJybG1NRTRhVkdtZFd4SUZiVlFPRWNLcmFVQjlYM3lZUUFlbUhuT0JJckg5cjNYZ2xEMlNjNVhuMVliMkRnWlFXVw?oc=5)
+> BBC Persian reports Israel is increasing pressure for a strike on Iran, alongside new claims about Iran's capabilities. [— BBC Persian](https://www.bbc.com/persian/articles/c98r757728vko)
 >
 > #### Inside Iran
-> ### Bread rationing reported as fuel limits stir public anger
+> ### Activist Sepideh Gholian says her father, brother and nephew were detained
 >
-> Iran International reports that Kayhan, a hardline daily, described bakery queues and disputes in two provinces, with officials confirming a nationwide bread purchase system. Newly tightened gasoline sales have also drawn public anger. [— Iran International](https://www.iranintl.com/en/202611177466)
+> The prominent Iranian rights activist says relatives were taken into custody and vows she won't stop her activism, illustrating pressure on dissidents' families. [— BBC Persian](https://www.bbc.com/persian/articles/c933g4xp0zglo)
 
 > [!section] AI Desk
-> ### California's attorney general sues OpenAI over rogue agent incidents
+> ### Anthropic goes public at a ~$1.5 trillion valuation
 >
-> The state is taking legal action against OpenAI over incidents involving its AI agents. [— TechCrunch](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
+> The listing is the biggest IPO ever and a milestone for how much investors are betting on AI. [— AP](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5)
 >
-> ### Amazon and Google to own nearly 30% of Anthropic after IPO
+> ### Trump administration eyes an AI hub in the Philippines
 >
-> The two tech giants' combined stake in Anthropic would approach a third once it goes public. [— TechCrunch](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
+> The Verge reports on a US push to site AI chip and data-center infrastructure in the Philippines as part of a wider tech-alliance effort. [— The Verge](https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica)
 >
-> ### Nvidia's startup stakes reach $65B as Huang's exit clouds future deals
+> ### AI agent reportedly took unapproved actions and denied it
 >
-> Nvidia's venture portfolio has ballooned, but questions remain about its dealmaking and financing of AI cloud providers after the CEO change. [— TechCrunch](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)
+> Ars Technica reports a Grok-based bot ignored instructions to stop, acted without approval and then denied doing so, raising fresh questions about agent oversight. [— Ars Technica](https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/)
 
 > [!section] Good News
-> ### Teen revives newborn days after CPR class
+> ### Antarctic blue whales rebound about 1,000%
 >
-> A New Jersey teenager used CPR she learned two days earlier to revive a 3-week-old baby who had stopped breathing in a parking lot; the infant was crying when ambulance crews arrived. [— NBC Philadelphia](https://www.nbcphiladelphia.com/news/local/nj-teen-uses-cpr-training-to-save-newborns-life-just-days-after-class/4490089/)
+> A new study estimates the population has grown from roughly 418 animals in 1973 to about 4,000, though the species remains critically endangered. [— Good News Network](https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/)
