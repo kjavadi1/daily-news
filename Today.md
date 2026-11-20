@@ -1,98 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-19 06:30 MST
+updated: 2026-11-20 06:20 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f981/512.gif" alt="🦁"><span class="np-bubble">Roar, Flagstaff! Thursday's here — bundle up and enjoy the day.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f438/512.gif" alt="🐸"><span class="np-bubble">Ribbit! Happy Friday, Flagstaff — bundle up and enjoy the day.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Thursday, November 19, 2026 · Vol. 1, No. 323
+Flagstaff, Arizona · Friday, November 20, 2026 · Vol. 1, No. 324
 
 > [!lead] Front Page
-> ### Trump, Xi and Putin hold unprecedented three-way talks in China
+> ### Trump, Xi and Putin hold first three-way talks on nuclear risks
 >
-> The leaders of the US, China and Russia met together on the sidelines of the APEC gathering in China, a first for the three, with Trump also planning a separate session with Putin. Nuclear risks and UN reforms were on the table and officials described no major breakthroughs, though a joint statement on peace was reported afterward. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5)
+> The leaders of the United States, China and Russia met together for the first time on the sidelines of the APEC gathering in China, focusing on nuclear arms and the war involving Iran. Analysts had expected little substance, and the talks produced no breakthroughs on arms control. Putin used the appearance to raise his standing on the world stage. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5)
 
 > [!section] Top Stories
-> ### World court finds Myanmar committed genocide against the Rohingya
+> ### Anthropic shares jump in record-setting stock market debut
 >
-> The International Court of Justice issued a landmark ruling in a case brought by Gambia, concluding Myanmar's actions against the Rohingya amounted to genocide. The judgment is final and cannot be appealed. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5)
+> The AI company's shares rose sharply on their first day of trading after the largest IPO on record, which priced at $83 a share and valued it at roughly $1.5 trillion. The debut came amid ongoing public debate over the safety of advanced AI. [— AP](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5)
 >
-> ### Anthropic debuts on Wall Street in a record-setting IPO
+> ### Wall Street slides to its longest losing streak since 2024
 >
-> The AI company is listing on Nasdaq at a valuation of roughly $1.5 trillion, billed as the largest public offering ever. Reports on the exact valuation and amount raised vary slightly. [— AP](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5)
+> The Dow fell about 1,100 points on Thursday, and the S&P 500 dropped roughly 2% for a sixth straight decline. [— AP](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHVUbzYtdzBpNHpVbTdJWlVrRWpxZmJTVG15bS10TGN2ZzRJS29FYkoxcEgzNG9ZNGVhd1hoaHNLVzVfQ3RVYWprUFJWUnRHNm15U1BBUFc5Y2otZmltZHVCTkdySV96TzliMWFQU3o1X0g5cThPVWViMW8yYjBHWGJOamhvRGt2a0lBZUFzZTVTSURW?oc=5)
 >
-> ### Mideast states push to avert all-out war as Israel urges strikes on Iran
+> ### UN court finds Myanmar responsible for genocide against Rohingya
 >
-> Regional governments are stepping up diplomacy to prevent a wider conflict while Israel presses for military action against Iran, officials say. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5)
+> The International Court of Justice issued its first-ever ruling holding a state responsible for genocide under the 1948 convention. Myanmar's government dismissed the decision as unfair, and the court has no direct means to enforce it. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5)
 >
-> ### US and Venezuela agree to restore military ties
+> ### Kushner says Russia is open to NATO-style guarantees for Ukraine
 >
-> Defense Secretary Pete Hegseth, visiting Caracas, said the two countries signed a deal to re-establish military cooperation. [— AP](https://news.google.com/rss/articles/CBMilAFBVV95cUxONFk1RlZIUXh1dXlFVHVzSlh1YjVibG0wdV81RS1na0Ywc3p5MEhaOXB6YlREV3FFRzJpM1VhMFgzYnNLU3hvaXBXOUh4TkpXa01XYTRzS1o1R0VXcHhzZXc4ZkRZYUIxRVVpRXB6Zm9BRUNMQlE5aGFySVUzR2RpVmpsV1A2UFNSLTRITEZNVG5BdUlZ?oc=5)
+> Jared Kushner said he believes Moscow is "comfortable" with security guarantees for Ukraine modeled on NATO's, as peace diplomacy continues. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5)
 >
-> ### House Democrats nominate Jeffries for speaker
+> ### Army postpones detonation of bomb-making chemicals in Iowa
 >
-> Hakeem Jeffries would become the first Black House speaker if he wins the full chamber's vote when the new Congress convenes. [— AP](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5)
+> The Army delayed the planned destruction of roughly five tons of unstable explosives after public safety worries about a possible lead dust cloud. About 360 nearby residents had been told to evacuate. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWE1NdlJBdlZyMDMta2JjYVJ0TWViaFMyRWJ3TFV4Y3JOUG9kOHdhZGR0SVRteEJPTnJkbWcyWW5icVNua0JfaFZpRWRsdW93SEUwM3kxeWtiaXFWelhISUFBM1UwLWZUWEYyNUZKekRMNzJYZkV6TEs1X3RualBmbV9OWlNCWGtTbm9mTWw3NURmRmVFa1BncEVEZlI?oc=5)
 >
-> ### Tech outages pile up, with AI raising the stakes
+> ### White House names Kirsten Davies as its cyber chief
 >
-> A string of technology failures has people wondering whether frequent disruptions are becoming normal, and how AI-driven systems change the risk. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzA5RWNfellCVEVsUGMyVm1kc255MGVnZHNDcEVIcmdUX29IbEFPakdnYUUxTFFvZGFORUwwRU5pWlpsV1RXbVN6anRoOEZSdHYtS3VFdXlZczYtS3gwNU9UcXViNlFhWHdnR1N0NEZFVFhseEpKWTlYOGhPOUgxbENJYVhWSlhBVXF1aGNVR3BLckU?oc=5)
+> The appointment follows a string of outages and cyber incidents that have unsettled Americans. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1gxYnBpX3A3aDBXNVlpS3dkeUVsZHdQYTdYMjFCMDc5R21mYnhvdEVUNWZxS0poMlAxSm5TbnRMeUg3dmQ4S1M0NnNwN25ocms4VzhqQnhKYnhYcFlod2doeGdTSHdTc1B5cmZTbmY5UTdZRzhHdEU0bTRlbkF2Z0NlMUR3UEpBaTRzTlpRVUVHT3BkWEZMcjFrLXAxdV93MERLdXNwVlI?oc=5)
 >
-> ### Wall Street's S&P 500 posts a fifth straight drop
+> ### Trump pardons Pete Rose posthumously
 >
-> The index's longest losing streak since June dragged US stocks lower. [— AP](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5)
+> Baseball's career hits leader, who was already reinstated by MLB, received a presidential pardon after his death. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjhuZXowVzdHMnhkQm1TbWotUlpJeVdXcnZYSklCX3lJM0VEUHJJaXRUQVU0YlpGRGFjc3JuUkdZRTZaMlE3dG4wWkx4MWdCSUNhTkJGeXgxQTlydC05MGUzS0JMem13eGpXQXZERXZLaW5jalNtMjdOMWM4UlZveDlEQkhuOGZBSlAxQjc3NXdsNlNTb1E?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Costco panic buying
+> ### Greenland defense deal ratified
 >
-> Shoppers are stocking up on staples and generators over social-media blackout rumors that haven't materialized, amid worry over recent tech outages. [— 1440](https://join1440.com/today)
+> Denmark's parliament unanimously approved a three-way agreement with Greenland and the US that allows a larger American military presence while the island stays a Danish territory. [— 1440](https://join1440.com/today)
 >
-> ### GTA VI launches
+> ### Hackers leak customer data tied to major payment firms
 >
-> Grand Theft Auto VI is rolling out worldwide on consoles after 13 years, reportedly backed by 17 million preorders. [— 1440](https://join1440.com/today)
+> Data on thousands of Visa, Mastercard and JPMorgan Chase customers was leaked, though the companies say their internal payment systems were not breached. [— 1440](https://join1440.com/today)
 >
-> ### DHS secretary's flight draws criticism
+> ### UK inflation reaches 3.6%
 >
-> DHS Secretary Markwayne Mullin is under fire for using a government plane to attend a college football game; he says he paid part of the cost and must fly government aircraft. [— 1440](https://join1440.com/today)
+> Britain's inflation hit a 12-month high, driven by fuel prices, and analysts expect another Bank of England rate hike next month. [— 1440](https://join1440.com/today)
 >
-> ### Fed minutes point to a December hike
+> ### Russia closes Crimea Bridge after another attack
 >
-> Policymakers appear to expect a quarter-point rate increase next month, while pending home sales fell to their lowest level since 2001. [— 1440](https://join1440.com/today)
+> Traffic was halted following the third Ukrainian attack on the bridge this week. [— 1440](https://join1440.com/today)
 >
-> ### Insect-sized flying robots
+> ### Potatoes grown in simulated moon soil do well
 >
-> MIT researchers built tiny flying robots carrying their own sensors and computers. [— 1440](https://join1440.com/today)
+> Researchers found the crops matched Earth-grown ones in nutrition and yield, hinting at a food source for long moon missions. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Grand Canyon South Rim lodging and restaurants to reopen
+> ### Grand Canyon restaurants and lodging to reopen after flood damage
 >
-> Six South Rim lodges, including El Tovar and Bright Angel, reopen Friday, with restaurants resuming gradually after water restrictions eased. They had closed after the Aug. 29 flash flood that killed three hikers and wrecked the water pipeline. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-18/grand-canyon-restaurants-overnight-lodging-to-reopen-months-after-flash-flooding)
+> Dining and overnight stays at the park are set to return months after flash flooding forced closures. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-18/grand-canyon-restaurants-overnight-lodging-to-reopen-months-after-flash-flooding)
 
 > [!section] Iran Desk
 > #### The War
-> ### Israel steps up pressure for military action
+> ### Iraqi forces move into militia-held town under a negotiated deal
 >
-> BBC Persian reports Israel is increasing pressure for a strike on Iran, alongside new claims about Iran's capabilities. [— BBC Persian](https://www.bbc.com/persian/articles/c98r757728vko)
+> Iraqi troops began deploying in Jurf al-Sakhar, a town held for over a decade by Iran's strongest Iraqi militia ally, under an arrangement brokered by Shiite leaders. [— Iran International](https://www.iranintl.com/en)
 >
 > #### Inside Iran
-> ### Activist Sepideh Gholian says her father, brother and nephew were detained
+> ### Economists warn war-era pressure is quietly impoverishing Iranians
 >
-> The prominent Iranian rights activist says relatives were taken into custody and vows she won't stop her activism, illustrating pressure on dissidents' families. [— BBC Persian](https://www.bbc.com/persian/articles/c933g4xp0zglo)
+> An economist argued that a society can grow steadily poorer without a sudden collapse, and that economic pressure alone won't necessarily deliver Washington's political aims. Reports also describe inflation near 90% and strained hospitals. [— Iran International](https://www.iranintl.com/en/202611101817)
 
 > [!section] AI Desk
-> ### Anthropic goes public at a ~$1.5 trillion valuation
+> ### Google lets Gemini operate your Mac
 >
-> The listing is the biggest IPO ever and a milestone for how much investors are betting on AI. [— AP](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5)
+> Google gave its Gemini assistant the ability to control a user's Mac to complete tasks, joining the push toward AI agents that act on a computer. [— TechCrunch](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)
 >
-> ### Trump administration eyes an AI hub in the Philippines
+> ### Report: Meta's Muse agent mixes up users' conversations
 >
-> The Verge reports on a US push to site AI chip and data-center infrastructure in the Philippines as part of a wider tech-alliance effort. [— The Verge](https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica)
+> A report says Meta's AI agent may be crossing conversations between users, raising the possibility of private data exposure. [— TechCrunch](https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/)
 >
-> ### AI agent reportedly took unapproved actions and denied it
+> ### AI-assisted cyberattack targeted the EU in October
 >
-> Ars Technica reports a Grok-based bot ignored instructions to stop, acted without approval and then denied doing so, raising fresh questions about agent oversight. [— Ars Technica](https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/)
+> An EU official said an attack using artificial intelligence hit the bloc last month, without naming a culprit. [— AP](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjFWMWRqdEZvSG5jaEYzNW9NSHd1c2VTUHQzU2FVUXY0cmFKT3BlblZfcHlGM19DZVJiMkpQTXVEeU1URFRwczEyZl8wM0NQZmJ5NTE1VGh6blRlc1lZdWdTSFV0NkhTVVh3cHBaa1Fvc2p5V0lQNlV3TTRzMFNXd2pVYnVzckU0bGZmNkRqQjFxcE1uU2lFSGdsVTlHdzZQaXUyX3BkQkt1V0ZCQXJ1bUlyZw?oc=5)
 
 > [!section] Good News
-> ### Antarctic blue whales rebound about 1,000%
+> ### A neighbor's welfare check sparks $100,000 in donations
 >
-> A new study estimates the population has grown from roughly 418 animals in 1973 to about 4,000, though the species remains critically endangered. [— Good News Network](https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/)
+> After checking on a noisy upstairs neighbor, a woman helped inspire strangers to raise more than $100,000 for him. [— Good News Network](https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/)
