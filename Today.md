@@ -1,98 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-20 06:20 MST
+updated: 2026-11-21 06:30 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f438/512.gif" alt="🐸"><span class="np-bubble">Ribbit! Happy Friday, Flagstaff — bundle up and enjoy the day.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f41d/512.gif" alt="🐝"><span class="np-bubble">Buzzing into a chilly Saturday — grab something warm and catch up!</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Friday, November 20, 2026 · Vol. 1, No. 324
+Flagstaff, Arizona · Saturday, November 21, 2026 · Vol. 1, No. 325
 
 > [!lead] Front Page
-> ### Trump, Xi and Putin hold first three-way talks on nuclear risks
+> ### Tech sell-off deepens as S&P 500 falls 3.7% and Nasdaq slips below its 2026 start
 >
-> The leaders of the United States, China and Russia met together for the first time on the sidelines of the APEC gathering in China, focusing on nuclear arms and the war involving Iran. Analysts had expected little substance, and the talks produced no breakthroughs on arms control. Putin used the appearance to raise his standing on the world stage. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5)
+> Wall Street's slide in AI-linked stocks accelerated Friday, with the S&P 500 dropping about 3.7% and the Nasdaq composite losing roughly 5% to wipe out its gains for the year. Both the S&P 500 and the Dow have now closed in correction territory, with heavy losses in chipmakers such as Nvidia and Broadcom amid doubts about the scale of AI spending. [— AP](https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5)
 
 > [!section] Top Stories
-> ### Anthropic shares jump in record-setting stock market debut
+> ### Russian missiles land in Poland during nearby European drills
 >
-> The AI company's shares rose sharply on their first day of trading after the largest IPO on record, which priced at $83 a share and valued it at roughly $1.5 trillion. The debut came amid ongoing public debate over the safety of advanced AI. [— AP](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5)
+> NATO called the missile landings a violation of Polish territory, even as troops from several European countries were rehearsing in the region. The incident adds to tension along the alliance's eastern flank. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5)
 >
-> ### Wall Street slides to its longest losing streak since 2024
+> ### Trump says Iran wants a deal, but not on acceptable terms
 >
-> The Dow fell about 1,100 points on Thursday, and the S&P 500 dropped roughly 2% for a sixth straight decline. [— AP](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHVUbzYtdzBpNHpVbTdJWlVrRWpxZmJTVG15bS10TGN2ZzRJS29FYkoxcEgzNG9ZNGVhd1hoaHNLVzVfQ3RVYWprUFJWUnRHNm15U1BBUFc5Y2otZmltZHVCTkdySV96TzliMWFQU3o1X0g5cThPVWViMW8yYjBHWGJOamhvRGt2a0lBZUFzZTVTSURW?oc=5)
+> The president said Tehran seeks an end to the fighting without offering terms he can accept, while the U.S. naval blockade remains in place. Meanwhile, Saudi Arabia and Yemen's Houthis traded fire. [— AP](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG11c0t2cHNUVFlEZEwyWHVQRk40anlnM3ltcWtYOE1hV01IaEswQmpnRExZNEk1Z0xGRkZ0T083cWNGTUhvZUd6YUxwWjVwNjA1djJZZWZZQXh4SjI4SGRLVmtBMzN6Q0cxWVJjMFpJOW5DdUFWVlUtNEF5NW5IcU5sMHNwcmNVZTBfeXZVMWRKMk5HV1UwTGVycE1xd0c3TG9HYQ?oc=5)
 >
-> ### UN court finds Myanmar responsible for genocide against Rohingya
+> ### UK and EU strike trade and travel deals
 >
-> The International Court of Justice issued its first-ever ruling holding a state responsible for genocide under the 1948 convention. Myanmar's government dismissed the decision as unfair, and the court has no direct means to enforce it. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5)
+> Britain and the European Union announced agreements meant to rebuild ties after Brexit, covering trade, travel, linked carbon markets and a youth-mobility arrangement. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5)
 >
-> ### Kushner says Russia is open to NATO-style guarantees for Ukraine
+> ### UN climate talks run into overtime without fossil-fuel language
 >
-> Jared Kushner said he believes Moscow is "comfortable" with security guarantees for Ukraine modeled on NATO's, as peace diplomacy continues. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5)
+> Negotiators missed Friday's scheduled close of the COP31 summit after a revised draft dropped any mention of fossil fuels, drawing criticism from activists and some leaders. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG9odk56QnZYYWdjalF0a2Zfc2hfLVUyUFVuVHh0aHN1TUFMTmNJbEhzYjRIWnctNDFxX3p1Zl9RY3h1VzZLbzBMWjB4cnh1cFNoX1NXY3EyaEF1VXlvWGkwSUlFa1dYUFRMcUxEbFNPa2FaUmkwRW90TUJXQklock10QXhlSVNpWHhIM2hPTmlxSWZRTmRINEZiTHI3cGlMLTRiUEVCQkk?oc=5)
 >
-> ### Army postpones detonation of bomb-making chemicals in Iowa
+> ### Federal jury convicts man of starting the deadly 2025 Palisades Fire
 >
-> The Army delayed the planned destruction of roughly five tons of unstable explosives after public safety worries about a possible lead dust cloud. About 360 nearby residents had been told to evacuate. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWE1NdlJBdlZyMDMta2JjYVJ0TWViaFMyRWJ3TFV4Y3JOUG9kOHdhZGR0SVRteEJPTnJkbWcyWW5icVNua0JfaFZpRWRsdW93SEUwM3kxeWtiaXFWelhISUFBM1UwLWZUWEYyNUZKekRMNzJYZkV6TEs1X3RualBmbV9OWlNCWGtTbm9mTWw3NURmRmVFa1BncEVEZlI?oc=5)
+> Jurors found the defendant responsible for igniting the Los Angeles blaze, according to AP. An earlier trial this year ended in a mistrial. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3kwWjlJb09rSWVXbmtfSl9mWU5xOVFGQ2wxLTR6NUMyZnZVX1VNdXpTUU9HWldWQlZ2dk5yMzNtMWtjdTlBSWdVWXkyZV9PUlo3RTEwOGtULXZFVDFHend6Nm10Ul85TVFiUkhFdmJCaWRYYm5hQnV0TW1xaGVHWHlrVV8xRTlDa3JxRFFIVGZBQXhaMnc?oc=5)
 >
-> ### White House names Kirsten Davies as its cyber chief
+> ### Denmark accuses Russian intelligence of plotting a killing on its soil
 >
-> The appointment follows a string of outages and cyber incidents that have unsettled Americans. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1gxYnBpX3A3aDBXNVlpS3dkeUVsZHdQYTdYMjFCMDc5R21mYnhvdEVUNWZxS0poMlAxSm5TbnRMeUg3dmQ4S1M0NnNwN25ocms4VzhqQnhKYnhYcFlod2doeGdTSHdTc1B5cmZTbmY5UTdZRzhHdEU0bTRlbkF2Z0NlMUR3UEpBaTRzTlpRVUVHT3BkWEZMcjFrLXAxdV93MERLdXNwVlI?oc=5)
+> Danish authorities say Russian intelligence planned to kill an American Ukrainian in Denmark. [— AP](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaTdoazBLSGtEajM3NVpZdDhaZFlDNXdLdEFfMUItOUc2SEc2ckxGaHVQNHh1MGhmdG1xWFhnOWJWclkzdHEybHV0Qm5jSlhGQm5VMnFYNEpXdUw4VDYzVXhLOVhvaC0zQ284bHp6eDBxUmdtVDNRVjVINk5qLTBHT1VaX1EzNllvR0VzRlpBTGFOQW80QUVZT1l2M0t3MnVRTHhBNTBTZ1FpRnBFblZrbU01czVJdGs?oc=5)
 >
-> ### Trump pardons Pete Rose posthumously
+> ### Court approves $7.25 billion Bayer settlement over Roundup cancer claims
 >
-> Baseball's career hits leader, who was already reinstated by MLB, received a presidential pardon after his death. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjhuZXowVzdHMnhkQm1TbWotUlpJeVdXcnZYSklCX3lJM0VEUHJJaXRUQVU0YlpGRGFjc3JuUkdZRTZaMlE3dG4wWkx4MWdCSUNhTkJGeXgxQTlydC05MGUzS0JMem13eGpXQXZERXZLaW5jalNtMjdOMWM4UlZveDlEQkhuOGZBSlAxQjc3NXdsNlNTb1E?oc=5)
+> A court signed off on the settlement resolving claims that the Roundup weed killer caused cancer. [— AP](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdE1pUUZWQjVLZWF3bzVPQVZNOWFQZzNxSUVGdVFpeVY0d3d0TGE3Q2dsQ2RrYU5hQlI4Z2ROVkR2YnptQzFnRDFibExkNkptYzZzMGFZTlBWX3hsa21BSXVjNWxjWjNTR3lOOUxtX2owTmVzQk84NHg1eXB2TVNJNjFhRG05SDBRMVIwSS1DMW5WU2RjSC0xSk1zNHZhblRNdlAwQ05hcktTcThaXzhYWQ?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Greenland defense deal ratified
+> ### Blood test for CTE
 >
-> Denmark's parliament unanimously approved a three-way agreement with Greenland and the US that allows a larger American military presence while the island stays a Danish territory. [— 1440](https://join1440.com/today)
+> Researchers found elevated levels of a toxic protein, also tied to Alzheimer's, in the blood of former football players later diagnosed with CTE, and hope for an FDA-approved test within five years. [— 1440](https://join1440.com/today)
 >
-> ### Hackers leak customer data tied to major payment firms
+> ### New acting national cyber director
 >
-> Data on thousands of Visa, Mastercard and JPMorgan Chase customers was leaked, though the companies say their internal payment systems were not breached. [— 1440](https://join1440.com/today)
+> Kirsten Davies will replace Sean Cairncross as acting national cyber director after a week of tech outages, including a multiday disruption to a classified NSA network. [— 1440](https://join1440.com/today)
 >
-> ### UK inflation reaches 3.6%
+> ### Texas execution
 >
-> Britain's inflation hit a 12-month high, driven by fuel prices, and analysts expect another Bank of England rate hike next month. [— 1440](https://join1440.com/today)
+> Reinaldo Dennes was executed by lethal injection after staff spent over an hour finding a usable vein; Texas says protocols were followed. [— 1440](https://join1440.com/today)
 >
-> ### Russia closes Crimea Bridge after another attack
+> ### BepiColombo reaches Mercury
 >
-> Traffic was halted following the third Ukrainian attack on the bridge this week. [— 1440](https://join1440.com/today)
+> The European-Japanese twin orbiters are expected to enter Mercury's orbit after an eight-year trip, only the second mission to do so. [— 1440](https://join1440.com/today)
 >
-> ### Potatoes grown in simulated moon soil do well
+> ### Southern California train heist charges
 >
-> Researchers found the crops matched Earth-grown ones in nutrition and yield, hinting at a food source for long moon missions. [— 1440](https://join1440.com/today)
+> Federal prosecutors charged 14 people over a cargo-theft ring accused of stealing more than $22.5 million in goods from at least 36 trains. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Grand Canyon restaurants and lodging to reopen after flood damage
+> ### Grand Canyon restaurants and lodging to reopen after flood closures
 >
-> Dining and overnight stays at the park are set to return months after flash flooding forced closures. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-18/grand-canyon-restaurants-overnight-lodging-to-reopen-months-after-flash-flooding)
+> Grand Canyon National Park is easing water restrictions on Friday, which will let overnight lodging and food service resume months after August's flash flooding. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-18/grand-canyon-restaurants-overnight-lodging-to-reopen-months-after-flash-flooding)
 
 > [!section] Iran Desk
 > #### The War
-> ### Iraqi forces move into militia-held town under a negotiated deal
+> ### Trump says Iran's terms aren't acceptable as the blockade continues
 >
-> Iraqi troops began deploying in Jurf al-Sakhar, a town held for over a decade by Iran's strongest Iraqi militia ally, under an arrangement brokered by Shiite leaders. [— Iran International](https://www.iranintl.com/en)
+> Trump said Tehran wants to end the fighting but hasn't offered an acceptable deal, with talk of possible new strikes after the new year. Iran's foreign minister says its offer to reopen the Strait of Hormuz and start talks remains open, but he ruled out transferring uranium. [— The Washington Post](https://www.washingtonpost.com/politics/2026/11/20/iran-war-trump-diplomacy-attacks/1a61ced2-e52d-11f1-a99e-b3e3805c6b8b_story.html)
 >
 > #### Inside Iran
-> ### Economists warn war-era pressure is quietly impoverishing Iranians
+> ### Tehran's water crisis deepens as dams stay about 80% empty
 >
-> An economist argued that a society can grow steadily poorer without a sudden collapse, and that economic pressure alone won't necessarily deliver Washington's political aims. Reports also describe inflation near 90% and strained hospitals. [— Iran International](https://www.iranintl.com/en/202611101817)
+> After six years of drought, officials say the five dams supplying Tehran's drinking water remain mostly empty despite recent rain, raising worries about supply in the coming months. [— Iran International](https://www.iranintl.com/en/202611149993)
 
 > [!section] AI Desk
-> ### Google lets Gemini operate your Mac
+> ### Anthropic's IPO fails to calm nerves as the Nasdaq wipes out its 2026 gains
 >
-> Google gave its Gemini assistant the ability to control a user's Mac to complete tasks, joining the push toward AI agents that act on a computer. [— TechCrunch](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)
+> Shares of Anthropic, which priced at $83 and closed its Thursday debut at $97.17, fell about 8.5% Friday as a broader AI-stock rout hit the market. [— CNN](https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai)
 >
-> ### Report: Meta's Muse agent mixes up users' conversations
+> ### Trump moves to penalize U.S. firms that build AI data centers abroad
 >
-> A report says Meta's AI agent may be crossing conversations between users, raising the possibility of private data exposure. [— TechCrunch](https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/)
+> The administration is seeking to penalize American companies building AI data centers overseas, even as such projects face local backlash. [— AP](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtzQUtZSkNqOE9ReXZEMTlIRVNjOEdzRVp0b1E1UkFiYncyMGpadjRFV1ZSeDJqSnJuRnhhZ3JvRkt3ZG9BNlN3Z0VESFpTbHFTREp6bzVFWnBKZVNweW5wUUVpMzFaZk14UzA3RFVveWdDUW9rVjI1dTZOeEVVeGl5Ql9QYVFpdWl3cm15VHg4SlZNVXR3dWVuTm0xVk1HZkZZdg?oc=5)
 >
-> ### AI-assisted cyberattack targeted the EU in October
+> ### Senator proposes a select committee on AI
 >
-> An EU official said an attack using artificial intelligence hit the bloc last month, without naming a culprit. [— AP](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjFWMWRqdEZvSG5jaEYzNW9NSHd1c2VTUHQzU2FVUXY0cmFKT3BlblZfcHlGM19DZVJiMkpQTXVEeU1URFRwczEyZl8wM0NQZmJ5NTE1VGh6blRlc1lZdWdTSFV0NkhTVVh3cHBaa1Fvc2p5V0lQNlV3TTRzMFNXd2pVYnVzckU0bGZmNkRqQjFxcE1uU2lFSGdsVTlHdzZQaXUyX3BkQkt1V0ZCQXJ1bUlyZw?oc=5)
+> A Democratic senator is pushing for a dedicated Senate committee on AI as Democrats hope to move quickly on regulation. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVppTkpwTl9RaDg3enpSUG00Y1l0eXFZVkV5ODJoYjhlRVFNdkNSWkEtMnJ6NDhRaHlFVkFqcEl5T3g2R3BrbjNTVjRyaU56ZjRTd0NYTkxvX0RkWVNkVkJ6THp1M3JuWmJaNFZrVlRrS0hsVjF6U1J3M0I2aTF5dW9CV3JXckdnN3hjWDVJWUFGX1E0QzlvNWIyMTNsVm5Oa3RWMWxrckJSVzg?oc=5)
 
 > [!section] Good News
-> ### A neighbor's welfare check sparks $100,000 in donations
+> ### Rhino-dung paper gives villagers a reason to protect rhinos
 >
-> After checking on a noisy upstairs neighbor, a woman helped inspire strangers to raise more than $100,000 for him. [— Good News Network](https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/)
+> A father-daughter team in India makes paper and stationery from rhino dung collected by locals, giving nearby communities an income tied to protecting the animals. [— Good News Network](https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/)
