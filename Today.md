@@ -1,98 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-21 06:30 MST
+updated: 2026-11-22 06:20 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f41d/512.gif" alt="🐝"><span class="np-bubble">Buzzing into a chilly Saturday — grab something warm and catch up!</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" alt="🦋"><span class="np-bubble">Good morning, Flagstaff! Flutter into a calm, crisp Sunday.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Saturday, November 21, 2026 · Vol. 1, No. 325
+Flagstaff, Arizona · Sunday, November 22, 2026 · Vol. 1, No. 326
 
 > [!lead] Front Page
-> ### Tech sell-off deepens as S&P 500 falls 3.7% and Nasdaq slips below its 2026 start
+> ### Wall Street has its worst week since 2020 as AI stocks slide
 >
-> Wall Street's slide in AI-linked stocks accelerated Friday, with the S&P 500 dropping about 3.7% and the Nasdaq composite losing roughly 5% to wipe out its gains for the year. Both the S&P 500 and the Dow have now closed in correction territory, with heavy losses in chipmakers such as Nvidia and Broadcom amid doubts about the scale of AI spending. [— AP](https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5)
+> The Nasdaq finished its roughest week since 2020, and the Dow and S&P 500 both slipped into correction territory, meaning they have fallen at least 10% from recent highs. Worries about AI company valuations drove much of the selling, and it landed in the same week as Anthropic's record stock-market debut. AP's explainer notes that drops of this size, while unnerving, are not unusual in market history. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxQekJLM2U0dXhaeEo3d2hmNFltdUpLQzF4a2VtY3RNR3otMW44Zld5R0Q3TGpTNWJ5bnA1RG00YXU4NkNpYTBtMVpnUmV4cFZPSF9HWnRjdlRPZ1Bsc0dwOENCQWM4QXc2MjdPRWhPcXZjeXNRbXhUdV9fSDVwcW5kUlJGZTVUbW1Lc0h5YzJCYWtpNDd5dzRJ?oc=5)
 
 > [!section] Top Stories
-> ### Russian missiles land in Poland during nearby European drills
+> ### White House tightens control over how others respond to Congress
 >
-> NATO called the missile landings a violation of Polish territory, even as troops from several European countries were rehearsing in the region. The incident adds to tension along the alliance's eastern flank. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5)
+> AP reports the president has directed federal contractors to check with the White House before answering congressional requests. Separate reporting describes a similar sign-off rule for agency staff, coming as Democrats prepare investigations once they take over Congress in January. [— AP](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGJaYVIzb00tWkFac2pEaFdTRnVFYWFTRHVZeWtRU1ZuMUZCSXVnOTAyUU9WSHVmWHEtaTdSQlF0eUpoTHBVeXhUYTVseTY0SXZmX2pTVWNDR19fVlhBYlVxZzdHSURLekxjd3daXzZ2V0R5V0xiUXNCQ0ZoRWZHVDNpS0ZHSF9VTEVPVFAzWjI4Q2lzLW5TSElRa3FGTDlGR2xCU3VOTzB4MGtiaFRQOE9kbkxFbEJVYWw5c0dvRjlseG94?oc=5)
 >
-> ### Trump says Iran wants a deal, but not on acceptable terms
+> ### Iran hits three tankers while displaying missile launchers
 >
-> The president said Tehran seeks an end to the fighting without offering terms he can accept, while the U.S. naval blockade remains in place. Meanwhile, Saudi Arabia and Yemen's Houthis traded fire. [— AP](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG11c0t2cHNUVFlEZEwyWHVQRk40anlnM3ltcWtYOE1hV01IaEswQmpnRExZNEk1Z0xGRkZ0T083cWNGTUhvZUd6YUxwWjVwNjA1djJZZWZZQXh4SjI4SGRLVmtBMzN6Q0cxWVJjMFpJOW5DdUFWVlUtNEF5NW5IcU5sMHNwcmNVZTBfeXZVMWRKMk5HV1UwTGVycE1xd0c3TG9HYQ?oc=5)
+> Iran struck three tankers in the Gulf region and publicly showed off missile launchers, the latest escalation in the months-long war. Bahrain also reported an Iranian attack on an industrial site. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVlUcjlPZURmRnhmY2JJZVVBTkhfUEM2bmhqRDZfQkZJMTBEc2hQSDdRVFQ0N1BjTW1rMXNrSnM4R0R6SVcyZXJpWEVVU3hkU0dsX0otVk1HNV9abFFBTkVUeXMtdHk2WVFUcEVFOVVUVlZUeTFUdXBuVzVHMVFmeFdFVExwTWtJVC1sd0dEVDVSdXdHZUhVRDc4MU5rYU1laFBn?oc=5)
 >
-> ### UK and EU strike trade and travel deals
+> ### Mexican cartel leader captured after deadly firefight
 >
-> Britain and the European Union announced agreements meant to rebuild ties after Brexit, covering trade, travel, linked carbon markets and a youth-mobility arrangement. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5)
+> Mexican forces captured a cartel leader in the north of the country in a gun battle that left 11 people dead. AP also published a profile tracing the man's rise from small-time trafficker to drug lord. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5)
 >
-> ### UN climate talks run into overtime without fossil-fuel language
+> ### Missile strike hits Zelenskyy's hometown; drone hit leaves 14 missing near Kyiv
 >
-> Negotiators missed Friday's scheduled close of the COP31 summit after a revised draft dropped any mention of fossil fuels, drawing criticism from activists and some leaders. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG9odk56QnZYYWdjalF0a2Zfc2hfLVUyUFVuVHh0aHN1TUFMTmNJbEhzYjRIWnctNDFxX3p1Zl9RY3h1VzZLbzBMWjB4cnh1cFNoX1NXY3EyaEF1VXlvWGkwSUlFa1dYUFRMcUxEbFNPa2FaUmkwRW90TUJXQklock10QXhlSVNpWHhIM2hPTmlxSWZRTmRINEZiTHI3cGlMLTRiUEVCQkk?oc=5)
+> A ballistic missile attack on Kryvyi Rih, the Ukrainian president's hometown, killed two people and wounded dozens. Reuters separately reports that at least 14 people are missing after a Russian drone hit a building in the Kyiv region. [— AP](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEdyR1RJcnpvbkdBNFFKbHQ3bWh2SzBfVnBfdklPRGlubDVuZjVOYUVrTUtaVGNQc2ZtM042TmpvWFNUZU1vNlRDeUhWbS0xUU5IWndHdlNZa3JIYm1OQm55YVNvbVpxaUhBNExXbS1NOU91ODdGa2d4elRXOWhIUXZCRHR5T3ZTei1fRWRyOVJvOXJRSXNIM25QT1JIOXFPa2VTcg?oc=5)
 >
-> ### Federal jury convicts man of starting the deadly 2025 Palisades Fire
+> ### FBI probes apparent hack of key criminal justice database
 >
-> Jurors found the defendant responsible for igniting the Los Angeles blaze, according to AP. An earlier trial this year ended in a mistrial. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3kwWjlJb09rSWVXbmtfSl9mWU5xOVFGQ2wxLTR6NUMyZnZVX1VNdXpTUU9HWldWQlZ2dk5yMzNtMWtjdTlBSWdVWXkyZV9PUlo3RTEwOGtULXZFVDFHend6Nm10Ul85TVFiUkhFdmJCaWRYYm5hQnV0TW1xaGVHWHlrVV8xRTlDa3JxRFFIVGZBQXhaMnc?oc=5)
+> A source told AP the FBI is investigating what looks like a breach of a national database that law enforcement relies on. Details on what was accessed were not yet public. [— AP](https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3JOVy03eEI4NG1USFRxZkwtd0FLc0tfWk1zMWJSX0xDeHR1Rmwwd0hoQ2RXMG15ejRzWEJJZFh5WU5la2tvWE9kNjJQOG9rVEh4MUlUQl9Cam5KR1FKNnl4UWhLRmVBMGVfT3Q1dXlsZ2lfUHlXLUV3a0ZjaE16ZzJTMFBSbW9RRHc?oc=5)
 >
-> ### Denmark accuses Russian intelligence of plotting a killing on its soil
+> ### UN climate talks run into overtime over fossil fuels
 >
-> Danish authorities say Russian intelligence planned to kill an American Ukrainian in Denmark. [— AP](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaTdoazBLSGtEajM3NVpZdDhaZFlDNXdLdEFfMUItOUc2SEc2ckxGaHVQNHh1MGhmdG1xWFhnOWJWclkzdHEybHV0Qm5jSlhGQm5VMnFYNEpXdUw4VDYzVXhLOVhvaC0zQ284bHp6eDBxUmdtVDNRVjVINk5qLTBHT1VaX1EzNllvR0VzRlpBTGFOQW80QUVZT1l2M0t3MnVRTHhBNTBTZ1FpRnBFblZrbU01czVJdGs?oc=5)
+> Negotiators at the COP31 summit in Turkey entered a second day past the scheduled finish, still divided over how to address oil, gas and coal. Reuters says the deal hangs in the balance after fractious talks. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG9odk56QnZYYWdjalF0a2Zfc2hfLVUyUFVuVHh0aHN1TUFMTmNJbEhzYjRIWnctNDFxX3p1Zl9RY3h1VzZLbzBMWjB4cnh1cFNoX1NXY3EyaEF1VXlvWGkwSUlFa1dYUFRMcUxEbFNPa2FaUmkwRW90TUJXQklock10QXhlSVNpWHhIM2hPTmlxSWZRTmRINEZiTHI3cGlMLTRiUEVCQkk?oc=5)
 >
-> ### Court approves $7.25 billion Bayer settlement over Roundup cancer claims
+> ### Trump says he'll work with Democrats to cap credit card rates at 10%
 >
-> A court signed off on the settlement resolving claims that the Roundup weed killer caused cancer. [— AP](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdE1pUUZWQjVLZWF3bzVPQVZNOWFQZzNxSUVGdVFpeVY0d3d0TGE3Q2dsQ2RrYU5hQlI4Z2ROVkR2YnptQzFnRDFibExkNkptYzZzMGFZTlBWX3hsa21BSXVjNWxjWjNTR3lOOUxtX2owTmVzQk84NHg1eXB2TVNJNjFhRG05SDBRMVIwSS1DMW5WU2RjSC0xSk1zNHZhblRNdlAwQ05hcktTcThaXzhYWQ?oc=5)
+> The president pledged to team up with Democrats on a 10% ceiling for credit card interest rates. No legislative text or timeline was described in the headline coverage. [— AP](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHFuVnp6cHlDTXlRMnZXTHlyWGo3UWdKVHZOb0x0NWFPZmxBWFl1RWNOTVBoX0NNWlozRUxVV0tZZHlJM20td2llbkRlS1MtX29DMzZTUF9qemlJcFoxTXc4cWNsbTdCc29iRGx2ajdwdkp6OUFQU3NsMzJDdzdxVEU2VlF4QmRxVzlNYVdIUU1QU1ZRUTdXSWpiR21Nbl8zSURwbWpUQ09BUQ?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Blood test for CTE
+> ### Thanksgiving's origins
 >
-> Researchers found elevated levels of a toxic protein, also tied to Alzheimer's, in the blood of former football players later diagnosed with CTE, and hope for an FDA-approved test within five years. [— 1440](https://join1440.com/today)
+> The "first Thanksgiving" is usually tied to a 1621 meal shared by the Pilgrims and the Wampanoag, though historians have found earlier examples. Lincoln proclaimed a national day in 1863, and Congress fixed it on the fourth Thursday of November in 1941. [— 1440](https://join1440.com/today)
 >
-> ### New acting national cyber director
+> ### Second supermoon of the year
 >
-> Kirsten Davies will replace Sean Cairncross as acting national cyber director after a week of tech outages, including a multiday disruption to a classified NSA network. [— 1440](https://join1440.com/today)
+> The year's second supermoon rises Tuesday and starts a run of four straight full moons that appear larger and brighter than usual. [— 1440](https://join1440.com/today)
 >
-> ### Texas execution
+> ### Swiss vote on arms exports
 >
-> Reinaldo Dennes was executed by lethal injection after staff spent over an hour finding a usable vein; Texas says protocols were followed. [— 1440](https://join1440.com/today)
+> Switzerland is voting on whether to loosen its strict rules on weapons exports. [— 1440](https://join1440.com/today)
 >
-> ### BepiColombo reaches Mercury
+> ### D.B. Cooper, 55 years on
 >
-> The European-Japanese twin orbiters are expected to enter Mercury's orbit after an eight-year trip, only the second mission to do so. [— 1440](https://join1440.com/today)
+> This week marks 55 years since the D.B. Cooper hijacking, still the only unsolved hijacking in US aviation history. [— 1440](https://join1440.com/today)
 >
-> ### Southern California train heist charges
+> ### Darwin's anniversary
 >
-> Federal prosecutors charged 14 people over a cargo-theft ring accused of stealing more than $22.5 million in goods from at least 36 trains. [— 1440](https://join1440.com/today)
+> Tuesday is 167 years since Charles Darwin published *On the Origin of Species*. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Grand Canyon restaurants and lodging to reopen after flood closures
+> ### Federal review faults leadership in Grand Canyon fire that destroyed lodge
 >
-> Grand Canyon National Park is easing water restrictions on Friday, which will let overnight lodging and food service resume months after August's flash flooding. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-18/grand-canyon-restaurants-overnight-lodging-to-reopen-months-after-flash-flooding)
+> A federal review of the Dragon Bravo Fire concludes that leadership failures worsened the blaze at the Grand Canyon's North Rim, which destroyed the historic lodge. 12News reports the review found the fire's supervisor was not qualified for the role. [— ABC News](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2N5QzJETmE4Mk56UElzeWgzekdJQmFxc3M3Qk92anMwbzRaRXhzWWhZSkZMbEJYUUlSU0JqNy01bWhqQm1MMTB4ZHY1UkI5aEl2R2tUTVh6NVpxV2taQW1JbmljUDcwaTJTTk12Yi1TclpKM25RWXduekNRc21YbThxczlOZ3prUjBmTzhMZUVYVlBGNE9MRUZiR3BaSHN0SGVaddIBqgFBVV95cUxNOFhBWW01dUpybUpkcktIcVNtbENaQmJSa0JfQmZ3MVJzbFFJVE4tTi1ucUpzQjhTaHdQd0wtSDhuNXdRbFV3TUMxUzQ0SC0yb1B6bHZkN1VDVVh2NFZUVzU1elpmdmVrNnY1WXBnRnJrVFhpS2ptTTlCZXNJSmM4cW5uYkI2Y1BIS2ljcmtmeDd0akNsSVZwZDU2a05FODMxbmR2YlNtLS1OZw?oc=5)
 
 > [!section] Iran Desk
 > #### The War
-> ### Trump says Iran's terms aren't acceptable as the blockade continues
+> ### Bahrain says Iran attack injured two
 >
-> Trump said Tehran wants to end the fighting but hasn't offered an acceptable deal, with talk of possible new strikes after the new year. Iran's foreign minister says its offer to reopen the Strait of Hormuz and start talks remains open, but he ruled out transferring uranium. [— The Washington Post](https://www.washingtonpost.com/politics/2026/11/20/iran-war-trump-diplomacy-attacks/1a61ced2-e52d-11f1-a99e-b3e3805c6b8b_story.html)
+> Bahrain reported that an Iranian attack injured two people, even as a Saudi-led coalition intercepted a Houthi drone, according to Iran International's live coverage. The incident adds to a widening pattern of Iranian strikes on Gulf targets. [— Iran International](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5)
 >
 > #### Inside Iran
-> ### Tehran's water crisis deepens as dams stay about 80% empty
+> ### The secret lives of young Iranian women
 >
-> After six years of drought, officials say the five dams supplying Tehran's drinking water remain mostly empty despite recent rain, raising worries about supply in the coming months. [— Iran International](https://www.iranintl.com/en/202611149993)
+> Iran International profiles young Iranian women who keep parts of their lives hidden from family members and the authorities. The piece offers a glimpse of how social restrictions shape daily life. [— Iran International](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0waERHNWJlcFg2Qmx1N3JHZXJQN2VEQTctel9iSFJPaDdYcHNGaUtRbzhRQ04zMHRyS3RvRUtsdFd2R1NRQnozdG1XOGF5RUpLYmc?oc=5)
 
 > [!section] AI Desk
-> ### Anthropic's IPO fails to calm nerves as the Nasdaq wipes out its 2026 gains
+> ### Anthropic's record IPO lands in a market rout
 >
-> Shares of Anthropic, which priced at $83 and closed its Thursday debut at $97.17, fell about 8.5% Friday as a broader AI-stock rout hit the market. [— CNN](https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai)
+> Anthropic's stock-market debut, described by CNBC as a record IPO, arrived during tech's worst week on Wall Street since 2020. Reports suggest the listing has not been enough to restore investor confidence in AI. [— CNBC](https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5)
 >
-> ### Trump moves to penalize U.S. firms that build AI data centers abroad
+> ### Reuters: Anthropic's IPO process irked some bankers
 >
-> The administration is seeking to penalize American companies building AI data centers overseas, even as such projects face local backlash. [— AP](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtzQUtZSkNqOE9ReXZEMTlIRVNjOEdzRVp0b1E1UkFiYncyMGpadjRFV1ZSeDJqSnJuRnhhZ3JvRkt3ZG9BNlN3Z0VESFpTbHFTREp6bzVFWnBKZVNweW5wUUVpMzFaZk14UzA3RFVveWdDUW9rVjI1dTZOeEVVeGl5Ql9QYVFpdWl3cm15VHg4SlZNVXR3dWVuTm0xVk1HZkZZdg?oc=5)
+> An exclusive from Reuters says Anthropic ran an unconventional listing process, much like SpaceX did, and that some of the banks involved were unhappy with it. [— Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5)
 >
-> ### Senator proposes a select committee on AI
+> ### Nations extend "killer robot" talks without firm limits
 >
-> A Democratic senator is pushing for a dedicated Senate committee on AI as Democrats hope to move quickly on regulation. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVppTkpwTl9RaDg3enpSUG00Y1l0eXFZVkV5ODJoYjhlRVFNdkNSWkEtMnJ6NDhRaHlFVkFqcEl5T3g2R3BrbjNTVjRyaU56ZjRTd0NYTkxvX0RkWVNkVkJ6THp1M3JuWmJaNFZrVlRrS0hsVjF6U1J3M0I2aTF5dW9CV3JXckdnN3hjWDVJWUFGX1E0QzlvNWIyMTNsVm5Oa3RWMWxrckJSVzg?oc=5)
+> Countries at the UN in Geneva agreed to keep negotiating over autonomous weapons but made no firm commitment to restrict them. More than 50 states have pushed for binding rules, while some nations already developing such weapons are resisting. [— AP](https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGxYT0k5MkEyVDFubm5GX2FfYWVsd2Q0VkQwTWh6X2x0SF9qZS1kWW8za2Nod0I2QV9DQlVsSHpjRnhRN3ZaUWNjb1dpRHYzdw?oc=5)
 
 > [!section] Good News
-> ### Rhino-dung paper gives villagers a reason to protect rhinos
+> ### Specially bred mosquitoes show strong promise against dengue
 >
-> A father-daughter team in India makes paper and stationery from rhino dung collected by locals, giving nearby communities an income tied to protecting the animals. [— Good News Network](https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/)
+> Scientists report new, strong evidence that mosquitoes bred to carry a protective bacterium can curb the spread of dengue fever, a disease that sickens millions each year. [— AP](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnBPRzVsdHBmVnhPY2MyaDF3WGdMQU4wTXctT0syVXhUUFNQTVpsdkZPZm5VdkdwWTVuRFg4TVZMWDJxMlYtTElBTTVFNEVaVm9Zd19KQ3d0TWwxS1ZSWEVpZDNpWno2RFlYZG9RZS1RVjFHVDFHWWs4RTg5ZFZvSWs4SlFMVVF1V0tWUHlYODBFUnVITFhEZzZR?oc=5)
