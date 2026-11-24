@@ -1,98 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-23 06:25 MST
+updated: 2026-11-24 06:20 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40c/512.gif" alt="🐌"><span class="np-bubble">Slow and steady wins Monday, Flagstaff. Bundle up out there!</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" alt="🦋"><span class="np-bubble">Good morning, Flagstaff! Flutter into a crisp Tuesday with the news.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Monday, November 23, 2026 · Vol. 1, No. 327
+Flagstaff, Arizona · Tuesday, November 24, 2026 · Vol. 1, No. 328
 
 > [!lead] Front Page
-> ### Democrats clinch a historic House majority
+> ### Nvidia's board brings Jensen Huang back as CEO
 >
-> Democrats have secured at least 258 House seats after the midterm counts and recounts wrapped up, the party's largest majority since 1992. Among the last results, Democrat Chuck Hubbard unseated Republican Rep. Virginia Foxx in North Carolina after a recount. The new Congress is due to be sworn in in January. [— AP](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ZaSUxXY2RGTWZBcXdNRjV0eWhIZUdfWjFBSmI1OHBGZy1qRWFpNnJxZDJVOC14dVFGZGdSS3NfeFNsQm1IcmJIWGs4M0l5alZQZVhDek80S1lnQ3plUkRrbm9uaE44RWtNMTBDTWRLUmdGLWVVUDRJZ1J5TmR4QU5vWW5qT2NvOHB3dklzcFZ2ZFltMy1SYVdJQnNRZFBiaURJN2t0bjExaE0?oc=5)
+> Days after saying it would not rehire him, Nvidia's board reversed course and reinstated Huang, who resigned earlier this month. Nvidia shares jumped roughly 30% and U.S. stocks recovered about half of last week's losses, though Huang still faces an internal investigation and congressional scrutiny. [— AP](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5)
 
 > [!section] Top Stories
-> ### UN climate talks end without a major deal
+> ### Ukraine strikes Russian ships at a naval base in Libya
 >
-> The COP31 summit closed without agreement after objections to a draft that left out any mention of moving away from fossil fuels. AP is running reaction from leaders and an explainer on why the failure matters as extreme weather worsens. [— AP](https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0xZUG54R1V0M1N4VHlZd05nbTExbGdkUVNwWVBwRnlabWFHZWhRMldkM2taVFVhM3NIb1JQZnhIVDFEMmw4UzRzWTdyMVotWVNRVllEQjRtSFVRallpY0V5czd3eFplcTVWTldEOXpuclV0NmJVeF94aXQ5OUZQcGxaUVlQOEtaU1Blb1o4b055WmFPWDFsQXp2Tzlpd0VLa0RwWTNxT013S2VfU1E?oc=5)
+> Zelenskyy claimed a drone attack on Russian vessels docked in Libya, far from the front lines, opening a new Mediterranean theater in the war. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGJMRW1Walh4UFRXQldMQUlQU3l2XzZUOFZSZS1sZUxRM0syc2MwR0ZDZkMtdXN5cVlYSnhmamo3NXJRdXQ2aVEtVVRGbk9rNUxSTWdBUWVtTmNoOUtObl8xajZGSGV5S01OOTV2ZjRYaXZrVHgweWJ4U1k4eUQ1QmQ1VkNfRlF4QnpTMnBmeDA4M1NCVVExRG1XMXJ6ekFXNEpPTlNobw?oc=5)
 >
-> ### Ukrainian drones reportedly hit Russian warship in Libya
+> ### Appeals court opens a path for Trump to erase his hush money conviction
 >
-> Libyan officials say suspected Ukrainian sea drones struck a Russian warship at a naval base in Benghazi, and Ukraine's president said Ukrainian drones were responsible. Russia has not been shown to have confirmed the damage. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VjenRaWHFSYy04RXNZOGtGZ21ldWg3a1B4WVp3dk1OY2pPZ2pRcXFCLTk0YnJjalVEMnBqV2M2UnpCSENVWVNPVDhEZXhNQTdPZnlPWDJhNXR5VThOTVdKT2JRYmJfOW9hTzdqRUdMakNOUEFHVmdwWnNNOEx6ZmFiRVc5Z1JyZE5nNHFwODlkTkp5aHRVNUZxZVo2aDR0TnN6U2VRTlE?oc=5)
+> A federal appeals court ruling gives the president a route to try to overturn his New York conviction. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVdZZl9tRjc0WjhZbUY0NVZvdTRDQ01ZOTl4RmZUQndRR0ZHRmpkRVJ6ZjFCQzJYVml0cnoycjNWaW1rWWVENmJHbS1xaHZLc1U5azdFRmU4UmdDa0thQmlkeW9GZlhmeElDTS1NWXFHUmJPOFFBZU1rbml2dWxQQnRMVTMwSmxDTDFPQU92WTJBaUNEclZB?oc=5)
 >
-> ### Russian attack near Kyiv hits apartment building
+> ### Rep. Jimmy Gomez resigns from Congress
 >
-> A Russian strike on a residential building near the Ukrainian capital killed three people and left others trapped under rubble, according to AP's reporting. [— AP](https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5)
+> The California Democrat stepped down after the House Ethics Committee said it found evidence of sexual misconduct. [— AP](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkIzeGhIdlZKM1NTNnVWN3V1eHhyZEtkcU9zd2F6ZFpuc0ZyWUVScHRmT0I0VTU1NlFBYXFTc1U1NmVPSnVwWVZUS3dQd3ByRTg5MERGaUhheE15UFdpQWYtZ0ZYdTNMR3Nmb3BIN09KTHZYZm9yWVdqME03UGdqMHl6T0QtbjJCOGtSX0JQem16ZGotM2dsdXVaN3piZWNqZDhTb01hU2lKcmxFc1lqSlFPMkg?oc=5)
 >
-> ### Army to detonate bomb-making chemicals in Iowa
+> ### Princeton neuroscientist held by ICE after airport detention
 >
-> The U.S. Army says it will use emergency legal provisions to destroy a stockpile of explosive chemicals stored in Iowa rather than wait out the usual process. [— AP](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHU3NmsxWHB4a0x6ZTdpdG9ZWWlqS29GMXowZ3BEQndXZVBuU0tBc1EycDY2blB2SnNhV3pxTHctWDNFajhDWENxRlVzbHBTU193TjZsVVhXQlB3ZTZwQUZNT25KWDM5bWxXTG9FSUtvOW9zZ0wwTFBsTmFGcHZEOWlvN1QzanQtd1hQYzNR?oc=5)
+> A Chinese neuroscientist affiliated with Princeton is in immigration custody after being detained at a Washington-area airport. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxObVdMZDlteGtHYVhFZERUMlRkNEFRM2pVcHJzRzVsTzFrMlVyenFzQ2JXeVl0dTBOVlZFYzNkMU83Z25iTXN0S3c3V0ZjNEoxV3dscE05M2hPaEk0V18wZm54MWxWUUtFY1p6d19yZktaS25KTFBTNHBtb0VXWWczZGJuUFRQbXVUaDJvUDZLbzFMOEQyZ0k5dHoyQ2VqTEFjVFphQ0tvQQ?oc=5)
 >
-> ### Delta glitch causes delays at start of Thanksgiving travel
+> ### Democrats plan 12 debates for the 2028 primary
 >
-> An automation system problem at Delta slowed flights as Americans began holiday trips. [— AP](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFFDN0VnYTFzcXhya09Nbnl6QnVaZ2NIa1pYS1lDLW44bG5SZmM1eW4yeS03M3VaMk9kenFWRjlFejFwNW9yY3RJU0tOX01jeGhGTW1JSURvZXlZWGtSV1ZDdGJZVU84R2JSYjh2aHRreWlkZlc1YkxJZF9TdVdnMWhHaXphR1pUWHNjOHhCdHI?oc=5)
+> The party's schedule would start with a debate in June 2027, according to AP. [— AP](https://news.google.com/rss/articles/CBMirAFBVV95cUxORGE1Z0o0bFp6aHVKel9xNlhhaEdEWUpua3l1Y0dQNzZmVGQzaU5pTTVYT1RmS2FKRnd6R1ZHaVVaOGp2bUpTU1FYQVE1enFQcDVJMk9ENUNNWDNpUE8xdnByT3YwNG92Z1BxVXl3RFFvNlhoOUkxWURCUEVUcGdBZmJSUzMxWnAybG9UQ0ZBZFhJZjRHczU2bk5MRzJnSXVSQnFRUzIyVVlrR0JJ?oc=5)
 >
-> ### Appeals court strikes down pregnant-worker accommodation law
+> ### Army gets court approval to detonate old bomb-making material in Iowa
 >
-> A federal appeals court ruled that the federal law requiring employers to provide accommodations for pregnant workers is unconstitutional. [— AP](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFFoU1NWWlA1ajBycE9LdnJwM214TGZQUXZVV3NhcW5YdERjQm5vSkJDd0RrM05FUU9RNkkzZU1pUURCODA5RnI4WktsTk1nSFRtZXJmbnAyVTBrZkJNdHg2TVFaS1NHWFUyWDBvLWp3QTV4WjRDQkJRdzFheFVzQ3gxODc3bmc3R0xFYjVfX3NuSE9ndmZoenRB?oc=5)
+> A court cleared the way for the Army to destroy degraded lead azide stored in Iowa. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnFzVFZqMjBjY2Y1cll0UUxLU2VQMktTZDQ5QmFpaENUUzBXeHJJRS1nQUtpLUdhYVFVbnUxaGI1d1lWc0lwSUM1MWVNcGY0MlVEY3dDbFRXbGxMX3BvRzMzYnFhcTZFUG1xcTh6bDRlQVNhR1JlVmxxVEJ6S2xCZjZxRDgtcGFZWndwUUJ3RkdGLWFDakE?oc=5)
 >
-> ### Search continues after Indonesian candy factory fire
+> ### China sentences an official to death for spying
 >
-> More remains have been recovered as rescuers look for 34 workers missing after a fire at the factory. [— AP](https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0J5Zy1JLXlBTWc5d0o3OEg0dVBLMXQ0TktFb0ZHT196VEgzYVNfOFhlamNLVjdEMUlOWVFldmsxeUN1MUk0VGFDMlkxWmpCSTFIQzVaZndyeFZjanNQajh2Y2I0c3duUllpOWRTRWdPYzFXeFZRdmJJUndoSDlYUFlQZHV2bU02YWZzdm1vclMwenNYbmZpZkk1UGg?oc=5)
+> Chinese authorities handed down a death sentence to an official convicted of spying and leaking national secrets. [— AP](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYnJaVllJLVpfeVZhdFJmdF9IWDExdmg0Mk4yRTVKUmJINUloN2N3cWpZelpuMTYySDRqcU5JeEo2di1KeTB0VGdyaGtjdnNCcGRSWUc4QnlHTF81bkltN2dUeGVmekdqa2JPMDd2b0lOVnRuVTdPcWc5MGE4cVlKeERzS2dYNDNPSWVLSw?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Roundup settlement
+> ### Alleged cartel leader arrested in Mexico
 >
-> Bayer will pay up to $7.3 billion to resolve roughly 65,000 claims that its Roundup weedkiller causes non-Hodgkin lymphoma, after a Missouri judge approved the deal. [— 1440](https://join1440.com/today)
+> Mexico confirmed the U.S. has requested extradition of Fausto Isidro Meza Flores, an FBI top-10 fugitive tied to the Los Mazatlecos group; his arrest, aided by a U.S. drone, was followed by violence in Sinaloa that left about 20 dead. [— 1440](https://join1440.com/today)
 >
-> ### Wall Street sell-off
+> ### NATO answers Russian missiles that landed in Poland
 >
-> An AI-driven slide pushed the S&P 500 and Dow into correction territory and wiped out the Nasdaq's gains for the year. [— 1440](https://join1440.com/today)
+> After three Russian missiles fell in Poland, NATO agreed to send an early-warning aircraft to the country. [— 1440](https://join1440.com/today)
 >
-> ### Waymo recalls
+> ### Amazon to buy Decart's chip software
 >
-> Waymo filed recalls to stop its robotaxis from entering closed freeway lanes and to improve how they follow manual directions from emergency responders. [— 1440](https://join1440.com/today)
+> Amazon agreed to acquire the Israeli AI startup's chip software for about $7.5 billion, while CrowdStrike plans a roughly $44 billion all-stock purchase of Zscaler. [— 1440](https://join1440.com/today)
 >
-> ### Baltic tensions
+> ### Women's World Cup 2031 goes to North America
 >
-> Finland partly restricted air and sea traffic after drones struck a Russian cargo ship in the Gulf of Finland, and Estonia plans to temporarily close road crossings with Russia after an attempted arson attack. [— 1440](https://join1440.com/today)
+> FIFA confirmed the U.S. will co-host with Mexico, Costa Rica and Jamaica; the Mets also signed pitcher Tarik Skubal to a record nine-year, $450 million deal. [— 1440](https://join1440.com/today)
 >
-> ### Mailchimp sale
+> ### Storms threaten Thanksgiving travel
 >
-> Italy's Bending Spoons agreed to buy Mailchimp for $3.7 billion, less than a third of what Intuit paid in 2021. [— 1440](https://join1440.com/today)
+> Forecasters see storms, possibly a bomb cyclone, on both coasts that could snarl travel on the East Coast. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Arizona leaders press feds on delayed Flagstaff flood work
+> ### Grand Canyon superintendent Ed Keable to retire
 >
-> State officials are urging federal agencies to speed up long-delayed flood-protection projects for Flagstaff, as the county also responded to flooding in the Moenkopi Wash this week. [— KJZZ](https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2xsbjEzNi1xcnZHZHVaakhid3lWWnp1X3BlR3VxWjNIOHQxNDF3Mi1CVE1LYWlXc2s0RWxXdGFjQi10N3ZEem8xZjBrdERfZTRxMnZ1bU8teVNxdkdQQzJEWHdOTWM3cUhWLXRHWVNjTUsxeEhzcWRUVUFNUnZsd2NITzJDVFNmazBMQmJ3bGpFZ3RXNUxWTkgySXZ4Q0VtdDRqUDJNV2VRR01BYXRMczJoR3FBTXpNdFZGSGNvRXBCaFowM1dV?oc=5)
+> Keable, who has led Grand Canyon National Park since 2020, announced he will step down effective December 31. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-23/grand-canyon-superintendent-ed-keable-announces-retirement)
 
 > [!section] Iran Desk
 > #### The War
-> ### U.S. weighs delaying Iran strikes despite Israeli pressure
+> ### Iran vows to use "all available means" against US blockade
 >
-> Iran International reports Washington is considering holding off on new strikes even as Israel pushes for military action. [— Iran International](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9adkZlN1ZVUGNvcmx4ajloYkFZaEpLeDNzMFpzdVNNZGhEOGNkVUxWRWlKb21LSUw2U1pLZl9tTDZkc3E2ZUIzWWtJSWNuS1RhRXc?oc=5)
+> Tehran's foreign ministry said it will counter the U.S. naval blockade, while Iran says Hormuz could reopen within two days if Washington halts hostilities, lifts the blockade and waives sanctions. Iran also reportedly attacked U.S. bases in Bahrain on Saturday. [— Al Jazeera](https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade)
 >
 > #### Inside Iran
-> ### Power cuts return, threatening over a million jobs
+> ### Bootleg alcohol poisons hundreds in three provinces
 >
-> Rolling blackouts are back across Iran, and the outlet reports they put more than a million jobs at risk, amid separate reports of a truck drivers' strike over economic hardship. [— Iran International](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNmZpdjVua2RVQm5OZnFxbkphcHp0alFOREI0WkpyY0d0Tk1yU2FOSFlleGx3blVEaHRKWDZwOHpnOFdjV2FXT1JWcGZTOV9Xcmc?oc=5)
+> Iran International reports 279 people were poisoned across three provinces, with at least 10 dead, fueling anger over the country's alcohol ban. [— Iran International](https://www.iranintl.com/en/202611241220)
 
 > [!section] AI Desk
-> ### OpenAI scientist proposes industry-wide AI limits
+> ### Amazon buys Decart's AI optimization tech
 >
-> OpenAI's chief scientist floated limits on AI development tied to a metric of model intelligence. [— Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5)
+> Amazon will acquire the startup's technology and hire its founders in a reported $7.5 billion deal, aimed at making its Trainium chips more competitive with Nvidia's. [— TechCrunch](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
 >
-> ### U.S. seeks answers on Nvidia's China chip sales
+> ### US tightens AI chip export licensing
 >
-> Treasury Secretary Scott Bessent said the administration wants explanations about Nvidia's chip sales to China. [— Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5)
+> A new Commerce rule requires licenses for advanced chips going to Indonesia, Malaysia, Singapore, Thailand and Brazil, aiming to stop Chinese firms renting computing power there. [— Quartz](https://qz.com/us-ai-chip-reexport-licenses-five-countries-111626)
 >
-> ### AI sell-off pauses as futures rally
+> ### EU Commission warns of data leak after AI-driven cyberattack
 >
-> U.S. stock futures rose after the recent rout in AI-related shares paused, with Asian authorities moving to prop up markets. [— Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5)
+> The European Commission told EU Academy users their data was exposed in a cyberattack that used AI tools. [— AP](https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjNGakREcTJSN1N6bHM5aVhFY2lGVTY4aENmNU5PWHdvQ2JLV0tLZmFweTF1Zk1hQmNFRGFDa25MNkNlQ3dYbEFjNXNfbi16em85LXFkaFhHelB6Y2R0RDJ3TlJJX3dleDE2S0tSZWs4dVgyRU1sYzF4NWZ6a0hxWkxLTEkxUmJVWlR6eDE3djJ4U1MyczI1Mnh5VFNJSGtQRnpJTUNZQXExLXlJ?oc=5)
 
 > [!section] Good News
-> ### One-shot gene-editing therapy cuts bad cholesterol by about half
+> ### One-of-a-kind walrus refuge protected forever in Alaska
 >
-> A first human trial of a CRISPR-based therapy reported roughly a 50% drop in LDL cholesterol after a single injection. [— Good News Network](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTU5OTFYRWhSWlZyVTZGTmYwZGxWWWJaOE5HN1lnRXdkMTk2T1BUU0RmMVBfc0NRbU0yak9WRG4zaHNWajNUbVBLMTNydzZrLWxKN3gwclh4XzJybEZ4QTEwd2lNUWt4VWdydkFTMi1PbXpLVWFPN1J4elh0NjlNc25yamE1NnNxU2hhNGE2dDJZWXBlMG9xOVk0X3ZGN0lqMnJTQ1pXUENCOHlKT3c?oc=5)
+> An Alaskan refuge that shelters about 200,000 walrus has been permanently protected. [— Good News Network](https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/)
