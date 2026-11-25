@@ -1,98 +1,102 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-24 06:20 MST
+updated: 2026-11-25 06:20 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" alt="🦋"><span class="np-bubble">Good morning, Flagstaff! Flutter into a crisp Tuesday with the news.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a6/512.gif" alt="🦦"><span class="np-bubble">Happy Thanksgiving eve, Flagstaff! Bundle up and dive into the news.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Tuesday, November 24, 2026 · Vol. 1, No. 328
+Flagstaff, Arizona · Wednesday, November 25, 2026 · Vol. 1, No. 329
 
 > [!lead] Front Page
-> ### Nvidia's board brings Jensen Huang back as CEO
+> ### An unclassified CIA system was breached in a cyberattack, AP source says
 >
-> Days after saying it would not rehire him, Nvidia's board reversed course and reinstated Huang, who resigned earlier this month. Nvidia shares jumped roughly 30% and U.S. stocks recovered about half of last week's losses, though Huang still faces an internal investigation and congressional scrutiny. [— AP](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5)
+> A source told The Associated Press that hackers broke into an unclassified computer system at the Central Intelligence Agency. Public details were still thin at the time of writing, including who was behind the intrusion and what information may have been reached. The word "unclassified" suggests the agency's classified networks were not the ones affected. [— AP](https://news.google.com/rss/articles/CBMimwFBVV95cUxORFJXS0ZrRlpQVzZydVYtcFMzeVpIYU1UeThIZzFsZkt0Y2dSeEszT3g5eWpqSk9UTnhFb0RYbFlrX1hDczI5cmk5XzRIdzZ5eDI1d0J2M2hwV2lnSG5xUjdBYk03V3k4Y1plVkpuTU41V21ZRGxHYkt0VlhvUjlKNlh4QnpRWWcxOFFQb1gwSmFTNkFheHFFWFdTRQ?oc=5)
 
 > [!section] Top Stories
-> ### Ukraine strikes Russian ships at a naval base in Libya
+> ### Kilmar Abrego Garcia, who fought his mistaken deportation, leaves the US voluntarily for Spain
 >
-> Zelenskyy claimed a drone attack on Russian vessels docked in Libya, far from the front lines, opening a new Mediterranean theater in the war. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGJMRW1Walh4UFRXQldMQUlQU3l2XzZUOFZSZS1sZUxRM0syc2MwR0ZDZkMtdXN5cVlYSnhmamo3NXJRdXQ2aVEtVVRGbk9rNUxSTWdBUWVtTmNoOUtObl8xajZGSGV5S01OOTV2ZjRYaXZrVHgweWJ4U1k4eUQ1QmQ1VkNfRlF4QnpTMnBmeDA4M1NCVVExRG1XMXJ6ekFXNEpPTlNobw?oc=5)
+> Abrego Garcia, the Maryland man whose wrongful deportation to El Salvador became a high-profile immigration fight, has left the United States on his own and gone to Spain. [— AP](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGdEdUx0allNYzBCT3ZnQURKRGZEb2xzU1h6cm94cFZuR04zdG5wVUtyZzlzYkhDN1VMWUh6R2JQdmNBUnh5aGV1NzE0alE3eERBM0M5NDlXVUVqajN1SjZfTlVmV1RhbHY3WE82Nm5DTGhZSFFoT3p5UVc2bi10ZnNqME44Wm9aREcxYXk2QXM0aGtZdEVfQU9EY2NkT2lkRHB2SnFuemEyOXVTQmlv?oc=5)
 >
-> ### Appeals court opens a path for Trump to erase his hush money conviction
+> ### Fort Hood shooter Nidal Hasan asks court to delay firing-squad execution
 >
-> A federal appeals court ruling gives the president a route to try to overturn his New York conviction. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVdZZl9tRjc0WjhZbUY0NVZvdTRDQ01ZOTl4RmZUQndRR0ZHRmpkRVJ6ZjFCQzJYVml0cnoycjNWaW1rWWVENmJHbS1xaHZLc1U5azdFRmU4UmdDa0thQmlkeW9GZlhmeElDTS1NWXFHUmJPOFFBZU1rbml2dWxQQnRMVTMwSmxDTDFPQU92WTJBaUNEclZB?oc=5)
+> Hasan, the former Army psychiatrist sentenced to death for the 2009 Fort Hood shooting, is asking a court to postpone a firing-squad execution so he can keep challenging his sentence. [— AP](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0FKNHlHNndoa1p1a08zekt3aUZXNkJ3SkF2ckQtYy1NTVFoVHRXdHliYThvNzk2M2E1RlhxOUZ3MEVnR2JvR3phc2JERXRBWXlEQkZ0djM1bnlxb2g2blJ6MWtvYjlmNzhPQUE3TU9pNEkyajFhLThzT053d25Oby1BRFhRTlA1cHhNVS0zdEdBM3FwMzZTb0pPTDcwWklkTFdB?oc=5)
 >
-> ### Rep. Jimmy Gomez resigns from Congress
+> ### Armed men take hostages in Cartagena, one of Colombia's top tourist destinations
 >
-> The California Democrat stepped down after the House Ethics Committee said it found evidence of sexual misconduct. [— AP](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkIzeGhIdlZKM1NTNnVWN3V1eHhyZEtkcU9zd2F6ZFpuc0ZyWUVScHRmT0I0VTU1NlFBYXFTc1U1NmVPSnVwWVZUS3dQd3ByRTg5MERGaUhheE15UFdpQWYtZ0ZYdTNMR3Nmb3BIN09KTHZYZm9yWVdqME03UGdqMHl6T0QtbjJCOGtSX0JQem16ZGotM2dsdXVaN3piZWNqZDhTb01hU2lKcmxFc1lqSlFPMkg?oc=5)
+> Armed men seized hostages in the Caribbean coastal city of Cartagena, a major tourist draw, according to AP. Few details were available in early reporting. [— AP](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmQxNjdHUmVZb1FUd2lQTGtMMTV2dGRQVndXR3hUbnhTUXZVb0E2azFEeENEclY3dXp1MlJrX3pEZ2pmSGdWQUNBSE9yM2hJQVE2VUNXdXZMOUJuWDlzRFpQc3ZldDNjTzVnSlVZZUJ5YXRnOVR2RUtxM2R2TldWUmJuZmRielBJV21od3BQOVBpZU9jRmVud1RnQ0M4NTd3?oc=5)
 >
-> ### Princeton neuroscientist held by ICE after airport detention
+> ### AP investigation: The DEA allowed 1.4 million fentanyl pills to go unseized in major probe
 >
-> A Chinese neuroscientist affiliated with Princeton is in immigration custody after being detained at a Washington-area airport. [— AP](https://news.google.com/rss/articles/CBMipwFBVV95cUxObVdMZDlteGtHYVhFZERUMlRkNEFRM2pVcHJzRzVsTzFrMlVyenFzQ2JXeVl0dTBOVlZFYzNkMU83Z25iTXN0S3c3V0ZjNEoxV3dscE05M2hPaEk0V18wZm54MWxWUUtFY1p6d19yZktaS25KTFBTNHBtb0VXWWczZGJuUFRQbXVUaDJvUDZLbzFMOEQyZ0k5dHoyQ2VqTEFjVFphQ0tvQQ?oc=5)
+> An AP investigation reports that the Drug Enforcement Administration let roughly 1.4 million fentanyl pills go unseized during a large investigation, apparently while agents built a bigger case. [— AP](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdXZxMmxEOXBZTFJ1ZHRTN29nUGQ2YjFBVDU2NmZpTnNpOWtuOTV2MkZkamV4LUFFY21ob0tabDVFWFpYSUVZNWktOW55XzFSeW81MlBpOE8taU51d0U0eTE0TWJqSEU0akNza1FYLThBNDdURENxUWt3MC1xaFFoTFNHNkN5MVNVdnlqakR1bWhjVjJRQTJDc2FfdnZUTU0?oc=5)
 >
-> ### Democrats plan 12 debates for the 2028 primary
+> ### A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya
 >
-> The party's schedule would start with a debate in June 2027, according to AP. [— AP](https://news.google.com/rss/articles/CBMirAFBVV95cUxORGE1Z0o0bFp6aHVKel9xNlhhaEdEWUpua3l1Y0dQNzZmVGQzaU5pTTVYT1RmS2FKRnd6R1ZHaVVaOGp2bUpTU1FYQVE1enFQcDVJMk9ENUNNWDNpUE8xdnByT3YwNG92Z1BxVXl3RFFvNlhoOUkxWURCUEVUcGdBZmJSUzMxWnAybG9UQ0ZBZFhJZjRHczU2bk5MRzJnSXVSQnFRUzIyVVlrR0JJ?oc=5)
+> A Russian attack on Ukraine left two people dead and 48 injured. Separately, Kyiv is explaining a drone strike in Libya that Libya's army says killed two of its naval officers, prompting a vow of retaliation. [— AP](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnR2aXdGN1dOTnJ1QmhWQWhjWnEwOHQ3QzJ2VExKcHRVZEE3TlloVi11NnJRajdKaThMRGIxeElNM2ZvWWJ5c2dmT2xLbzA1ZHRra0JHTGdteC03dXA5RWFXWTMxejFtSC1odHJiem9QOTY1eWN6OXVEQjV4eUtXX1duQTFLellMcjBCb0NzLUIwT0c1S1FFZEU5N2ZLc3M?oc=5)
 >
-> ### Army gets court approval to detonate old bomb-making material in Iowa
+> ### China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut
 >
-> A court cleared the way for the Army to destroy degraded lead azide stored in Iowa. [— AP](https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnFzVFZqMjBjY2Y1cll0UUxLU2VQMktTZDQ5QmFpaENUUzBXeHJJRS1nQUtpLUdhYVFVbnUxaGI1d1lWc0lwSUM1MWVNcGY0MlVEY3dDbFRXbGxMX3BvRzMzYnFhcTZFUG1xcTh6bDRlQVNhR1JlVmxxVEJ6S2xCZjZxRDgtcGFZWndwUUJ3RkdGLWFDakE?oc=5)
+> China sent a crew of two Chinese astronauts and one Pakistani astronaut toward its space station, the first time a foreign astronaut is set to board it. [— AP](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3M0QnJvdnFlSmxYai1OZWNwd0pYOFVKa2t3UDZhLXZkcXVkcmNOZHU2ZEVCQk1HX0liM2ZVb3piZDFiaE5SSkY2MWdZeFNmOVhTWkM3RDdqSHYySDNkSTNwcExoemNqTWtoLWNQV1VDNXota0w3Ym1FLUZxOXFPZnB3UlllbEJySmhJ?oc=5)
 >
-> ### China sentences an official to death for spying
+> ### Trump gives the Medal of Freedom to Giuliani
 >
-> Chinese authorities handed down a death sentence to an official convicted of spying and leaking national secrets. [— AP](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYnJaVllJLVpfeVZhdFJmdF9IWDExdmg0Mk4yRTVKUmJINUloN2N3cWpZelpuMTYySDRqcU5JeEo2di1KeTB0VGdyaGtjdnNCcGRSWUc4QnlHTF81bkltN2dUeGVmekdqa2JPMDd2b0lOVnRuVTdPcWc5MGE4cVlKeERzS2dYNDNPSWVLSw?oc=5)
+> President Trump awarded the Presidential Medal of Freedom to Rudy Giuliani, a close political ally who was New York's mayor during the 9/11 attacks. [— AP](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYUQ2bU9lbFNyQ3k1Vl9qSWFtRURxSGJvekRlcVo1WjRJNllBS1UzME13bUJWdmJBMFUwM1FVY3NQTnNLeGFxRThHVTV0Vkd2OS1DZlJaTS1lc0szM054Tm9ETEpFNDI1NjJyVFZYTklQWWdmXzBaZDN0YmRWMFVid0dRUkVMV1p6NTJfN1BfNjF4Zw?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Alleged cartel leader arrested in Mexico
+> ### Turkey Day Tally
 >
-> Mexico confirmed the U.S. has requested extradition of Fausto Isidro Meza Flores, an FBI top-10 fugitive tied to the Los Mazatlecos group; his arrest, aided by a U.S. drone, was followed by violence in Sinaloa that left about 20 dead. [— 1440](https://join1440.com/today)
+> About 81.5 million Americans are expected to travel 50 miles or more for Thanksgiving, mostly by car. Hosts expect to spend an average of $58.63 to feed 10 people, up 6% from last year. [— 1440](https://join1440.com/today)
 >
-> ### NATO answers Russian missiles that landed in Poland
+> ### Iowa Braces for Blast
 >
-> After three Russian missiles fell in Poland, NATO agreed to send an early-warning aircraft to the country. [— 1440](https://join1440.com/today)
+> The Army plans to detonate 68 barrels of degraded lead explosives at a southeastern Iowa facility this morning after a court found dust safeguards sufficient. Residents within five miles are urged to evacuate through at least Friday. [— 1440](https://join1440.com/today)
 >
-> ### Amazon to buy Decart's chip software
+> ### State of the House Races
 >
-> Amazon agreed to acquire the Israeli AI startup's chip software for about $7.5 billion, while CrowdStrike plans a roughly $44 billion all-stock purchase of Zscaler. [— 1440](https://join1440.com/today)
+> Democrat Victoria Broderick unseated Tennessee Rep. Scott DesJarlais, giving Democrats their largest House majority since the early 1990s. Three races remain uncalled, including a Minnesota recount starting Nov. 30. [— 1440](https://join1440.com/today)
 >
-> ### Women's World Cup 2031 goes to North America
+> ### Stock Markets Close Mixed
 >
-> FIFA confirmed the U.S. will co-host with Mexico, Costa Rica and Jamaica; the Mets also signed pitcher Tarik Skubal to a record nine-year, $450 million deal. [— 1440](https://join1440.com/today)
+> The S&P 500 slipped 0.5% and the Nasdaq fell 1.5%, dragged by AI-linked stocks such as Nvidia, while the Dow rose 0.9%. [— 1440](https://join1440.com/today)
 >
-> ### Storms threaten Thanksgiving travel
+> ### Robotaxi Testing Begins
 >
-> Forecasters see storms, possibly a bomb cyclone, on both coasts that could snarl travel on the East Coast. [— 1440](https://join1440.com/today)
+> Uber and Nuro started driverless testing of Lucid SUV robotaxis in the San Francisco Bay Area, aiming for a commercial launch in early 2027. [— 1440](https://join1440.com/today)
+>
+> ### Tobacco Plants for Cancer Drug
+>
+> Scientists engineered tobacco plants to produce paclitaxel, a cancer treatment, which could eventually make the drug cheaper to produce. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Grand Canyon superintendent Ed Keable to retire
+> ### Grand Canyon Superintendent Ed Keable announces retirement
 >
-> Keable, who has led Grand Canyon National Park since 2020, announced he will step down effective December 31. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-23/grand-canyon-superintendent-ed-keable-announces-retirement)
+> Keable says he will retire at the end of the year, following a critical report on how the Dragon Bravo Fire was managed and allowed to spread. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-23/grand-canyon-superintendent-ed-keable-announces-retirement)
 
 > [!section] Iran Desk
 > #### The War
-> ### Iran vows to use "all available means" against US blockade
+> ### Think tanks: Iran appears to be developing new ballistic missiles
 >
-> Tehran's foreign ministry said it will counter the U.S. naval blockade, while Iran says Hormuz could reopen within two days if Washington halts hostilities, lifts the blockade and waives sanctions. Iran also reportedly attacked U.S. bases in Bahrain on Saturday. [— Al Jazeera](https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade)
+> Two US think tanks say Iran seems to be working on new ballistic missiles that could be more accurate and better at evading air defenses, though it is unclear whether Iran can mass-produce them. [— Iran International](https://www.iranintl.com/en/202611258774)
 >
 > #### Inside Iran
-> ### Bootleg alcohol poisons hundreds in three provinces
+> ### Students who joined campus protests barred until they show "remorse"
 >
-> Iran International reports 279 people were poisoned across three provinces, with at least 10 dead, fueling anger over the country's alcohol ban. [— Iran International](https://www.iranintl.com/en/202611241220)
+> Iran's Science Ministry says students who took part in this year's campus protests will stay barred from universities unless they show remorse, without saying how that would be judged. [— Iran International](https://www.iranintl.com/en/202611259185)
 
 > [!section] AI Desk
-> ### Amazon buys Decart's AI optimization tech
+> ### Anthropic shares fall below IPO price
 >
-> Amazon will acquire the startup's technology and hire its founders in a reported $7.5 billion deal, aimed at making its Trainium chips more competitive with Nvidia's. [— TechCrunch](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
+> Anthropic's stock dropped to as low as $76 on Tuesday, under its $83 IPO price and well below its $111.50 debut less than a week earlier. The slide is being read as a sign of investor jitters that could weigh on private AI startup valuations. [— TechCrunch](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/)
 >
-> ### US tightens AI chip export licensing
+> ### Nvidia still faces questions over alleged chip smuggling via Megaspeed
 >
-> A new Commerce rule requires licenses for advanced chips going to Indonesia, Malaysia, Singapore, Thailand and Brazil, aiming to stop Chinese firms renting computing power there. [— Quartz](https://qz.com/us-ai-chip-reexport-licenses-five-countries-111626)
+> Investigators in several jurisdictions are examining claims that Singapore-based Megaspeed, which denies wrongdoing, funneled advanced Nvidia GPUs to China, with a focus on what Nvidia knew. Jensen Huang faces congressional questioning, including a Senate Banking hearing on Dec. 3. [— TechCrunch](https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/)
 >
-> ### EU Commission warns of data leak after AI-driven cyberattack
+> ### New benchmark finds top AI agents still fail everyday tasks
 >
-> The European Commission told EU Academy users their data was exposed in a cyberattack that used AI tools. [— AP](https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjNGakREcTJSN1N6bHM5aVhFY2lGVTY4aENmNU5PWHdvQ2JLV0tLZmFweTF1Zk1hQmNFRGFDa25MNkNlQ3dYbEFjNXNfbi16em85LXFkaFhHelB6Y2R0RDJ3TlJJX3dleDE2S0tSZWs4dVgyRU1sYzF4NWZ6a0hxWkxLTEkxUmJVWlR6eDE3djJ4U1MyczI1Mnh5VFNJSGtQRnpJTUNZQXExLXlJ?oc=5)
+> A benchmark built from more than 10 million real-world agent interactions found leading models from OpenAI, Anthropic and Meta failed over a third of ordinary personal tasks. About 16% of attempts also broke at least one safety requirement. [— TechCrunch](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
 
 > [!section] Good News
-> ### One-of-a-kind walrus refuge protected forever in Alaska
+> ### Viral infections fall 68% in Brazil after release of Wolbachia-infected mosquitoes
 >
-> An Alaskan refuge that shelters about 200,000 walrus has been permanently protected. [— Good News Network](https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/)
+> Researchers report that releasing mosquitoes carrying Wolbachia bacteria cut viral infections by 68% in parts of Brazil. [— Good News Network](https://www.goodnewsnetwork.org/major-success-sees-viral-infections-fall-68-in-brazil-after-releasing-wolbachia-infected-mosquitoes/)
