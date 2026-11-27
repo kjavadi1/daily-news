@@ -1,98 +1,79 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-26 06:20 MST
+updated: 2026-11-27 06:14 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f43f_fe0f/512.gif" alt="🐿️"><span class="np-bubble">Happy Thanksgiving, Flagstaff! Stash some pie for later.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾"><span class="np-bubble">Good morning! Hope your Thanksgiving leftovers are holding up this Friday.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Thursday, November 26, 2026 · Vol. 1, No. 330
+Flagstaff, Arizona · Friday, November 27, 2026 · Vol. 1, No. 331
 
 > [!lead] Front Page
-> ### US proposes new tariffs on China, EU, Brazil and others over subsidized factories
+> ### China and other trading partners push back on Trump's new tariff plans
 >
-> The Trump administration announced plans for higher tariffs on a group of major trading partners, saying their government-backed industrial capacity has flooded markets. The levies are proposed under Section 301 of trade law, and the list includes China, the EU and Brazil, with a public comment period and hearing expected before any duties take effect. China and the EU have rejected the premise, and Brazil has not ruled out retaliation. [— AP](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5)
+> China and several other US trading partners have responded critically to the president's latest tariff proposals. The reactions raise the prospect of another round of trade friction just as holiday shopping season begins. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWQ3MnMzTlQ5Y2lUTW9RTzloTmp3MmtycjBUbmZUOTExYWNsVmlXX1JmLVJGYUYyRjNHSGV1b2hzLWhWclNBRDRZb2hyQ2UxSE9tYktjUTBKR2VDU2w1YlZlU0xaZ0JSMlQ1ZzhwMEJpSVk5N05XbHhnNi1ESktvTVNGNlZpMkNjX0dUNHdvLWJ2YTVqeDFv?oc=5)
 
 > [!section] Top Stories
-> ### Fuel tanker crash sets Cairo highway ablaze, killing at least 31
+> ### Trump calls pre-election GDP figures 'fake'
 >
-> A fuel tanker crashed on a busy road around the Egyptian capital, igniting a huge fire that killed at least 31 people and injured around two dozen more. [— AP](https://news.google.com/rss/articles/CBMikgFBVV95cUxNaEhpcnZZbkFLdDdZb1VrR2laRkJMMUxDYi1FZHZPOUo0LVpBdl9wUUlXMG1Ealh0eHJOU0o3Q0JSOFU4LXVlcWgyUDd6bDVLa2ZNWGY2aWVId0pnYlNNaHkzSkw2YzdEN3dMN0hGUzNZRktJekRLQWZIbmk5d2lrTElCeXZSV1IxUi0yamFWZzJsUQ?oc=5)
+> The president dismissed the pre-election economic growth numbers as false and called for an investigation of the Commerce Department, which publishes them. [— AP](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWs0NUw0T1MxU0FFajZoSzUzQ2tCblZyZGhDc25mSVpXV0NpczlfWHpwaWdaUEE0T3lFSXdhYl9oUVZ3cTV1ei01aXprNTBoYUJCbG02THdJeGVISENOWjdrVzJpb2pxZEI5aU94VmFCTWU4ckR5MjFjZ2JDMzFibl9WVGZ2Q09PeVo5LXc1WQ?oc=5)
 >
-> ### Army detonates unstable lead azide stockpile in Iowa
+> ### Zelenskyy warns of major Russian strike on power grid
 >
-> The Army set off roughly five tons of degraded explosive chemicals at the Iowa Army Ammunition Plant and called the operation a success after earlier worries about a toxic dust plume. Residents nearby had been told to evacuate or shelter indoors. [— AP](https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5)
+> Ukraine's president says Russia is preparing a large attack on the country's electricity network as winter sets in. [— AP](https://news.google.com/rss/articles/CBMimgFBVV95cUxQR3dNRHNDWkJtLWk2U1poUUJkTjNwb2lHcXZweUN1d3ZNRDRkZ0FsRU5adXNVRzcxWVVvbGE2ZTBYRzZDUlhPa3IwT3JlMlpzS055Z0Rqb3R0RTdHQkwwVXlzSXhXamVNU2c4cS1iQTZoREZicHZKUmVGRHNKQlQ1QjNGMnNWdm1lcWk1Nk9MZ1FJNmRtRjNmZEJB?oc=5)
 >
-> ### Macy's Thanksgiving Day Parade postponed because of bad weather
+> ### EU leaders divided over budget and Ukraine loan
 >
-> Storms with strong winds and heavy rain delayed the New York parade, which organizers say has never before been postponed for weather. The same system is complicating holiday travel for an estimated 81.5 million people. [— AP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0xRS3NTalh5TmtXemJCMTB1Y1ZJWXEwQ0JnNU5WOEc0clZQdkJseU90dllkcl9tcllmeGR2TFRXQ1lZc1ZYTEVNTzNJNGx5Mi0tRTVOVXlFUldFSGVtcUhyVEczNkVnbTQ4RGRRWnVJUENZYjUyRVI5ZEh3alRTWG01cE1fX3dORVd3RWlsbTdlVU9xaEdIa0hDdnRCbnp2NjFMSjBR?oc=5)
+> European leaders disagreed over spending plans and a roughly $49 billion loan to Ukraine. Separately, the EU proposed new Russia sanctions aimed at banks, crypto and sports events. [— AP](https://news.google.com/rss/articles/CBMinwFBVV95cUxObUt5bnNUdEVaVjhETTRjWFI5cnZYaUtyV0R1VE50ZGFPcnJyVmppY2xxeVFpOEtPWURRSFpKUGFXcDVkZGVtZnF2Ykg5aEk2NXY4VTVBVHZQWEstSk9CRGp6cHZLUWhyQkdDQ2ktQjl6WldZSlFRdzhfVUQ0dGNkNlZJaFZKMkFYeWdFUmNQSXdSTDJscjlEcXBZdVdhZWs?oc=5)
 >
-> ### Judge blocks FCC from early license review of ABC stations
+> ### What is driving Spain's election
 >
-> A federal judge barred the FCC from moving ahead with an early review of ABC's local broadcast licenses, siding with the network's argument that the effort had a chilling effect. NPR reports the ruling found the agency violated the network's free speech rights. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGg0cWJHckhVdmhyb3U0YXNWLTFhdmw5OHdYM2t2bVVMSzdENnNtaU94MlZfYkZ0R0htTVU2czd6LTQ2Z2tfREVyOEZLeWhaMmY0OXl5RldKREVraWtxc0ducXJNc1NuNzc4WWtKZjM3X0F5cGlvSGVBZlUza1JxTS1pNDRHaVJObE9YdTZNellnRjJjV3hN?oc=5)
+> AP lays out the main issues in Spain's election and why the outcome matters for Europe, including whether immigration fears could bring the far right into government for the first time since Franco. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVpPaFdxTUpHbXNSemNIelRrb2xZQm5jZTBvT2VncV9EbWdWdjd3ZWdaUVVWSkl0dGpQaFRIcGFicTBKZDlFeG1lMHlyNTV2aHAtYXR6eFM2N2RwTDZyeS10VWtWNjhUcUtoamd3R3IzSzBaXzFDNl9KeXZUZlFRYXhhUUlzcF96OXJmZFpKTXN0ZDNERUY2b1RsYkhvbklYNXpTeW1na3Y?oc=5)
 >
-> ### North Korea's Kim vows more nuclear weapons after ignoring Trump's overture
+> ### Ebola outbreak in Congo reaches 12,000 cases
 >
-> Kim Jong Un pledged to keep expanding his country's nuclear arsenal and did not answer President Trump's recent outreach. [— AP](https://news.google.com/rss/articles/CBMingFBVV95cUxQcjR1N2UyTm5TeG50ZVdtSHRYd1NuZ2lfeWxNQWluM182WUtVUHpGbGRSN05QdkQ2Ti00ZUZzeFFxTE9yMU1SbEVYMlM5RHRicmtoT1R2QTlJUjQ5VFp3Y0RwQmFGRzJpd3lYWmUzUjBFQThMTkhYbGs1TnZSTEF3RnotdE5QVWhaaG54dm9UYW0xQUNJeTg1YXRHZ1JvQQ?oc=5)
+> Violence is forcing some responders to evacuate as the outbreak, caused by a rare Ebola strain, keeps growing. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxOODk5TW1rbDA5Ml84Vzh3OWVzdW12UkFLbXJzQlZSbG9rNTQxZGl1bjBPQ1FsNURnQ21MU3FFX1RqZFVDdzJrSXR5YkRTTndHcERGWUpyaklFeWxlQ2l4aXhKT1ctM1cwMDdtOHg5RHQ3ZmhqVTIyWFVHUWdHSG40WExZWkJSM1lZNndDSFBlbEdNNnM?oc=5)
 >
-> ### Wall Street recovers most early losses as AI-stock pullback eases
+> ### Heavy rain, wind and flooding hit much of the US on Thanksgiving
 >
-> U.S. stocks pared steep morning declines as selling in AI-related companies eased. The market is in a shortened holiday week. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5)
+> Severe weather disrupted holiday plans across large parts of the country, and the Macy's Thanksgiving parade was reported postponed. [— AP](https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkxMTUs5ZzFmZFBCR2pBVGg1TEYwSGlKdVI2LWhaYk4zSno0MTJud0xrNHpralVPQWFmdXhaM3dmUmJNNGRFQk9XSGdRSUpCdmx6ZXUtY2V0SWFxdHplbmh2NHlHVUpsUVlnXzRISDhVd203ZmpLb2F6bzdkQU11bm5jQklqb3FZRi1KeDZGWmxDWDhkYXI5VG9WMjFpWkxULUQ3S0dR?oc=5)
 >
-> ### US-led group agrees to buy Lukoil's overseas assets
+> ### Judge blocks FCC from early license review for ABC
 >
-> A consortium led by American investors reached a deal to acquire assets of the sanctioned Russian oil company Lukoil. [— AP](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdVlVRi1aTHJHaEhQZkh0QmdYSk1IVkQ3bGc4Z21ZdUFhUFROZWE2QnYxVFM5OFd6WEZTMDlsNkViemFlSzRoU2RVRmdTUGZCbnZqTWhWZHg4M1JlWWtQN1JQNDhqa2prbWkzQ25sMjBNa2paR1cteEkxa1NreHZkRElfR2JFZTdYajR0QlFfcnZYNi0yTW5sb0ZDcEljR1pUaGVJMg?oc=5)
+> A federal judge barred the FCC from conducting an early review of ABC's broadcast licenses, which the network said had a chilling effect. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGg0cWJHckhVdmhyb3U0YXNWLTFhdmw5OHdYM2t2bVVMSzdENnNtaU94MlZfYkZ0R0htTVU2czd6LTQ2Z2tfREVyOEZLeWhaMmY0OXl5RldKREVraWtxc0ducXJNc1NuNzc4WWtKZjM3X0F5cGlvSGVBZlUza1JxTS1pNDRHaVJObE9YdTZNellnRjJjV3hN?oc=5)
 
 > [!section] The 1440 Briefing
-> ### Thanksgiving travel and dinner costs
->
-> About 81.5 million Americans are traveling 50 miles or more for the holiday, mostly by car, and hosts are spending around 6% more than last year to feed ten people. [— 1440](https://join1440.com/today)
->
-> ### Remaining House races
->
-> Democrat Victoria Broderick unseated Rep. Scott DesJarlais in Tennessee, giving Democrats their largest House majority since the early 1990s. Three races are still uncalled, including a Minnesota recount starting Nov. 30. [— 1440](https://join1440.com/today)
->
-> ### Redistricting results
->
-> Nine states that redrew their congressional maps are projected to send at least 16 more Democrats to Congress than last cycle, even though the new maps created a net nine Republican-leaning districts. [— 1440](https://join1440.com/today)
->
-> ### Uber and Nuro begin driverless testing
->
-> The companies started driverless tests of Lucid SUV robotaxis in the San Francisco Bay Area, aiming for a commercial launch in early 2027. [— 1440](https://join1440.com/today)
->
-> ### Land mine casualties hit a five-year high
->
-> A watchdog report found land mine deaths and injuries peaked in 2025, with Myanmar the worst affected and Syria's toll rising sharply. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Grand Canyon superintendent Ed Keable to retire at year's end
+> ### Flagstaff Medical Center nurses move to unionize
 >
-> Keable announced he will step down at the end of 2026, following a critical report on how the Dragon Bravo Fire was managed. [— KNAU](https://www.knau.org/)
+> About two-thirds of the hospital's nurses voted to unionize, citing understaffing and safety concerns. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-25/flagstaff-medical-center-nurse-union-push-driven-by-understaffing-safety-concerns)
 
 > [!section] Iran Desk
 > #### The War
-> ### Iran dismisses US blockade as the Hormuz standoff drags on
+> ### US still offers talks as Iran steps up attacks
 >
-> Tehran says it will counter the US naval blockade and keep tight limits on Hormuz shipping until its demands are met, while no formal negotiations have begun. Qatari mediators are shuttling between the sides. [— Iran International](https://www.iranintl.com/en/202611254651)
+> Washington says negotiations remain possible even as Iran increases strikes on US military targets in the region. The Strait of Hormuz remains a central sticking point. [— Al Jazeera](https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops)
 >
 > #### Inside Iran
-> ### Women on death row appeal for help after protests
+> ### Background: the rial's slide squeezes households
 >
-> A rights group says female protesters and dissidents are being sentenced to death in numbers not seen in decades, and families are making desperate public appeals. [— BBC News](https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo)
+> As of late summer a US dollar cost about 2 million rials on the free market, and inflation has pushed families to cut essentials. [— Al Jazeera](https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy)
 
 > [!section] AI Desk
-> ### FCC approves SpaceX plan for up to 1 million data-center satellites
+> ### Nvidia pauses chip shipments to Southeast Asia
 >
-> The FCC authorized SpaceX to launch as many as a million satellites carrying AI chips under its "Starmind" initiative, though scientists question whether it is feasible. [— The Verge](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
+> TechCrunch reports Nvidia has halted shipments of its chips to the region. [— TechCrunch](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)
 >
-> ### S&P weighs downgrading Nvidia's credit rating
+> ### OpenAI merges Chat and Work, warns of tighter limits
 >
-> The rating agency is considering cutting Nvidia a notch to AA-, citing governance and "key man" risks around leadership. [— TechCrunch](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)
+> Heavy ChatGPT users may reach usage caps sooner as the company combines the two products. [— TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
 >
-> ### State attorneys general try to stop Character.AI selling user chats
+> ### Amodei rejects claims Anthropic is giving up human control of AI
 >
-> A coalition of 42 attorneys general objects to the bankrupt company's plan to sell data that includes private chats from over 21 million US accounts, 2.1 million of them minors. [— TechCrunch](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
+> Anthropic's chief executive called the accusations absurd. [— TechCrunch](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
 
 > [!section] Good News
-> ### Twice-yearly HIV prevention shot reaches Africa
+> ### Town gives a new car to the woman behind a giant Thanksgiving meal
 >
-> Lenacapavir, an injection given every six months that is close to 100% effective at preventing HIV, is now arriving in African countries, offering hope to millions. [— BBC News](https://www.bbc.co.uk/news/articles/cmly7jve72r2o)
+> A community thanked a woman whose annual Thanksgiving meal feeds thousands with a new car. [— Good News Network](https://www.goodnewsnetwork.org/town-rewards-a-woman-whose-thanksgiving-meal-feeds-thousands-with-a-new-car/)
