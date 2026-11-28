@@ -1,79 +1,98 @@
 ---
 cssclasses: newspaper
-updated: 2026-11-27 06:14 MST
+updated: 2026-11-28 06:15 MST
 ---
-<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾"><span class="np-bubble">Good morning! Hope your Thanksgiving leftovers are holding up this Friday.</span></div>
+<div class="np-mascot"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖"><span class="np-bubble">Beep boop! Happy Saturday, Flagstaff — bundle up and enjoy the weekend.</span></div>
 
 # The Morning Edition
 
-Flagstaff, Arizona · Friday, November 27, 2026 · Vol. 1, No. 331
+Flagstaff, Arizona · Saturday, November 28, 2026 · Vol. 1, No. 332
 
 > [!lead] Front Page
-> ### China and other trading partners push back on Trump's new tariff plans
+> ### US forces strike another merchant ship trying to run the Iran blockade
 >
-> China and several other US trading partners have responded critically to the president's latest tariff proposals. The reactions raise the prospect of another round of trade friction just as holiday shopping season begins. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWQ3MnMzTlQ5Y2lUTW9RTzloTmp3MmtycjBUbmZUOTExYWNsVmlXX1JmLVJGYUYyRjNHSGV1b2hzLWhWclNBRDRZb2hyQ2UxSE9tYktjUTBKR2VDU2w1YlZlU0xaZ0JSMlQ1ZzhwMEJpSVk5N05XbHhnNi1ESktvTVNGNlZpMkNjX0dUNHdvLWJ2YTVqeDFv?oc=5)
+> The US military said it struck a merchant vessel that tried to breach its blockade of Iranian ports, the latest in a series of ships disabled since the blockade began in April. A US Central Command statement said the ship ignored warnings; Iran has vowed to break the blockade, while mediators including Qatar are pushing for talks. The standoff keeps pressure on shipping through the Gulf region. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTZNR0tfZHB4Qm11eFRLSFJNQjZNejlab0p2TVUzdjBwR1Bsby0xbkZXNVdGbGlBSmJVWGRrVFRhaDVmcW9OTllRcHdYa2VOUjczdkdlQmFGZFZsMm9iUlVKcDZsZkZUYVVFLWFucUlzTnhPYUFpNXlESWd0cDJHbjlMVjlpdVhEX21fSGZLZzlmYks4a21YRUpJSnhDYVFNNlR1MVVld3o?oc=5)
 
 > [!section] Top Stories
-> ### Trump calls pre-election GDP figures 'fake'
+> ### Jury finds Huawei guilty of conspiracy to steal trade secrets
 >
-> The president dismissed the pre-election economic growth numbers as false and called for an investigation of the Commerce Department, which publishes them. [— AP](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWs0NUw0T1MxU0FFajZoSzUzQ2tCblZyZGhDc25mSVpXV0NpczlfWHpwaWdaUEE0T3lFSXdhYl9oUVZ3cTV1ei01aXprNTBoYUJCbG02THdJeGVISENOWjdrVzJpb2pxZEI5aU94VmFCTWU4ckR5MjFjZ2JDMzFibl9WVGZ2Q09PeVo5LXc1WQ?oc=5)
+> A federal jury in New York returned a guilty finding on the trade-secrets conspiracy charge against the Chinese tech giant after weeks of deliberation in a sprawling racketeering case. [— AP](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWtkSWZheUoxZG9WeXhxQmEtNFUySnZraXdadXdHQzRsaDdqbldkRUdOMXRZRngwT3VjMXFVYXBVU0lYZG8ySmRzelRsZzRKWFZNbDBzc2FOaVdFRDlfN2Y5b1NET0lLajYzTmVEWXVha29URkZLSGdiMGx1VXFtOU4yM3lpdWpVU3NqbjhkRGRobHNTdTdKLQ?oc=5)
 >
-> ### Zelenskyy warns of major Russian strike on power grid
+> ### Zelenskyy presses US to pressure Putin
 >
-> Ukraine's president says Russia is preparing a large attack on the country's electricity network as winter sets in. [— AP](https://news.google.com/rss/articles/CBMimgFBVV95cUxQR3dNRHNDWkJtLWk2U1poUUJkTjNwb2lHcXZweUN1d3ZNRDRkZ0FsRU5adXNVRzcxWVVvbGE2ZTBYRzZDUlhPa3IwT3JlMlpzS055Z0Rqb3R0RTdHQkwwVXlzSXhXamVNU2c4cS1iQTZoREZicHZKUmVGRHNKQlQ1QjNGMnNWdm1lcWk1Nk9MZ1FJNmRtRjNmZEJB?oc=5)
+> Ukraine's president urged Washington to lean on Russia and questioned President Trump's description of Putin as a "friend." [— AP](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHZncjd6TjJOQy1tZVlWUVowZ0hBY2NWMjN2d1k3WXdzUlB4VUdlbl9kMDdLTnZ2bzY5eGlZUGFNSEQxYVNCaVNRYWlBTkZneUxoZm5ub1Q2MVd3QjFza1BJWWhiWEQ2Tk1aUE1jVlByV0h6NldmUC1NOUQ5WW5ka3pqdUFwaXI1SEd4VzNzUGNoZ2c5WG5Yd3dFeWpyY0taN3c?oc=5)
 >
-> ### EU leaders divided over budget and Ukraine loan
+> ### Blast at eastern Afghan school kills 7, wounds more than 90
 >
-> European leaders disagreed over spending plans and a roughly $49 billion loan to Ukraine. Separately, the EU proposed new Russia sanctions aimed at banks, crypto and sports events. [— AP](https://news.google.com/rss/articles/CBMinwFBVV95cUxObUt5bnNUdEVaVjhETTRjWFI5cnZYaUtyV0R1VE50ZGFPcnJyVmppY2xxeVFpOEtPWURRSFpKUGFXcDVkZGVtZnF2Ykg5aEk2NXY4VTVBVHZQWEstSk9CRGp6cHZLUWhyQkdDQ2ktQjl6WldZSlFRdzhfVUQ0dGNkNlZJaFZKMkFYeWdFUmNQSXdSTDJscjlEcXBZdVdhZWs?oc=5)
+> An explosion at a school in eastern Afghanistan left seven people dead and over 90 injured, according to AP's report. [— AP](https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzQwcm1zRUVmQVB2b3E5X1Q4RHZxbWRGY1ctOFQwZ1otcC11UUJHM2wyZVBhUGhlTTgxYmt1SFc0N0k1aGlnQmxwVUI4S0dXX3NpdzhXYVg2UTdQc3R2bGNrZFJMempoZ3FTZzFhamFPWGt6TDc4NG5BTElMS3JqSmM4OUVlcFBod09hZnIzcVBwdw?oc=5)
 >
-> ### What is driving Spain's election
+> ### Stocks rise to close a choppy week that was Wall Street's best in over a year
 >
-> AP lays out the main issues in Spain's election and why the outcome matters for Europe, including whether immigration fears could bring the far right into government for the first time since Franco. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVpPaFdxTUpHbXNSemNIelRrb2xZQm5jZTBvT2VncV9EbWdWdjd3ZWdaUVVWSkl0dGpQaFRIcGFicTBKZDlFeG1lMHlyNTV2aHAtYXR6eFM2N2RwTDZyeS10VWtWNjhUcUtoamd3R3IzSzBaXzFDNl9KeXZUZlFRYXhhUUlzcF96OXJmZFpKTXN0ZDNERUY2b1RsYkhvbklYNXpTeW1na3Y?oc=5)
+> US shares climbed on Friday, capping an erratic week that still marked the market's strongest weekly performance in more than a year. [— AP](https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3hvSHlmM1QwQVMyanhDWEpTak5ZZkVwd2RBck9ObnBheXJoYWQxcUxMYXJqb2VhdWRiUVM2ZlNrSmNTYlZVZ1JmYXlRZ0lvclBleFJzRGZjUktHREZkY1JjOS15OVdGdmN5SVRmZUN2T1RVNTR2bnJwWjhfQnR5S015XzZtNmpNd19xbHFUbExjQk1OUTdPRDFxcUotZEZn?oc=5)
 >
-> ### Ebola outbreak in Congo reaches 12,000 cases
+> ### Taiwan waits on local election results as China watches
 >
-> Violence is forcing some responders to evacuate as the outbreak, caused by a rare Ebola strain, keeps growing. [— AP](https://news.google.com/rss/articles/CBMikwFBVV95cUxOODk5TW1rbDA5Ml84Vzh3OWVzdW12UkFLbXJzQlZSbG9rNTQxZGl1bjBPQ1FsNURnQ21MU3FFX1RqZFVDdzJrSXR5YkRTTndHcERGWUpyaklFeWxlQ2l4aXhKT1ctM1cwMDdtOHg5RHQ3ZmhqVTIyWFVHUWdHSG40WExZWkJSM1lZNndDSFBlbEdNNnM?oc=5)
+> Taiwan held local elections on Saturday, with results pending and Beijing closely monitoring the outcome. [— AP](https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEJHN0tUWVBOd3BrNkpaTm1EaHlTeXp1aDZBZnJ1aUdEbkNVUUJJTXdJbFNXVHhLUWJwNUpRV3lUdEZTUl9Kbi1LWkhlWjBmRUdVRlNQQTVOb3JhWW5sb0pVUklXNXlndFJ2VXRNZnF1WENxMXJjTGN3RHJ4d0FreGRZdzN0ZWQ4WVE?oc=5)
 >
-> ### Heavy rain, wind and flooding hit much of the US on Thanksgiving
+> ### ACLU asks court to block efforts to unmask ICE critics online
 >
-> Severe weather disrupted holiday plans across large parts of the country, and the Macy's Thanksgiving parade was reported postponed. [— AP](https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkxMTUs5ZzFmZFBCR2pBVGg1TEYwSGlKdVI2LWhaYk4zSno0MTJud0xrNHpralVPQWFmdXhaM3dmUmJNNGRFQk9XSGdRSUpCdmx6ZXUtY2V0SWFxdHplbmh2NHlHVUpsUVlnXzRISDhVd203ZmpLb2F6bzdkQU11bm5jQklqb3FZRi1KeDZGWmxDWDhkYXI5VG9WMjFpWkxULUQ3S0dR?oc=5)
+> The civil liberties group is seeking a court order to stop the administration from identifying people who criticize immigration enforcement on social media. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWhqalhzSXZNZzJRV25KcDBjQlY0U0ctZmFJTThYTGU3WnctM3BuSGpBbnJhSnRlckxlM1FEelhXcm1Xdkd2czhscUZCOExOejNBTFFESlAwZ3hTc2Q2QkNBRGV2YVpTQ2JLbTZFM2RwMkQyQUc0LVVOVWcwaHoyMnQzYlcxclVLZ1ZNc1V5SkxmSzlMLW5yLWktYjdleWhZM2ZQNDNLVmY?oc=5)
 >
-> ### Judge blocks FCC from early license review for ABC
+> ### Canada's Supreme Court largely upholds Quebec ban on religious symbols for public servants
 >
-> A federal judge barred the FCC from conducting an early review of ABC's broadcast licenses, which the network said had a chilling effect. [— AP](https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGg0cWJHckhVdmhyb3U0YXNWLTFhdmw5OHdYM2t2bVVMSzdENnNtaU94MlZfYkZ0R0htTVU2czd6LTQ2Z2tfREVyOEZLeWhaMmY0OXl5RldKREVraWtxc0ducXJNc1NuNzc4WWtKZjM3X0F5cGlvSGVBZlUza1JxTS1pNDRHaVJObE9YdTZNellnRjJjV3hN?oc=5)
+> The court let stand most of Quebec's law barring many government employees from wearing religious symbols at work. [— AP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOE9BOWJaNlNZVUhPNE90VDU0SDNmbUxQNjZITWlkbEowX3E3d3RaRW1SVXVnbFlhVUh4RmNiUGJmckltOFpvb25PQkV6R05IVnRLNFpCbE1DYTRVenM4Z2I1eWdOeVVJcEdsMlJMYWlIYk4zeFJxYmZYWEI4RTUxNDk5YWxzQVZkdWExcFFkR0xpcUV1b0lMV08tNFlnWG1MZXV1RTZnWGg?oc=5)
 
 > [!section] The 1440 Briefing
+> ### Macy's 100th parade postponed by storms
+>
+> Severe weather pushed back the Thanksgiving Day Parade for the first time in its history; organizers had been watching forecasts of winds near 60 mph. [— 1440](https://join1440.com/today)
+>
+> ### Army destroys unstable explosive compound in Iowa
+>
+> The Army detonated roughly 10,000 pounds of degraded lead azide that risked exploding on its own; follow-up air tests showed minimal lead. [— 1440](https://join1440.com/today)
+>
+> ### Steelers cut Aaron Rodgers
+>
+> Pittsburgh released the quarterback after benching him amid a dispute with coach Mike McCarthy. [— 1440](https://join1440.com/today)
+>
+> ### New tariffs proposed on 14 trading partners
+>
+> The administration floated new tariffs on countries including China, Japan and the EU, citing excess manufacturing capacity in some sectors. [— 1440](https://join1440.com/today)
+>
+> ### Nanorobots aim to deliver drugs to the brain
+>
+> Researchers built microscopic robots steered by infrared light that can cross the blood-brain barrier, a possible future route for treating tumors such as glioblastoma. [— 1440](https://join1440.com/today)
 
 > [!section] Northern Arizona
-> ### Flagstaff Medical Center nurses move to unionize
+> ### Flagstaff Medical Center nurses vote to unionize
 >
-> About two-thirds of the hospital's nurses voted to unionize, citing understaffing and safety concerns. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-25/flagstaff-medical-center-nurse-union-push-driven-by-understaffing-safety-concerns)
+> About two-thirds of the hospital's nurses backed a union, citing staffing shortages and safety concerns. [— KNAU](https://www.knau.org/knau-and-arizona-news/2026-11-25/flagstaff-medical-center-nurse-union-push-driven-by-understaffing-safety-concerns)
 
 > [!section] Iran Desk
 > #### The War
-> ### US still offers talks as Iran steps up attacks
+> ### Iran vows to break the blockade as the rial hits a record low
 >
-> Washington says negotiations remain possible even as Iran increases strikes on US military targets in the region. The Strait of Hormuz remains a central sticking point. [— Al Jazeera](https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops)
+> Tehran pledged to defeat the US naval blockade while its currency neared 3 million to the dollar on the open market. [— Iran International](https://www.iranintl.com/en/liveblog/202611214578)
 >
 > #### Inside Iran
-> ### Background: the rial's slide squeezes households
+> ### Truckers' strike spreads across Iranian cities
 >
-> As of late summer a US dollar cost about 2 million rials on the free market, and inflation has pushed families to cut essentials. [— Al Jazeera](https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy)
+> Drivers in 18 cities are refusing freight work at flat rates as operating costs climb, a sign of strain on daily life. [— Iran International](https://www.iranintl.com/en/202611269125)
 
 > [!section] AI Desk
 > ### Nvidia pauses chip shipments to Southeast Asia
 >
-> TechCrunch reports Nvidia has halted shipments of its chips to the region. [— TechCrunch](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)
+> The chipmaker has halted shipments to the region, a move that could ripple through the AI hardware supply chain. [— TechCrunch](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)
 >
-> ### OpenAI merges Chat and Work, warns of tighter limits
+> ### State attorneys general challenge Character.AI plan to auction private chats
 >
-> Heavy ChatGPT users may reach usage caps sooner as the company combines the two products. [— TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
+> Several state AGs are contesting the company's plan to sell users' private conversation data. [— TechCrunch](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
 >
-> ### Amodei rejects claims Anthropic is giving up human control of AI
+> ### OpenAI merges Chat and Work, warns heavy users may hit limits sooner
 >
-> Anthropic's chief executive called the accusations absurd. [— TechCrunch](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
+> As it combines the two products, OpenAI says its most active ChatGPT users could reach usage caps earlier. [— TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
 
 > [!section] Good News
-> ### Town gives a new car to the woman behind a giant Thanksgiving meal
+> ### Two big rice producers ban a toxic pesticide tied to suicides
 >
-> A community thanked a woman whose annual Thanksgiving meal feeds thousands with a new car. [— Good News Network](https://www.goodnewsnetwork.org/town-rewards-a-woman-whose-thanksgiving-meal-feeds-thousands-with-a-new-car/)
+> Two of the world's largest rice-producing countries have banned a highly toxic pesticide linked to self-poisoning deaths. [— Good News Network](https://www.goodnewsnetwork.org/2-of-the-worlds-largest-rice-producers-ban-toxic-pesticide-linked-to-suicide/)
